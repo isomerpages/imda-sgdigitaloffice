@@ -2,7 +2,7 @@
 layout: homepage
 title: SG Digital Office
 description: Brief site description here
-image: /images/SG DIGITAL OFFICE (FC) RGB.png
+image: /images/SG_DIGITAL_OFFICE_LOGO.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
