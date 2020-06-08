@@ -2,15 +2,15 @@
 layout: homepage
 title: SG Digital Office
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/SG DIGITAL OFFICE (FC) RGB.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: SG Digital Office
-        subtitle: Hero subtitle
+       # title: SG Digital Office
+       # subtitle: Hero subtitle
         background: /images/SGDOfficePage_Carousel.png
-        button: Contact Us
+       # button: Contact Us
         url: /contact-us/
         key_highlights:
             - title: Highlight A
