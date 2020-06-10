@@ -9,9 +9,9 @@ sections:
     - hero:
        # title: SG Digital Office
        # subtitle: Hero subtitle
-        background: /images/SGDOfficePage_Carousel.png
+        background: /images/SDO_Banner-1920x720.jpg
        # button: Contact Us
-        url: /contact-us/
+      #  url: /contact-us/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
