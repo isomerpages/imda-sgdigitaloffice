@@ -9,7 +9,7 @@ sections:
     - hero:
        # title: SG Digital Office
        # subtitle: Hero subtitle
-        background: /images/SDO_Banner-1920x720.jpg
+        background: /images/homepage/SDO-Main-Banner.png
        # button: Contact Us
       #  url: /contact-us/
         key_highlights:
