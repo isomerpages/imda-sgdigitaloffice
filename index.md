@@ -15,13 +15,13 @@ sections:
         key_highlights:
             - title: Seniors Go Digital
               description: Giving seniors more reasons to smile!
-              url: https://google.com
+              url: https://imsilver.imda.gov.sg/seniors-go-digital/
             - title: Hawkers Go Digital
               description: Taking your business into the future!
-              url: https://gmail.com
+              url: /programmes/hawkers-go-digital/
             - title: Join Us
               description: Be a Digital Ambassador!
-              url: /privacy/
+              url: /digital-ambassadors/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
