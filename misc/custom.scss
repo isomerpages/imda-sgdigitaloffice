@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // Agency brand colors
-$primary: #FAE2D8;
-$secondary: #961C56;
+$primary: #961C56;
+$secondary: #702F8A;
 $secondary-hover: #E4002B;
 
 {%- for media-color in site.colors.media-colors -%}
