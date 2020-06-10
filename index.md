@@ -4,7 +4,7 @@ title: SG Digital Office
 description: Brief site description here
 image: /images/SG_DIGITAL_OFFICE_LOGO.png
 permalink: /
-notification: Here's a notification bar you can use!
+# notification: Here's a notification bar you can use!
 sections:
     - hero:
        # title: SG Digital Office
