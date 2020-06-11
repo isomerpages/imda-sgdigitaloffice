@@ -31,7 +31,7 @@ Step 3. Get your E-payment Bonus with 20 or more transactions a month <sup>[3](#
 
 The Government will cover transaction fees (i.e. merchant discount rate payable by merchants) until 31 December 2023<sup>[4](#4)</sup>.
 
-For more information, please contact us at info@imda.gov.sg (email) or call us at 6377 3800. 
+For more information, please contact us at <a href = "mailto:info@imda.gov.sg">info@imda.gov.sg</a> or call us at 6377 3800. 
 
 #### Encouraging your digital journey
 For Food Services and Retail enterprises interested in leveraging digital tools to adapt to safe management practices, the Digital Resilience Bonus will provide additional support of up to $10,000. The payout will offset the cost of adopting solutions from three pre-defined categories, namely business process solutions, digital presence and data-driven operations. Find out more about the [Digital Resilience Bonus here](https://www.imda.gov.sg/digitalresiliencebonus).
