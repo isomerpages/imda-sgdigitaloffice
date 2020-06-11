@@ -11,7 +11,7 @@ NEA Hawker centres (including cooked food and market stalls), HDB coffee shops a
 To help our hawkers safely operate in the post-COVID future, we’ve lined up a few initiatives to get things started. 
 
 #### Go contactless, go e-payment!
-In these extraordinary times, maintaining public health and safety is a top priority. To help stallholders reduce physical contact with their customers, we encourage adoption of the SGQR [1](#1), unified e-payment solution.
+In these extraordinary times, maintaining public health and safety is a top priority. To help stallholders reduce physical contact with their customers, we encourage adoption of the SGQR <sup>[1](#1)</sup>, unified e-payment solution.
 
 Enterprise Singapore (“ESG”) and the Infocomm Media Development Authority (“IMDA”) are partnering the Housing and Development Board (“HDB”), JTC Corporation (“JTC”) and National Environment Agency (“NEA”) to accelerate the roll-out of the Unified e-Payment Solution nationwide in HDB coffee shops, NEA hawker centres and JTC industrial canteens.
 
@@ -26,10 +26,10 @@ This E-Payment Bonus will be paid when the stallholder has completed at least 20
 Starting from June 2020, the SG Digital Office will be deploying a team of Digital Ambassadors to encourage stallholders in over 100 NEA hawker centres and markets, HDB coffee shops and JTC industrial canteens to adopt SGQR codes for e-payment. Keep a look out for our Digital Ambassadors!
 
 Step 1. Talk to your friendly SG Digital Digital Ambassador <br>
-Step 2. Sign up with your NRIC, Current NEA or SFA License and Bank statement [2](#2) <br>
-Step 3. Get your E-payment Bonus with 20 or more transactions a month [3](#3) <br>
+Step 2. Sign up with your NRIC, Current NEA or SFA License and Bank statement <sup>[2](#2)</sup> <br>
+Step 3. Get your E-payment Bonus with 20 or more transactions a month <sup>[3](#3)</sup> <br>
 
-The Government will cover transaction fees (i.e. merchant discount rate payable by merchants) until 31 December 2023[4](#4).
+The Government will cover transaction fees (i.e. merchant discount rate payable by merchants) until 31 December 2023<sup>[4](#4)</sup>.
 
 For more information, please contact us at info@imda.gov.sg or call us at 6377 3800. 
 
@@ -39,10 +39,10 @@ For Food Services and Retail enterprises interested in leveraging digital tools 
 The SG Digital Office is also working closely with partners like Enterprise Singapore and the Heartland Enterprise Centre Singapore (HECS) to support heartland enterprises in their digital transformation. Find out more here. 
 
  
-(#1)1 SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
+<sup>[1](#1)</sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
 
-(#2)2 Photocopies will be needed and as they will be retained during sign-up.
+<sup>[2](#2)</sup> Photocopies will be needed and as they will be retained during sign-up.
 
-(#3)3 Sign up by 31st December 2020. Each transaction is at least $1.
+<sup>[3](#3)</sup> Sign up by 31st December 2020. Each transaction is at least $1.
 
-[4](4)4 The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
+<sup>[4](#4)</sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
