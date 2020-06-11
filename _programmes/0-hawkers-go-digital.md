@@ -39,7 +39,7 @@ For Food Services and Retail enterprises interested in leveraging digital tools 
 The SG Digital Office is also working closely with partners like Enterprise Singapore and the Heartland Enterprise Centre Singapore (HECS) to support heartland enterprises in their digital transformation. Find out more here. 
 
  
-<sup>[1] SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
+<sup>[1]</sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
 
 <sup>[2]</sup> Photocopies will be needed and as they will be retained during sign-up.
 
