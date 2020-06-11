@@ -29,7 +29,7 @@ Step 1. Talk to your friendly SG Digital Digital Ambassador <br>
 Step 2. Sign up with your NRIC, Current NEA or SFA License and Bank statement <sup>[2](#2)</sup> <br>
 Step 3. Get your E-payment Bonus with 20 or more transactions a month <sup>[3](#3)</sup> <br>
 
-The Government will cover transaction fees (i.e. merchant discount rate payable by merchants) until 31 December 2023<sup>[4](#4)</sup>.
+The Government will cover transaction fees (i.e. merchant discount rate payable by merchants) until 31 December 2023 <sup>[4](#4)</sup>.
 
 For more information, please contact us at <a href = "mailto:info@imda.gov.sg">info@imda.gov.sg</a> or call us at 6377 3800. 
 
