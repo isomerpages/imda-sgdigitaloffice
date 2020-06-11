@@ -22,13 +22,14 @@ sections:
             - title: Join Us
               description: Be a Digital Ambassador
               url: /digital-ambassadors/
-    - infobar:
+   # - infobar:
         title: Infobar title
         image: /images/SG_DIGITAL_OFFICE_LOGO.png
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
+        
   #  - resources:
         title: Media
         subtitle: Learn more
