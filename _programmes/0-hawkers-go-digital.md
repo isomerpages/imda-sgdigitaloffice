@@ -39,10 +39,10 @@ For Food Services and Retail enterprises interested in leveraging digital tools 
 The SG Digital Office is also working closely with partners like Enterprise Singapore and the Heartland Enterprise Centre Singapore (HECS) to support heartland enterprises in their digital transformation. Find out more here. 
 
  
-<sup>[1](#1)</sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
+<sup>(#1)</sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
 
-<sup>[2](#2)</sup> Photocopies will be needed and as they will be retained during sign-up.
+<sup>(#2)</sup> Photocopies will be needed and as they will be retained during sign-up.
 
-<sup>[3](#3)</sup> Sign up by 31st December 2020. Each transaction is at least $1.
+<sup>(#3)</sup> Sign up by 31st December 2020. Each transaction is at least $1.
 
-<sup>[4](#4)</sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
+<sup>(#4)</sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
