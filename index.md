@@ -24,12 +24,12 @@ sections:
               url: /digital-ambassadors/
     - infobar:
         title: Infobar title
+        image: /images/SG_DIGITAL_OFFICE_LOGO.png
         subtitle: Subtitle
         description: About a sentence worth of description here
-        image: /images/homepage/SDO-Main-Banner.png
         button: Button text
         url: /faq/
-    - resources:
+  #  - resources:
         title: Media
         subtitle: Learn more
         button: View More
