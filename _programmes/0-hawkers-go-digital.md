@@ -11,7 +11,7 @@ NEA Hawker centres (including cooked food and market stalls), HDB coffee shops a
 To help our hawkers safely operate in the post-COVID future, we’ve lined up a few initiatives to get things started. 
 
 #### Go contactless, go e-payment!
-In these extraordinary times, maintaining public health and safety is a top priority. To help stallholders reduce physical contact with their customers, we encourage adoption of the SGQR1, unified e-payment solution.
+In these extraordinary times, maintaining public health and safety is a top priority. To help stallholders reduce physical contact with their customers, we encourage adoption of the SGQR[1], unified e-payment solution.
 
 Enterprise Singapore (“ESG”) and the Infocomm Media Development Authority (“IMDA”) are partnering the Housing and Development Board (“HDB”), JTC Corporation (“JTC”) and National Environment Agency (“NEA”) to accelerate the roll-out of the Unified e-Payment Solution nationwide in HDB coffee shops, NEA hawker centres and JTC industrial canteens.
 
@@ -39,10 +39,10 @@ For Food Services and Retail enterprises interested in leveraging digital tools 
 The SG Digital Office is also working closely with partners like Enterprise Singapore and the Heartland Enterprise Centre Singapore (HECS) to support heartland enterprises in their digital transformation. Find out more here. 
 
  
-1 SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
+[1](1)1 SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
 
-2 Photocopies will be needed and as they will be retained during sign-up.
+(2)2 Photocopies will be needed and as they will be retained during sign-up.
 
-3 Sign up by 31st December 2020. Each transaction is at least $1.
+(3)3 Sign up by 31st December 2020. Each transaction is at least $1.
 
-4 The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
+(4)4 The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
