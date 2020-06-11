@@ -31,18 +31,18 @@ Step 3. Get your E-payment Bonus with 20 or more transactions a month <sup>[3](#
 
 The Government will cover transaction fees (i.e. merchant discount rate payable by merchants) until 31 December 2023<sup>[4](#4)</sup>.
 
-For more information, please contact us at info@imda.gov.sg or call us at 6377 3800. 
+For more information, please contact us at info@imda.gov.sg (email) or call us at 6377 3800. 
 
 #### Encouraging your digital journey
-For Food Services and Retail enterprises interested in leveraging digital tools to adapt to safe management practices, the Digital Resilience Bonus will provide additional support of up to $10,000. The payout will offset the cost of adopting solutions from three pre-defined categories, namely business process solutions, digital presence and data-driven operations. Find out more about the Digital Resilience Bonus here. 
+For Food Services and Retail enterprises interested in leveraging digital tools to adapt to safe management practices, the Digital Resilience Bonus will provide additional support of up to $10,000. The payout will offset the cost of adopting solutions from three pre-defined categories, namely business process solutions, digital presence and data-driven operations. Find out more about the [Digital Resilience Bonus here](https://www.imda.gov.sg/digitalresiliencebonus).
 
-The SG Digital Office is also working closely with partners like Enterprise Singapore and the Heartland Enterprise Centre Singapore (HECS) to support heartland enterprises in their digital transformation. Find out more here. 
+The SG Digital Office is also working closely with partners like Enterprise Singapore and the Heartland Enterprise Centre Singapore (HECS) to support heartland enterprises in their digital transformation. Find out more [here](https://www.imda.gov.sg/for-industry/sectors/retail). 
 
  
-<sup>[1]</sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
+<sup>[#1]</sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
 
-<sup>[2]</sup> Photocopies will be needed and as they will be retained during sign-up.
+<sup>[#2]</sup> Photocopies will be needed and as they will be retained during sign-up.
 
-<sup>[3]</sup> Sign up by 31st December 2020. Each transaction is at least $1.
+<sup>[#3]</sup> Sign up by 31st December 2020. Each transaction is at least $1.
 
-<sup>[4]</sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
+<sup>[#4]</sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
