@@ -17,7 +17,7 @@ sections:
               description: 数码乐龄计划 <br> Program Transformasi Digital untuk Warga Emas <br> மூத்தோர் மின்னிலக்கமயமாதல் திட்டம்
               url: https://imsilver.imda.gov.sg/seniors-go-digital/
             - title: Hawkers Go Digital
-              description: Taking your business into the future
+              description: 摊主乐学数码 <br>
               url: /programmes/hawkers-go-digital/
             - title: Join Us
               description: Be a Digital Ambassador
