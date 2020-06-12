@@ -2,7 +2,7 @@
 title: Hawkers Go Digital
 permalink: /programmes/hawkers-go-digital/
 ---
-[English](#taking-your-business-into-the-future) / [中文](#mandarin) / [bahasa Melayu](#malay) / [தமிழ்](#tamil)
+[English](#taking-your-business-into-the-future) / [中文](#mandarin) / [Bahasa Melayu](#malay) / [தமிழ்](#tamil)
 
 ![image](/images/Hawkers_Banner-2100x1100.jpg)
 
