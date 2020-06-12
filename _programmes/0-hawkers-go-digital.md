@@ -2,7 +2,7 @@
 title: Hawkers Go Digital
 permalink: /programmes/hawkers-go-digital/
 ---
-<div align="right"> EN | CN | ML | TM </div>
+<div align="right"> [EN](#Taking-your-business-into-the-future) | CN | ML | TM </div>
 
 ![image](/images/Hawkers_Banner-2100x1100.jpg)
 
