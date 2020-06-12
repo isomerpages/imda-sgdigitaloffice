@@ -4,8 +4,7 @@ permalink: /programmes/hawkers-go-digital/
 ---
 [English](#taking-your-business-into-the-future) / [中文](#mandarin) / [Bahasa Melayu](#malay) / [தமிழ்](#tamil)
 
-
-![image](/images/Hawkers_Banner-2100x1100.jpg)
+![image](/images/programmes/IMDA_MastheadBanners-INHawker-1500-x-500.jpg)
 
 #### Taking your business into the future
 NEA Hawker centres (including cooked food and market stalls), HDB coffee shops and JTC industrial canteens are an irreplaceable part of Singapore’s food culture—and always will be. 
@@ -60,3 +59,5 @@ The SG Digital Office is also working closely with partners like Enterprise Sing
 <hr>
 
 #### Tamil
+
+![image](/images/Hawkers_Banner-2100x1100.jpg)
