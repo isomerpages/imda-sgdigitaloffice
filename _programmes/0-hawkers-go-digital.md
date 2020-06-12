@@ -2,7 +2,7 @@
 title: Hawkers Go Digital
 permalink: /programmes/hawkers-go-digital/
 ---
-[English](#taking-your-business-into-the-future) | 中文 | bahasa Melayu | தமிழ்
+[English](#taking-your-business-into-the-future) | [中文](Mandarin) | [bahasa Melayu](Malay) | [தமிழ்](Tamil)
 
 ![image](/images/Hawkers_Banner-2100x1100.jpg)
 
@@ -47,3 +47,15 @@ The SG Digital Office is also working closely with partners like Enterprise Sing
 <sup><a id="3">3</a></sup> Sign up by 31st December 2020. Each transaction is at least $1.
 
 <sup><a id="4">4</a></sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
+
+<hr>
+
+#### Mandarin
+
+<hr>
+
+#### Malay
+
+<hr>
+
+#### Tamil
