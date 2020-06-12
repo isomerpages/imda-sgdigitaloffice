@@ -1,5 +1,5 @@
 ---
-title: Hawkers Go Digital
+title: Hawkers Go Digital | 摊主乐学数码计划 | Program Transformasi Digital untuk Penjaja
 permalink: /programmes/hawkers-go-digital/
 ---
 [English](#taking-your-business-into-the-future) / [中文](#mandarin) / [Bahasa Melayu](#malay) / [தமிழ்](#tamil)
