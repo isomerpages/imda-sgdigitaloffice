@@ -13,7 +13,7 @@ Life is more colourful with digital.
 
  
 
-#### SG Digital Office <br>
+#### SG Digital Office<br>
 The SG Digital Office (“SDO”) will drive the Government’s initiatives to accelerate digital adoption in our community, as we embark on a phased recovery post COVID-19.
 
 SDO will mobilise a whole-of-nation movement to accelerate Singapore’s digitalisation by building on and ramping up existing efforts to equip every individual and business with digital tools and skills to participate meaningfully in the new social and economic environment post COVID-19. This movement to drive digitalisation in Singapore will start with two groups: our seniors and our stallholders.
