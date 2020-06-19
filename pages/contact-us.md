@@ -6,9 +6,8 @@ agency_name: SG Digital Office
 locations:
   - title: Address
     address:
-        - 10 Pasir Panjang Road 
-        - #03-01
-        - Mapletree Business City
+        - 10 Pasir Panjang Road
+        - #03-01 Mapletree Business City
         - Singapore 117438
     maps_link: https://goo.gl/maps/EuArjKErgy51tzR18
     operating_hours:
