@@ -21,6 +21,6 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: +65 6377 3800
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
+    - email: info@imda.gov.sg
+  #  - other: Any text here <i>including HTML</i>
 ---
