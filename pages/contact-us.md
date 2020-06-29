@@ -21,6 +21,6 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: +65 6377 3800
-    - email: info@imda.gov.sg
+    - email: info@sdo.gov.sg
   #  - other: Any text here <i>including HTML</i>
 ---
