@@ -3,6 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 
+### test
 1. We thank you for visiting www.sdo.gov.sg (“this Site”). This Site is the official website of the SG Digital Office that resides within the Infocomm Media Development Authority (“IMDA”). Your access and use of this Site constitutes your acceptance and agreement to be bound by these terms and conditions of use (“Terms of Use”). If you do not consent to be bound by these Terms of Use, please discontinue your access and do not use this Site.
 
 2. In case of any violation of these Terms of Use, IMDA reserves the right to seek all remedies available under the law and in equity for such violations. These Terms of Use apply in respect of any and all visits to this Site, both now and in the future.
