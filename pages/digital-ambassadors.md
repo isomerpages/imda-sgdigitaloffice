@@ -3,7 +3,7 @@ title: Digital Ambassadors
 permalink: /digital-ambassadors/
 ---
 
-[English](#a-determined-push-to-help-all-seniors-and-stallholders-go-digital) / [中文](#中文) / [Bahasa Melayu](#Bahasa Melayu) / [தமிழ்](#தமிழ்)
+[English](#a-determined-push-to-help-all-seniors-and-stallholders-go-digital) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
 ##### English
 #### A determined push to help all seniors and stallholders go digital
