@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-[English](#sg-digital-office) / [中文](#新加坡数码转型办事处) / [Bahasa Melayu](#malay) / [தமிழ்](#tamil)
+[English](#sg-digital-office) / [中文](#新加坡数码转型办事处) / [Bahasa Melayu](#pejabat-digital-sg) / [தமிழ்](#tamil)
 
 SG Digital is about helping you connect to everything that matters, making lives better through digitalisation.
 
@@ -38,7 +38,21 @@ Our Digital Ambassadors will look to reach out through various engagement means 
 
 <hr>
 
-#### Malay
+Digital SG adalah untuk membantu anda berhubung dengan semua perkara yang penting, menjadikan kehidupan lebih baik melalui digitalisasi.
+
+Dengan COVID-19 mengubah cara  kita menjalani kehidupan  menjadi digital kini lebih penting daripada sebelumnya. Ini memberi kita peluang untuk membuat penyesuaian dalam cara kita bekerja, belajar dan berinteraksi antara satu sama lain. Ini bermaksud berhubung dengan orang yang kita sayangi, dengan rancangan kegemaran kita, dengan kejadian terbaru dalam komuniti kita, dengan kemudahan yang lebih besar, pada bila masa dan di mana sahaja. Kemungkinannya tiada batas.
+
+Kehidupan lebih berwarna dengan digital.
+
+#### Pejabat Digital SG
+
+Pejabat Digital SG ("SDO") akan mendorong inisiatif Pemerintah untuk mempercepatkan penggunaan digital di komuniti kami, ketika kita memulakan fasa pemulihan bertahap COVID-19.
+
+SDO akan menggerakkan gerakan seluruh negara untuk mempercepatkan digitalisasi Singapura dengan membangun dan meningkatkan usaha yang ada untuk melengkapkan setiap individu dan perniagaan dengan alat dan kemahiran digital untuk mengambil bahagian secara bermakna dalam persekitaran sosial dan ekonomi baru selepas COVID-19. Gerakan ini untuk mendorong digitalisasi di Singapura akan dimulakan dengan dua kumpulan: warga emas dan pegerai kita.
+
+Untuk mendidik dan mendorong semua warga emas serta pegerail di pusat penjaja, pasar basah, kedai kopi dan kantin industri untuk menggunakan digital, SDO akan mengambil dan mengerahkan 1,000 Duta Digital menjelang akhir Jun 2020. Terdiri daripada kakitangan sepenuh masa dan sukarelawan, mereka akan bekerjasama dengan syarikat, kumpulan komuniti dan orang ramai untuk melibatkan kumpulan ini dalam beberapa tahun akan datang.
+
+Duta Digital kami akan berusaha untuk menjangkau melalui pelbagai cara penglibatan untuk meningkatkan kemahiran digital warga emas dan membantu pegerai kita untuk mendapatkan penyelesaian e-pembayaran.
 
 <hr>
 
