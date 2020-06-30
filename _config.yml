@@ -20,10 +20,10 @@ colors:
 
 
 collections:
-  google_analytics: UA-171264522-1
   programmes:
     output: true
 resources_name: media-centre
+google_analytics: UA-171264522-1
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
