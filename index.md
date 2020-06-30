@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: SG Digital Office
-description: Brief site description here
+description: The Singapore Digital Office (SDO), established under the Infocomm Media Development Authority (IMDA), drives our concerted nationwide movement to accelerate digital adoption in our community. To achieve this, SDO will work with like-minded members of the community, corporate entities and individuals to reach out to every citizen, worker and business, to equip them with the digital tools and skills to participate meaningfully in the evolving social and economic environment. Through this whole-of-nation movement, we will ensure every Singaporean has a place in our shared digital future.
 image: /images/SG_DIGITAL_OFFICE_LOGO.png
 permalink: /
 # notification: Here's a notification bar you can use!
