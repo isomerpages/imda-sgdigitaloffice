@@ -76,4 +76,4 @@ Duta Digital kami akan berusaha untuk menjangkau melalui pelbagai cara penglibat
 
 மூத்தோரின் மின்னிலக்கத் திறன்களை வளர்க்கவும், கடைக்காரர்களை மின்-கட்டணமுறைக்கு மாற்றவும் பல்வேறு ஈடுபாட்டு நடவடிக்கைகளை மின்னிலக்கத் தூதர்கள் மேற்கொள்வார்கள்.
 
-[English](#sg-digital-office) / [中文](#新加坡数码转型办事处) / [Bahasa Melayu](#pejabat-digital-sg) / [தமிழ்](#சிங்கப்பூர்-மின்னிலக்க-அலுவலகம்)
+[English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
