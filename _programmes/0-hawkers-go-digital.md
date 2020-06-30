@@ -3,7 +3,7 @@ title: Hawkers Go Digital
 permalink: /programmes/hawkers-go-digital/
 ---
 
-#### Hawkers Go Digital / 摊主乐学数码计划 / Program Transformasi Digital untuk Penjaja / 
+#### Hawkers Go Digital / 摊主乐学数码计划 / Program Transformasi Digital untuk Penjaja / உணவங்காடிக் கடைக்காரர்களுக்கான மின்னிலக்கமயமாதல் திட்டம் 
 
 [English](#taking-your-business-into-the-future) / [中文](#mandarin) / [Bahasa Melayu](#malay) / [தமிழ்](#tamil)
 
