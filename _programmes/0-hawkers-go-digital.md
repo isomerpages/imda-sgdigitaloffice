@@ -44,13 +44,10 @@ For Food Services and Retail enterprises interested in leveraging digital tools 
 The SG Digital Office is also working closely with partners like Enterprise Singapore and the Heartland Enterprise Centre Singapore (HECS) to support heartland enterprises in their digital transformation. Find out more [here](https://www.imda.gov.sg/for-industry/sectors/retail). 
 
  
-: <sup><a id="1">1</a></sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
-
-: <sup><a id="2">2</a></sup> Photocopies will be needed and as they will be retained during sign-up.
-
-: <sup><a id="3">3</a></sup> Sign up by 31st December 2020. Each transaction is at least $1.
-
-: <sup><a id="4">4</a></sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
+<sup><a id="1">1</a></sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
+<sup><a id="2">2</a></sup> Photocopies will be needed and as they will be retained during sign-up.
+<sup><a id="3">3</a></sup> Sign up by 31st December 2020. Each transaction is at least $1.
+<sup><a id="4">4</a></sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
 
 <hr>
 
@@ -87,10 +84,10 @@ The SG Digital Office is also working closely with partners like Enterprise Sing
 
 数码转型办事处也与企发局和新加坡邻里企业中心密切合作，全力支持邻里商家实现数码转型。点击[此处](https://www.imda.gov.sg/for-industry/sectors/retail)了解更多详情。
 
-: SGQR码以快速反应（QR）图码来处理免接触式电子付款交易。
-: 登记时需要影印本存档。
-: 必须在2020年12月31日之前登记。每个交易必须至少$1。
-: 这项计划为摊贩提供统一互通的付费系统。根据协议，商家贴现率为每月付款交易的0.5%。政府为摊贩提供三年的资助，把商家贴现率降至0%。消费者可从19种本地付款应用中任选一种来付费。
+SGQR码以快速反应（QR）图码来处理免接触式电子付款交易。
+登记时需要影印本存档。
+必须在2020年12月31日之前登记。每个交易必须至少$1。
+这项计划为摊贩提供统一互通的付费系统。根据协议，商家贴现率为每月付款交易的0.5%。政府为摊贩提供三年的资助，把商家贴现率降至0%。消费者可从19种本地付款应用中任选一种来付费。
 
 <hr>
 
@@ -128,10 +125,10 @@ Bagi Syarikat Perkhidmatan Makanan dan Runcit yang berminat memanfaatkan alat di
 
 Pejabat Digital SG juga bekerjasama dengan rakan kongsi seperti Enterprise Singapore dan Heartland Enterprise Center Singapore (HECS) untuk menyokong perusahaan kawasan tengah dalam transformasi digital mereka. Dapatkan maklumat lanjut di [sini](https://www.imda.gov.sg/for-industry/sectors/retail).
 
-: SGQR bergantung pada kod Respons Cepat (QR) untuk memproses e-pembayaran tanpa sentuhan.
-: Fotokopi akan diperlukan dan disimpan semasa pendaftaran.
-: Daftar menjelang tarikh 31 Disember 2020. Setiap transaksi sekurang-kurangnya $ 1.
-: Inisiatif ini, menyediakan satu sistem yang boleh dikendalikan untuk pegerai. Di bawah inisiatif tersebut, kadar diskaun pedagang (MDR) sebanyak 0.5% untuk transaksi pembayaran bulanan telah dipersetujui. Pemerintah memberikan sokongan dana selama tiga tahun, menurunkan MDR menjadi 0%. Pengguna boleh memilih untuk membayar menggunakan 19 skema yang ada.
+SGQR bergantung pada kod Respons Cepat (QR) untuk memproses e-pembayaran tanpa sentuhan.
+Fotokopi akan diperlukan dan disimpan semasa pendaftaran.
+Daftar menjelang tarikh 31 Disember 2020. Setiap transaksi sekurang-kurangnya $ 1.
+Inisiatif ini, menyediakan satu sistem yang boleh dikendalikan untuk pegerai. Di bawah inisiatif tersebut, kadar diskaun pedagang (MDR) sebanyak 0.5% untuk transaksi pembayaran bulanan telah dipersetujui. Pemerintah memberikan sokongan dana selama tiga tahun, menurunkan MDR menjadi 0%. Pengguna boleh memilih untuk membayar menggunakan 19 skema yang ada.
 
 
 <hr>
