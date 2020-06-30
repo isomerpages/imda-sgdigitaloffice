@@ -95,32 +95,33 @@ The SG Digital Office is also working closely with partners like Enterprise Sing
 <hr>
 
 ###### Bahasa Melayu
-#### 推动生意转型 积极走向未来
-国家环境局属下的熟食中心和巴刹、组屋咖啡店及工业食堂，一直是新加坡饮食文化的一部分。
+#### Membawa perniagaan anda ke masa depan
+Pusat Penjaja NEA (termasuk gerai makanan yang dimasak dan gerai pasar), kedai kopi HDB dan kantin industri JTC adalah bahagian yang tidak dapat diganti dalam budaya makanan Singapura — dan akan selalu wujud.
 
-为了帮助我们的摊贩在后疫情时代继续安全地做生意，我们推出了多项措施。
+Untuk membantu penjaja kita beroperasi dengan selamat pada masa selepas COVID, kami telah menyusun beberapa inisiatif untuk memulakannya.
 
-#### 使用免接触式电子付款方式！
-在当前这个非常时期，保持公共卫生与安全至关重要。为了帮助摊贩减少与顾客接触，我们鼓励摊贩采用全国统一的SGQR电子付款平台。
+#### Gunakan e-pembayaran, tanpa sentuh!
+Pada masa-masa luar biasa ini, menjaga kesihatan dan keselamatan awam adalah keutamaan. Untuk membantu pegerai mengurangkan hubungan fizikal dengan pelanggan mereka, kami menggalakkan penggunaan kaedah e-pembayaran gabungan SGQR.
 
-新加坡企业发展局和资讯通信媒体发展局正与建屋发展局、裕廊集团及国家环境局合作，加速推动组屋咖啡店、国家环境局属下的巴刹与熟食中心以及裕廊集团工业食堂业者采用统一电子付款平台。
+Enterprise Singapore ("ESG") dan Infocomm Media Development Authority ("IMDA") bekerjasama dengan Housing and Development Board ("HDB"), JTC Corporation ("JTC") dan National Environment Agency ("NEA") untuk mempercepatkan pelancaran Penyelesaian e-Pembayaran Bersatu di seluruh negara di kedai kopi HDB, pusat penjaja NEA dan kantin industri JTC.
 
-在这项计划的新阶段，我们将鼓励摊贩在摊位张贴SGQR码，让顾客选择使用无现金付款方式。摊贩只须张贴一个SGQR码，顾客便能使用DBS PayLah!、GrabPay 以及Singtel Dash等19种本地付款应用来付费。
+Dalam fasa inisiatif baru ini, pegerai akan didorong untuk menggunakan pilihan pembayaran tanpa sentuhan dengan menggunakan label SGQR yang unik di gerai mereka. Dengan menggunakan SGQR, pegerai akan dapat menerima pembayaran melalui 19 skema pembayaran yang berbeza, termasuk DBS PayLah !, GrabPay dan Singtel Dash.
 
-加入电子付款计划的摊贩也能获得奖励金。已经开通电子付款的用户，以及那些在2020年12月31日之前登记开通电子付款的新用户，可获得高达$1,500的奖励金（每个月$300，长达五个月）。
+Terdapat juga insentif kewangan untuk pegerai yang menyertai inisiatif ini. Pengguna Penyelesaian e-Pembayaran Bersatu yang sedia ada dan pendaftaran baru yang menggunakan penyelesaian tersebut pada 31 Dis 2020 boleh menantikan Bonus E-Pembayaran sehingga $ 1,500 ($ 300 sebulan, dalam jangka masa lima bulan).
 
-为了鼓励更多摊贩采用电子付款，政府将给所有持续使用电子付款的摊贩（已开通电子付款及在2020年12月31日之前登记开通电子付款的新用户）高达$1,500的奖励金（每个月$300，任何五个月）。摊贩只要完成至少20个至少$1的交易，他们便可在下个月自动收到奖励金。奖励金计划的有效期为2020年6月至2021年5月。
+Untuk mendorong penggunaan, Bonus E-Pembayaran hingga $ 1,500 ($ 300 sebulan untuk lima bulan) akan diberikan kepada semua pegerai (pengguna sedia ada dan pendaftaran baru pada 31 Disember 2020) yang telah menunjukkan penggunaan berterusan oleh penyelesaian e-pembayaran. Bonus E-Pembayaran ini akan dibayar apabila pegerai telah menyelesaikan sekurang-kurangnya 20 transaksi (sekurang-kurangnya $ 1) pada bulan sebelumnya. Bulan kelayakan adalah Jun 2020 hingga Mei 2021.
 
-#### 如何登记加入计划
-从2020年6月起，数码转型办事处将安排数码大使走入100个国家环境局属下的熟食中心与巴刹、组屋咖啡店及裕廊集团工业食堂，鼓励摊贩采用SGQR码电子付款。不妨跟我们的数码大使打声招呼！
 
-步骤一：向友善的数码大使询问详情。
-步骤二：使用你的身份证、现有的环境局或食品局执照，以及银行结单登记报名。
-步骤三：只须完成至少20个交易，你就能自动获得现金奖励。
+#### Bagaimana untuk mendaftar
+Mulai bulan Jun 2020, Pejabat Digital SG akan mengerahkan satu pasukan Duta Digital untuk mendorong para pegerai di lebih dari 100 pusat dan pasar penjaja NEA, kedai kopi HDB dan kantin industri JTC untuk menerapkan kod SGQR untuk e-pembayaran. Nantikan Duta Digital kami!
 
-政府将承担手续费（也就是商家必须支付的商家贴现率），直至2023年12月31日。
+Langkah 1. Bercakap dengan Duta Digital Digital SG anda yang mesra
+Langkah 2. Daftar dengan NRIC, Lesen NEA  atau Lesen SFA semasa dan penyata Bank anda
+Langkah 3. Dapatkan Bonus E-pembayaran anda dengan 20 atau lebih transaksi sebulan
 
-欲知更多详情，请电邮至info@imda.gov.sg，或拨电6377 3800与我们联系。
+Pemerintah akan menanggung yuran transaksi (iaitu kadar diskaun peniaga yang perlu dibayar oleh pedagang) sehingga 31 Disember 2023.
+
+Untuk maklumat lebih lanjut, sila hubungi kami di info@imda.gov.sg atau hubungi kami di 6377 3800.
 
 #### 鼓励你踏上数码化之旅
 有兴趣使用数码工具来落实安全管理措施的餐饮和零售业者，可申请强化数码能力奖励。该计划可为业者提供高达$10,000的额外资助。这笔资助可用来抵销采用三种指定数码解决方案的成本，即数码化业务流程、电子商务解决方案及数据分析。点击此处了解更多有关[强化数码能力奖励](https://www.imda.gov.sg/digitalresiliencebonus)的详情。
