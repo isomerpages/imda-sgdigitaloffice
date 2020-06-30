@@ -14,7 +14,7 @@ sections:
       #  url: /contact-us/
         key_highlights:
             - title: Seniors Go Digital
-              description: 数码乐龄计划 <br> Gerakan Transformasi Digital untuk Warga Emas <br> மூத்தோர் மின்னிலக்கமயமாதல் திட்டம்
+              description: 数码乐龄计划 <br> Gerakan Transformasi Digital untuk Warga Emas <br> மூத்தோருக்கான மின்னிலக்கமயமாதல் இயக்கம்
               url: https://imsilver.imda.gov.sg/seniors-go-digital/
             - title: Hawkers Go Digital
               description: 摊贩数码化转型计划 <br> Program Transformasi Digital untuk Penjaja <br>
