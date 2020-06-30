@@ -19,9 +19,9 @@ sections:
             - title: Hawkers Go Digital
               description: 摊贩数码化转型计划 <br> Program Transformasi Digital untuk Penjaja <br>
               url: /programmes/hawkers-go-digital/
-            - title: Join Us
-              description: Be a Digital Ambassador
-              url: /digital-ambassadors/
+          #  - title: Join Us
+          #    description: Be a Digital Ambassador
+          #    url: /digital-ambassadors/
    # - infobar:
       #  title: Infobar title
      #   image: /images/SG_DIGITAL_OFFICE_LOGO.png
