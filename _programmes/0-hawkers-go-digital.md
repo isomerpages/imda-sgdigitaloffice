@@ -87,10 +87,10 @@ The SG Digital Office is also working closely with partners like Enterprise Sing
 
 数码转型办事处也与企发局和新加坡邻里企业中心密切合作，全力支持邻里商家实现数码转型。点击[此处](https://www.imda.gov.sg/for-industry/sectors/retail)了解更多详情。
 
-:SGQR码以快速反应（QR）图码来处理免接触式电子付款交易。
-:登记时需要影印本存档。
-:必须在2020年12月31日之前登记。每个交易必须至少$1。
-:这项计划为摊贩提供统一互通的付费系统。根据协议，商家贴现率为每月付款交易的0.5%。政府为摊贩提供三年的资助，把商家贴现率降至0%。消费者可从19种本地付款应用中任选一种来付费。
+: SGQR码以快速反应（QR）图码来处理免接触式电子付款交易。
+: 登记时需要影印本存档。
+: 必须在2020年12月31日之前登记。每个交易必须至少$1。
+: 这项计划为摊贩提供统一互通的付费系统。根据协议，商家贴现率为每月付款交易的0.5%。政府为摊贩提供三年的资助，把商家贴现率降至0%。消费者可从19种本地付款应用中任选一种来付费。
 
 <hr>
 
@@ -123,10 +123,16 @@ Pemerintah akan menanggung yuran transaksi (iaitu kadar diskaun peniaga yang per
 
 Untuk maklumat lebih lanjut, sila hubungi kami di info@imda.gov.sg atau hubungi kami di 6377 3800.
 
-#### 鼓励你踏上数码化之旅
-有兴趣使用数码工具来落实安全管理措施的餐饮和零售业者，可申请强化数码能力奖励。该计划可为业者提供高达$10,000的额外资助。这笔资助可用来抵销采用三种指定数码解决方案的成本，即数码化业务流程、电子商务解决方案及数据分析。点击此处了解更多有关[强化数码能力奖励](https://www.imda.gov.sg/digitalresiliencebonus)的详情。
+#### Menggalakkan perjalanan digital anda
+Bagi Syarikat Perkhidmatan Makanan dan Runcit yang berminat memanfaatkan alat digital untuk menyesuaikan diri dengan amalan pengurusan yang selamat, Bonus Ketahanan Digital akan memberikan sokongan tambahan sehingga $ 10,000. Pembayaran akan mengimbangi kos penggunaan penyelesaian dari tiga kategori yang telah ditentukan, iaitu penyelesaian proses perniagaan, kehadiran digital dan operasi berdasarkan data. Ketahui lebih lanjut mengenai [Bonus Ketahanan Digital di sini](https://www.imda.gov.sg/digitalresiliencebonus).
 
-数码转型办事处也与企发局和新加坡邻里企业中心密切合作，全力支持邻里商家实现数码转型。点击[此处](https://www.imda.gov.sg/for-industry/sectors/retail)了解更多详情。
+Pejabat Digital SG juga bekerjasama dengan rakan kongsi seperti Enterprise Singapore dan Heartland Enterprise Center Singapore (HECS) untuk menyokong perusahaan kawasan tengah dalam transformasi digital mereka. Dapatkan maklumat lanjut di [sini](https://www.imda.gov.sg/for-industry/sectors/retail).
+
+: SGQR bergantung pada kod Respons Cepat (QR) untuk memproses e-pembayaran tanpa sentuhan.
+: Fotokopi akan diperlukan dan disimpan semasa pendaftaran.
+: Daftar menjelang tarikh 31 Disember 2020. Setiap transaksi sekurang-kurangnya $ 1.
+: Inisiatif ini, menyediakan satu sistem yang boleh dikendalikan untuk pegerai. Di bawah inisiatif tersebut, kadar diskaun pedagang (MDR) sebanyak 0.5% untuk transaksi pembayaran bulanan telah dipersetujui. Pemerintah memberikan sokongan dana selama tiga tahun, menurunkan MDR menjadi 0%. Pengguna boleh memilih untuk membayar menggunakan 19 skema yang ada.
+
 
 <hr>
 
