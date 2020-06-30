@@ -5,10 +5,11 @@ permalink: /programmes/hawkers-go-digital/
 
 #### Hawkers Go Digital / 摊主乐学数码计划 / Program Transformasi Digital untuk Penjaja / உணவங்காடிக் கடைக்காரர்களுக்கான மின்னிலக்கமயமாதல் திட்டம் 
 
-[English](#taking-your-business-into-the-future) / [中文](#mandarin) / [Bahasa Melayu](#malay) / [தமிழ்](#tamil)
+[English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
 ![image](/images/programmes/IMDA_MastheadBanners-INHawker-1500-x-500.jpg)
 
+###### English
 #### Taking your business into the future
 NEA Hawker centres (including cooked food and market stalls), HDB coffee shops and JTC industrial canteens are an irreplaceable part of Singapore’s food culture—and always will be. 
 
@@ -53,14 +54,16 @@ The SG Digital Office is also working closely with partners like Enterprise Sing
 
 <hr>
 
-#### Mandarin
+###### 中文
 
 <hr>
 
-#### Malay
+###### Bahasa Melayu
 
 <hr>
 
-#### Tamil
+###### தமிழ்
 
 ![image](/images/Hawkers_Banner-2100x1100.jpg)
+
+[English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
