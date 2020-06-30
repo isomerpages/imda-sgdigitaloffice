@@ -127,7 +127,7 @@ Pejabat Digital SG juga bekerjasama dengan rakan kongsi seperti Enterprise Singa
 
 <sup><a id="1-ml">1</a></sup> SGQR bergantung pada kod Respons Cepat (QR) untuk memproses e-pembayaran tanpa sentuhan. <br>
 <sup><a id="2-ml">2</a></sup> Fotokopi akan diperlukan dan disimpan semasa pendaftaran. <br>
-<sup><a id="3-ml">3</a></sup> Daftar menjelang tarikh 31 Disember 2020. Setiap transaksi sekurang-kurangnya $ 1. <br>
+<sup><a id="3-ml">3</a></sup> Daftar menjelang tarikh 31 Disember 2020. Setiap transaksi sekurang-kurangnya $1. <br>
 <sup><a id="4-ml">4</a></sup> Inisiatif ini, menyediakan satu sistem yang boleh dikendalikan untuk pegerai. Di bawah inisiatif tersebut, kadar diskaun pedagang (MDR) sebanyak 0.5% untuk transaksi pembayaran bulanan telah dipersetujui. Pemerintah memberikan sokongan dana selama tiga tahun, menurunkan MDR menjadi 0%. Pengguna boleh memilih untuk membayar menggunakan 19 skema yang ada.
 
 <hr>
