@@ -4,16 +4,21 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/SG_DIGITAL_OFFICE_LOGO.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     url: /about/
   - title: Digital Ambassadors
     url: /digital-ambassadors/
   - title: Programmes
-    collection: programmes
+    url: /programmes/hawkers-go-digital/
+    sublinks:
+      - title: Hawkers Go Digital
+        url: /programmes/hawkers-go-digital/
+      - title: Seniors Go Digital
+        url: https://imsilver.imda.gov.sg/seniors-go-digital/
   - title: Media Centre
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/

@@ -5,9 +5,9 @@
 @charset "utf-8";
 
 // Agency brand colors
-$primary: {{- site.colors.primary-color -}};
-$secondary: {{- site.colors.secondary-color -}};
-$secondary-hover: lighten($secondary, 10%);
+$primary: #961C56;
+$secondary: #702F8A;
+$secondary-hover: #E4002B;
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
@@ -334,4 +334,21 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+	 
+	  // Homepage
+#key-highlights{
+background: $primary;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, $primary, $secondary);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, $primary, $secondary); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	.col {
+		border-left:1px solid darken($primary,10%);
+		@include touch(){
+			border-top:1px solid darken($primary,10%);
+		}
+		&:hover{
+			background-color: darken($primary,10%);
+		}
+	}
 }

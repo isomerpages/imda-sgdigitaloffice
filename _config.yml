@@ -1,6 +1,6 @@
-title: Title
+title: SG Digital Office | 新加坡数码转型办事处 | Pejabat Digital SG | சிங்கப்பூர் மின்னிலக்க அலுவலகம்
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/SGD-logo.png
 
 # Site colors
 colors:
@@ -20,6 +20,7 @@ colors:
 
 
 collections:
+  google_analytics: UA-171264522-1
   programmes:
     output: true
 resources_name: media-centre
