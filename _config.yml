@@ -20,6 +20,7 @@ colors:
 
 
 collections:
+  google_analytics: UA-171264522-1
   programmes:
     output: true
 resources_name: media-centre
