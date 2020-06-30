@@ -3,7 +3,7 @@ title: Digital Ambassadors
 permalink: /digital-ambassadors/
 ---
 
-[English](#a-determined-push-to-help-all-seniors-and-stallholders-go-digital) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
+[English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
 ###### English
 #### A determined push to help all seniors and stallholders go digital
@@ -19,10 +19,12 @@ SDO’s Digital Ambassadors will play a critical role in providing frontline, pe
 
 ###### Bahasa Melayu
 #### Dorongan bertekad untuk membantu semua warga emas dan pegerai menjadi digital
-
-
+Duta Digital SDO akan memainkan peranan penting dalam menyediakan bantuan barisan hadapan, peribadi sat persatu dan juga sokongan kumpulan kecil kepada warga tua dan pegerai yang memerlukan bantuan tambahan untuk menggunakan penyelesaian dan teknologi digital. Untuk membolehkan ini, SDO akan memberikan latihan dan sokongan yang diperlukan.
 
 <hr>
 
 ###### தமிழ்
-#### Dorongan bertekad untuk membantu semua warga emas dan pegerai menjadi digital
+#### மூத்தோர், கடைக்காரர்கள் அனைவரையும் மின்னிலக்கமயமாக்கத் திடமான தூண்டுதல் 
+சிங்கப்பூர் மின்னிலக்க அலுவலகத்தின் மின்னிலக்கத் தூதர்கள், மின்னிலக்கக் கருவிகளையும் தொழில்நுட்பத்தையும் பயன்படுத்த கூடுதல் உதவி தேவைப்படும் மூத்தோருக்கும் கடைக்காரர்களுக்கும் முன்னிலை உதவியும், தனிப்பட்ட முறையிலான நேரடி வழிகாட்டலும், சிறிய குழுக்களுக்கு ஆதரவும் வழங்குவதில் முக்கிய பங்காற்றுவார்கள். இதற்குத் துணையாக, தேவையான பயிற்சியையும் ஆதரவையும் அலுவலகம் வழங்கும்.  
+
+[English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
