@@ -3,8 +3,9 @@ title: About
 permalink: /about/
 ---
 
-[English](#sg-digital-office) / [中文](#新加坡数码转型办事处) / [Bahasa Melayu](#pejabat-digital-sg) / [தமிழ்](#சிங்கப்பூர்-மின்னிலக்க-அலுவலகம்)
+[English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
+###### English
 SG Digital is about helping you connect to everything that matters, making lives better through digitalisation.
 
 With COVID-19 changing the way most of us lead our lives, going digital is now more important than ever. It presents us the opportunity to make adjustments in the way we work, learn and interact with one another. It means being connected to our loved ones, to our favourite shows, to the latest happenings in our community, to greater convenience, whenever and wherever. The possibilities are endless.
@@ -22,6 +23,7 @@ Our Digital Ambassadors will look to reach out through various engagement means 
 
 <hr>
 
+###### 中文
 全国数码化转型旨在为你带来更大的方便，让生活变得更美好。
 
 2019冠状病毒疫情改变了我们的生活，随着数码化跟我们生活各方面有着越来越密切的关系，国人更迫切需要掌握数码技能。这场疫情正好给我们提供一个机会，改变我们工作、学习和相互沟通的方式。数码化可为生活带来更大的方便，让我们随时随地与至亲保持联系、观看我们最喜爱的节目，以及关注社区的最新动态。数码科技在现实生活中的用途可以说是无穷无尽。
@@ -38,6 +40,7 @@ Our Digital Ambassadors will look to reach out through various engagement means 
 
 <hr>
 
+###### Bahasa Melayu
 Digital SG adalah untuk membantu anda berhubung dengan semua perkara yang penting, menjadikan kehidupan lebih baik melalui digitalisasi.
 
 Dengan COVID-19 mengubah cara  kita menjalani kehidupan  menjadi digital kini lebih penting daripada sebelumnya. Ini memberi kita peluang untuk membuat penyesuaian dalam cara kita bekerja, belajar dan berinteraksi antara satu sama lain. Ini bermaksud berhubung dengan orang yang kita sayangi, dengan rancangan kegemaran kita, dengan kejadian terbaru dalam komuniti kita, dengan kemudahan yang lebih besar, pada bila masa dan di mana sahaja. Kemungkinannya tiada batas.
@@ -56,6 +59,7 @@ Duta Digital kami akan berusaha untuk menjangkau melalui pelbagai cara penglibat
 
 <hr>
 
+###### தமிழ்
 சிங்கப்பூர் மின்னிலக்கமயமாதல் திட்டம், முக்கியமான அனைத்துடனும் உங்களை இணைக்க உதவி செய்து, மின்னிலக்கமயத்தின் மூலம் வாழ்க்கையை மேம்படுத்துகிறது.
 
 நம்மில் பெரும்பாலோரின் வாழ்க்கைமுறையை கொவிட்-19 மாற்றியிருப்பதால், மின்னிலக்கமயமாவது முன்பைவிட இப்போது அதிக முக்கியமானது. நாம் வேலை செய்யும் முறை, கற்கும் முறை, ஒருவருக்கொருவர் கலந்துறவாடும் முறை அனைத்திலும் மாற்றங்கள் செய்வதற்கு மின்னிலக்கமயம் நமக்கு வாய்ப்பளிக்கிறது. இதன்வழி, பிரியமானவர்களுடன் நாம் இணைந்திருக்கலாம், விருப்பமான நிகழ்ச்சிகளைக் காணலாம், நம் சமூகத்தின் அண்மை நிகழ்வுகளை அறியலாம், அதிக சௌகரியமாக இருக்கலாம் - எங்கிலும் எப்போதும். மின்னிலக்கமயம் முடிவில்லா சாத்தியங்களை வழங்கும்.
