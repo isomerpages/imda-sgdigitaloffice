@@ -44,9 +44,9 @@ For Food Services and Retail enterprises interested in leveraging digital tools 
 The SG Digital Office is also working closely with partners like Enterprise Singapore and the Heartland Enterprise Centre Singapore (HECS) to support heartland enterprises in their digital transformation. Find out more [here](https://www.imda.gov.sg/for-industry/sectors/retail). 
 
  
-<sup><a id="1">1</a></sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment.
-<sup><a id="2">2</a></sup> Photocopies will be needed and as they will be retained during sign-up.
-<sup><a id="3">3</a></sup> Sign up by 31st December 2020. Each transaction is at least $1.
+<sup><a id="1">1</a></sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment. <br>
+<sup><a id="2">2</a></sup> Photocopies will be needed and as they will be retained during sign-up. <br>
+<sup><a id="3">3</a></sup> Sign up by 31st December 2020. Each transaction is at least $1. <br>
 <sup><a id="4">4</a></sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
 
 <hr>
