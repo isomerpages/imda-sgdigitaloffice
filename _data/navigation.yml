@@ -19,6 +19,8 @@ links:
       - title: Seniors Go Digital
         url: https://imsilver.imda.gov.sg/seniors-go-digital/
   - title: Media Centre
-    resource_room: true
+    url: /media-centre/
+#  - title: Media Centre
+#    resource_room: true
   - title: Contact Us
     url: /contact-us/
