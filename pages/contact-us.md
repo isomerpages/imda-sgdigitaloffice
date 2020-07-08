@@ -31,6 +31,7 @@ locations:
         - Serangoon Public Library (Aug)
         - Toa Payoh Public Library (Aug)
         - Toa Payoh South CC (Aug)
+ #   maps_link: https://goo.gl/maps/EuArjKErgy51tzR18
   - title: SG Digital Offices @ EAST
     address:
         - Bedok CC (Open daily from 7 Jul, 10am – 6.30pm)
