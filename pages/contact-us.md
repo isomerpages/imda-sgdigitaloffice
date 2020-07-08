@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: SG Digital Office
 locations:
-  - title: Main Office 
+  - title: HQ Address
     address:
         - 10 Pasir Panjang Road
         - 03-01 Mapletree Business City
