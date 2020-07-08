@@ -17,7 +17,7 @@ locations:
         time: 8.30am - 5.30pm
         description: Closed on Public Holidays
   - title: SG Digital Offices @ CENTRAL
-    other:
+    address:
         - Bishan Public Library (Aug)
         - Central Public Library (Aug)
         - Geylang East Library (Aug)
