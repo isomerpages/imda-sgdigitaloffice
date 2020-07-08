@@ -17,7 +17,7 @@ locations:
         time: 8.30am - 5.30pm
         description: Closed on Public Holidays
   - title: SG Digital Offices @ CENTRAL
-    address:
+    other:
         - Bishan Public Library (Aug)
         - Central Public Library (Aug)
         - Geylang East Library (Aug)
@@ -31,7 +31,6 @@ locations:
         - Serangoon Public Library (Aug)
         - Toa Payoh Public Library (Aug)
         - Toa Payoh South CC (Aug)
-    other: teststest
  #   maps_link: https://goo.gl/maps/EuArjKErgy51tzR18
   - title: SG Digital Offices @ EAST
     address:
