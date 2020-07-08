@@ -19,9 +19,9 @@ sections:
             - title: Hawkers Go Digital
               description: 摊主乐学数码计划 <br> Program Transformasi Digital untuk Penjaja <br> உணவங்காடிக் கடைக்காரர்களுக்கான மின்னிலக்கமயமாதல் திட்டம்
               url: /programmes/hawkers-go-digital/
-          #  - title: Join Us
-          #    description: Be a Digital Ambassador
-          #    url: /digital-ambassadors/
+            - title: Find your nearest SG Digital Community Hub!
+              description: 新加坡数码转型社区援助站 <br> Hab masyarakat Digital Singapura <br> சிங்கப்பூர் மின்னிலக்க சமூக நடுவங்கள்
+              url: /sg-digital-community-hubs/
    # - infobar:
       #  title: Infobar title
      #   image: /images/SG_DIGITAL_OFFICE_LOGO.png
