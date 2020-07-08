@@ -30,7 +30,7 @@ permalink: /sg-digital-community-hubs/
     <p style="margin-left: 10px;">Tampines Regional Library (Aug)</p>
     <hr style="border: 1px solid;">
     </div>
-    #### WEST
+    <h3>WEST</h3>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;">
     <p style="margin-left: 10px;">Boon Lay Wellness Centre (Aug)</p>
