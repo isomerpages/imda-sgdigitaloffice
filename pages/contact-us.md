@@ -16,14 +16,30 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: Closed on Public Holidays
-  - title: SG Digital Offices
-    subtitle: EAST
+  - title: SG Digital Offices @ EAST
     address:
         - Bedok CC (Open daily from 7 Jul, 10am – 6.30pm)
         - Bedok Public Library (Aug)
         - Changi-Simei CC (Aug)
         - Cheng San Public Library (Aug)
-
+  - title: SG Digital Offices @ EAST
+    address:
+        - Bedok CC (Open daily from 7 Jul, 10am – 6.30pm)
+        - Bedok Public Library (Aug)
+        - Changi-Simei CC (Aug)
+        - Cheng San Public Library (Aug)
+  - title: SG Digital Offices @ EAST
+    address:
+        - Bedok CC (Open daily from 7 Jul, 10am – 6.30pm)
+        - Bedok Public Library (Aug)
+        - Changi-Simei CC (Aug)
+        - Cheng San Public Library (Aug)
+  - title: SG Digital Offices @ EAST
+    address:
+        - Bedok CC (Open daily from 7 Jul, 10am – 6.30pm)
+        - Bedok Public Library (Aug)
+        - Changi-Simei CC (Aug)
+        - Cheng San Public Library (Aug)
 contacts:
   - title: General Enquiries & Feedback
     content:
