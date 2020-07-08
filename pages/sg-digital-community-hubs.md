@@ -8,7 +8,7 @@ permalink: /sg-digital-community-hubs/
 <br>
  <div class="row">
     <div class="col-sm-6">
-    <p><strong>EAST</strong></p>
+    <h3>EAST</h3>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;">
     <p style="margin-left: 10px;">Bedok CC (Open daily from 7 Jul, 10am &ndash; 6.30pm)</p>
@@ -58,7 +58,7 @@ permalink: /sg-digital-community-hubs/
     </div>
     </div>
     <div class="col-sm-6">
-    <p><strong>CENTRAL</strong></p>
+     <h3>CENTRAL</h3>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;">
     <p style="margin-left: 10px;">Bishan Public Library (Aug)</p>
@@ -88,7 +88,7 @@ permalink: /sg-digital-community-hubs/
     <p style="margin-left: 10px;">Toa Payoh South CC (Aug)</p>
     <hr style="border: 1px solid;">
     </div>
-    <p><strong>NORTH</strong></p>
+    <h3>NORTH</h3>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;">
     <p style="margin-left: 10px;">ACE the Place CC (Aug)</p>
