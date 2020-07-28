@@ -49,7 +49,7 @@ permalink: /sg-digital-community-hubs/
     <hr />
     <p style="margin-left: 10px;">Clementi Public Library (Aug)</p>
     <hr />
-    <p style="margin-left: 10px;">Hong Kah North CC (Open daily from 29 Jul, 10am &ndash; 6.30pm)</p>
+    <p style="margin-left: 10px;">Hong Kah North CC (Aug)</p>
     <hr />
     <p style="margin-left: 10px;">Jurong Regional Library (Aug)</p>
     <hr />
@@ -131,7 +131,7 @@ permalink: /sg-digital-community-hubs/
     <hr />
     <p style="margin-left: 10px;">Woodlands Regional Library (Aug)</p>
     <hr />
-    <p style="margin-left: 10px;">Yio Chu Kang CC (Aug)</p>
+    <p style="margin-left: 10px;">Yio Chu Kang CC (Open daily from 4 Aug, 10am &ndash; 6.30pm)</p>
     <hr />
     <p style="margin-left: 10px;">Yishun Public Library (Aug)</p>
     <hr style="border: 1px solid;" />
