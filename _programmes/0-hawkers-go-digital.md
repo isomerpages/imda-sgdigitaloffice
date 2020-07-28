@@ -1,7 +1,10 @@
 ---
 title: Hawkers Go Digital
 description: Taking hawkers and stallholders into the future with digitalisation and e-payments. To help them safely operate in the post-COVID future, we’ve lined up a few initiatives to get things started.
-image: /images/programmes/IMDA_MastheadBanners-INHawker-1500-x-500.jpg
+image:
+  path: /images/programmes/IMDA_MastheadBanners-INHawker-1500-x-500.jpg
+  height: 100
+  width: 100
 permalink: /programmes/hawkers-go-digital/
 ---
 
