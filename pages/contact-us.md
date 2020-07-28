@@ -9,7 +9,7 @@ locations:
         - 10 Pasir Panjang Road
         - 03-01 Mapletree Business City
         - Singapore 117438
-    maps_link: https://goo.gl/maps/EuArjKErgy51tzR18
+    maps_link: https://goo.gl/maps/pdkVbztQsQSSR8nbA
     operating_hours:
       - days: Mon - Thu
         time: 8.30am - 6.00pm
