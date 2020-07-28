@@ -1,5 +1,7 @@
 ---
 title: About SG Digital Office
+description: The SG Digital Office (“SDO”) will drive the Government’s initiatives to accelerate digital adoption in our community, as we embark on a phased recovery post COVID-19.
+image: /images/homepage/SDO-Main-Banner.png
 permalink: /about/
 ---
 
