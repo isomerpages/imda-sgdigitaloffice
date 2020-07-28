@@ -1,7 +1,7 @@
 contact_us: /contact-us/
 show_reach: false
-feedback: 
-#faq: /faq/
+feedback: text
+faq: texttext
 social_media:
     facebook: https://www.facebook.com/sgdigitaloffice
     twitter: https://www.twitter.com/sgdigitaloffice
