@@ -10,7 +10,7 @@ permalink: /sg-digital-community-hubs/
 <br>
   <div class="row">
     <div class="col-sm-6">
-    <h4>EAST</strong></h4>
+    <h4>EAST</h4>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;" />
     <p style="margin-left: 10px;">Bedok CC (Open daily from 7 Jul, 10am &ndash; 6.30pm)</p>
