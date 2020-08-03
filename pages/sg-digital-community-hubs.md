@@ -12,6 +12,8 @@ permalink: /sg-digital-community-hubs/
 
 ![image](/images/sg digital community hubs/SG-Digital-Community-Hub.jpg)
 
+Our Digital Ambassadors will be located at selected Community Clubs/Centres and Public Libraries, ready to provide 1-to-1 guidance on a customised package tailored to equip you for a digital life.
+
 <br>
   <div class="row">
     <div class="col-sm-6">
