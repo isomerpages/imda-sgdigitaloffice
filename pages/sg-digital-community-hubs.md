@@ -19,7 +19,7 @@ Our SG Digital Office will be closed on public holidays. Check out the list belo
 <br>
     <div class="row">
     <div class="col-sm-6">
-    <h4>EAST</h4>
+    <p><strong>EAST</strong></p>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;">
     <p style="margin-left: 10px;">Bedok CC (Open daily from 7 Jul, 10am &ndash; 6.30pm)</p>
@@ -45,7 +45,7 @@ Our SG Digital Office will be closed on public holidays. Check out the list belo
     <p style="margin-left: 10px;">Tampines Regional Library (Opening soon)</p>
     <hr style="border: 1px solid;">
     </div>
-    <h4>WEST</h4>
+    <p><strong>WEST</strong></p>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;">
     <p style="margin-left: 10px;">Boon Lay Wellness Centre (Open daily from 28 Jul, 10am &ndash; 6.30pm)</p>
@@ -81,7 +81,7 @@ Our SG Digital Office will be closed on public holidays. Check out the list belo
     </div>
     </div>
     <div class="col-sm-6">
-    <h4>CENTRAL</h4>
+    <p><strong>CENTRAL</strong></p>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;">
     <p style="margin-left: 10px;">Bishan Public Library (Opening soon)</p>
@@ -119,7 +119,7 @@ Our SG Digital Office will be closed on public holidays. Check out the list belo
     <p style="margin-left: 10px;">Toa Payoh South CC (Open daily from 27 Jul, 10am &ndash; 6.30pm)</p>
     <hr style="border: 1px solid;">
     </div>
-    <h4>NORTH</h4>
+    <p><strong>NORTH</strong></p>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;">
     <p style="margin-left: 10px;">ACE the Place CC (Open daily from 15 Jul, 10am &ndash; 6.30pm)</p>
