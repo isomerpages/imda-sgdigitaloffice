@@ -13,6 +13,7 @@ permalink: /sg-digital-community-hubs/
 ![image](/images/sg digital community hubs/SG-Digital-Community-Hub.jpg)
 
 Our Digital Ambassadors will be located at selected Community Clubs/Centres and Public Libraries, ready to provide 1-to-1 guidance on a customised package tailored to equip you for a digital life.
+<br>
 Our SG Digital Office will be closed on public holidays. Check out the list below for updates on opening dates and hours.
 
 <br>
