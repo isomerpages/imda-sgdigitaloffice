@@ -17,6 +17,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
 Our SG Digital Office will be closed on public holidays. Check out the list below for updates on opening dates and hours.
 
 <br>
+<div>
     <div class="row">
     <div class="col-sm-6">
     <p><strong>EAST</strong></p>
