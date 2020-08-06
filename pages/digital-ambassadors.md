@@ -1,7 +1,10 @@
 ---
 title: Digital Ambassadors
 description: SDO’s Digital Ambassadors will play a critical role in providing frontline, personalised one-to-one as well as small group support to seniors and stallholders who require additional assistance to adopt digital solutions and technology.
-image: /images/digital ambassadors/Digital-Ambassador-1.jpg
+image:
+  path: /images/digital ambassadors/Digital-Ambassador-1.jpg
+  height: 100
+  width: 100
 permalink: /digital-ambassadors/
 ---
 
