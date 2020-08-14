@@ -14,7 +14,7 @@ permalink: /sg-digital-community-hubs/
 
 Our Digital Ambassadors will be located at selected Community Clubs/Centres and Public Libraries, ready to provide 1-to-1 guidance on a customised package tailored to equip you for a digital life.
 <br>
-##### Our SG Digital Offices will be closed on public holidays, and are open daily from 10am – 6.30pm, unless otherwise stated. 
+##### Our SG Digital Offices will be **closed on public holidays, and are open daily from 10am – 6.30pm**, unless otherwise stated. 
 Check out the list below for updates on opening dates and hours.
 
 <br>
