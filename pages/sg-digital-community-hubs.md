@@ -37,7 +37,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Pasir Ris Public Library (Opening soon)</p>
     <hr />
-    <p style="margin-left: 10px;">PSC@Our Tampines Hub (Open daily, 10am &ndash; 8pm)</p>
+    <p style="margin-left: 10px;">PSC@Our Tampines Hub (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Punggol 21 CC (Open daily)</p>
     <hr />
