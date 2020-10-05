@@ -65,7 +65,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Jurong Regional Library (Opening soon)</p>
     <hr />
-    <p style="margin-left: 10px;">Jurong West Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Jurong West Public Library (Open daily from 10:30am to 7pm)</p>
     <hr />
     <p style="margin-left: 10px;">Keat Hong CC (Open daily)</p>
     <hr />
@@ -105,11 +105,13 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">MacPherson CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Marine Parade Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Marine Parade Public Library (Open daily from 10:30am to 7pm)</p>
     <hr />
     <p style="margin-left: 10px;">Pek Kio CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Queenstown Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Potong Pasir CC (Open daily)</p>
+    <hr />
+    <p style="margin-left: 10px;">Queenstown Public Library (Open daily from 10:30am to 7pm)</p>
     <hr />
     <p style="margin-left: 10px;">Radin Mas CC (Open daily)</p>
     <hr />
