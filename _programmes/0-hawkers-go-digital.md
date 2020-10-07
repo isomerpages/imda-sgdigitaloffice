@@ -47,7 +47,7 @@ For more information, please contact us at <a href = "mailto:info@imda.gov.sg">i
 For Food Services and Retail enterprises interested in leveraging digital tools to adapt to safe management practices, the Digital Resilience Bonus will provide additional support of up to $10,000. The payout will offset the cost of adopting solutions from three pre-defined categories, namely business process solutions, digital presence and data-driven operations. Find out more about the [Digital Resilience Bonus here](https://www.imda.gov.sg/digitalresiliencebonus).
 
 #### Heartlands Go Digital
-Enterprise Singapore (“ESG"), together with the Infocomm Media Development Authority (“IMDA”), Singapore Digital Office (“SDO”), Heartland Enterprise Centre Singapore (“HECS”) and SME Centres have launched the Heartlands Go Digital programme to support our heartland enterprises in adopting two key digital solutions – e-payment and digital commerce – and in transforming business models. Find out more [here](https://www.imda.gov.sg/for-industry/sectors/retail). 
+Enterprise Singapore (“ESG"), together with the Infocomm Media Development Authority (“IMDA”), Singapore Digital Office (“SDO”), Heartland Enterprise Centre Singapore (“HECS”) and SME Centres have launched the Heartlands Go Digital programme to support our heartland enterprises in adopting two key digital solutions – e-payment and digital commerce – and in transforming business models. Find out more [here](/documents/heartlands-go-digital/Heartlands_Go_Digital_7Oct.pdf){:target="_blank"}. 
 
  
 <sup><a id="1">1</a></sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment. <br>
