@@ -12,7 +12,7 @@ permalink: /about/
 
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/psRpF7HNqvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/psRpF7HNqvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### English
 SG Digital is about helping you connect to everything that matters, making lives better through digitalisation.
