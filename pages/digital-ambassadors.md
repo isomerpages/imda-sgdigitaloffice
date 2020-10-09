@@ -12,7 +12,7 @@ permalink: /digital-ambassadors/
 
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
-![image](/images/digital ambassadors/Digital-Ambassador-1.jpg)
+<iframe width="auto" height="100%" src="https://www.youtube.com/embed/SNfx5dJxlZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### English
 #### A determined push to help all seniors and stallholders go digital
@@ -38,4 +38,4 @@ Duta Digital SDO akan memainkan peranan penting dalam menyediakan bantuan barisa
 
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SNfx5dJxlZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![image](/images/digital ambassadors/Digital-Ambassador-1.jpg)
