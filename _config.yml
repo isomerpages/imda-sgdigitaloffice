@@ -22,6 +22,8 @@ colors:
 collections:
   programmes:
     output: true
+  scan-pay-win:
+    output: true
 resources_name: media-centre
 google_analytics: UA-171264522-1
 

@@ -22,6 +22,9 @@ sections:
             - title: Find your nearest SG Digital Community Hub here!
               description: 新加坡数码转型社区援助站 <br> Hab masyarakat Digital Singapura <br> சிங்கப்பூர் மின்னிலக்க சமூக நடுவங்கள்
               url: /sg-digital-community-hubs/
+            - title: Scan, Pay, Win
+              description: 扫描，付款，赢奖 <br> IMBAS, BAYAR, MENANG <br> வருடி, செலுத்தி, வெல்க
+              url: /programmes/scan-pay-win/
    # - infobar:
       #  title: Infobar title
      #   image: /images/SG_DIGITAL_OFFICE_LOGO.png
