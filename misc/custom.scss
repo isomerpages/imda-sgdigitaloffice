@@ -352,3 +352,17 @@ background: linear-gradient(to right, $primary, $secondary); /* W3C, IE 10+/ Edg
 		}
 	}
 }
+
+// custom list type
+
+.spw-letter{
+  list-style-type: lower-alpha !important;
+}
+
+.spw-roman{
+  list-style-type: lower-roman !important;
+}
+
+.spw-bolded{
+  font-weight: bold;
+}
