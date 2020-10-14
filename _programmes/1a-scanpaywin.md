@@ -25,13 +25,4 @@ If you’re a participating stallholder and any of the monthly winners made an S
 
 ![Participating Apps](/images/programmes/IMDA_SPW_Apps.jpg)
 
-More e-payment apps coming your way!  
-
-### Check to see if you’re our monthly winner!
-
-Congratulations to our monthly winners and stallholders! Going digital is truly more rewarding.
-
-Click for full winners list:  
-[December 2020](/documents/placeholder.pdf)  
-[January 2021](/documents/placeholder.pdf)  
-[February 2021](/documents/placeholder.pdf)  
+More e-payment apps coming your way!
