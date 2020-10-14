@@ -13,7 +13,9 @@ Paying for wet market buys or yummy hawker foods is not just easier now, but als
 
 ### Watch the video now to find out how!
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/psRpF7HNqvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="spw-video-responsive" style="padding-bottom: 56.228%;">
+	<iframe width="853" height="480" src="https://www.youtube.com/embed/psRpF7HNqvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ![Here's what you can win every month!](/images/programmes/IMDA_SPW_Prizes.jpg)
 
