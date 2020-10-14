@@ -5,6 +5,8 @@ permalink: /programmes/scan-pay-win/
 third_nav_title: Scan, Pay, Win
 ---
 
+#### Scan, Pay, Win / 扫描，付款，赢奖 / Imbas, Bayar, Menang / வருடி, செலுத்தி, வெல்க
+
 ![Scan, Pay, Win](/images/programmes/IMDA_SPW_KV.jpg)
 
 Paying for wet market buys or yummy hawker foods is not just easier now, but also more rewarding! Look out for the Scan, Pay, Win sign and simply scan the SGQR code to e-pay at participating stalls. You could win up to $4,888 and more every month! Stallholders of winning transactions will also win $500!
