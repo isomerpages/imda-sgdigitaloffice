@@ -9,13 +9,13 @@ third_nav_title: Scan, Pay, Win
 
 ![Scan, Pay, Win](/images/programmes/IMDA_SPW_KV.jpg)
 
+### Let's go digital today!
+
 Paying for wet market buys or yummy hawker foods is not just easier now, but also more rewarding! Look out for the Scan, Pay, Win sign and simply scan the SGQR code to e-pay at participating stalls. You could win up to $4,888 and more every month! Stallholders of winning transactions will also win $500!
 
-### Watch the video now to find out how!
+### Not sure how to e-pay?
 
-<div class="spw-video-responsive" style="padding-bottom: 56.228%;">
-	<iframe width="853" height="480" src="https://www.youtube.com/embed/psRpF7HNqvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Visit your nearest SG Digital community hub and enjoy one-on-one guidance. You’ll also get to learn a whole bunch of other wonderful digital skills too!
 
 ![Here's what you can win every month!](/images/programmes/IMDA_SPW_Prizes.jpg)
 
@@ -27,6 +27,4 @@ If you’re a participating stallholder and any of the monthly winners made an S
 
 ### E-pay with these participating apps on your mobile phone 
 
-![Participating Apps](/images/programmes/IMDA_SPW_Apps.jpg)
-
-More e-payment apps coming your way!
+Coming soon!
