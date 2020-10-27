@@ -57,7 +57,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Bukit Panjang Public Library (Opening soon)</p>
     <hr />
-    <p style="margin-left: 10px;">Bukit Timah CC (Open daily)</p>
+    <p style="margin-left: 10px;">Bukit Timah CC (Open from Wednesday to Saturday)</p>
     <hr />
     <p style="margin-left: 10px;">Clementi Public Library (Opening soon)</p>
     <hr />
