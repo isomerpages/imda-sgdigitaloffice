@@ -19,7 +19,7 @@ Paying for wet market buys or hawker foods is not just easier now, but also more
 
 ### Not sure how to e-pay?
 
-Visit your nearest SG Digital community hub and enjoy one-on-one guidance from our Digital ambassador. They are located at selected community clubs, centres and public libraries. You'll also get to learn a whole bunch of other wonderful digital skills.
+Visit your nearest [SG Digital community hub](/sg-digital-community-hubs) and enjoy one-on-one guidance from our Digital ambassador. They are located at selected community clubs, centres and public libraries. You'll also get to learn a whole bunch of other wonderful digital skills.
 
 ![Here's what you can win every month!](/images/programmes/IMDA_SPW_Prizes.jpg)
 
