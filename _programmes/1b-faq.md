@@ -45,9 +45,9 @@ No, you won’t qualify for the Lucky Draw.
 **When are the draw dates and where will the draws be held?**  
 The draws will be held at NETS’ office at 298 Tiong Bahru Road, #06-01, Singapore 168730 on the date and time as follows:
 
-1st draw: 10am, 22 Dec 2020
-2nd draw: 10am, 26 Jan 2021
-3rd draw: 10am, 24 Feb 2021 
+1st draw: 10am, 22 Dec 2020 <br>
+2nd draw: 10am, 26 Jan 2021 <br>
+3rd draw: 10am, 24 Feb 2021 <br>
 
 ### Notification and Crediting of Prizes
 
@@ -70,7 +70,7 @@ Your full name and/or partially masked contact information (e.g. mobile number, 
 
 ### More Information
 
-**Who is the organiser of the Lucky Draw?**
+**Who is the organiser of the Lucky Draw?** <br>
 IMDA is the organiser of the Lucky Draw. IMDA’s office is located at 10 Pasir Panjang Road #03-01 Mapletree Business City Singapore 117438.
 
 **Where can I get more information about the Lucky Draw?**  
