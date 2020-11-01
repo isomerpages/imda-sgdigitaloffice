@@ -55,7 +55,7 @@ The draws will be held at NETS’ office at 298 Tiong Bahru Road, #06-01, Singap
 The results will be published on SDO’s website [go.gov.sg/scanpaywin](https://go.gov.sg/scanpaywin). Winners will also be notified by the respective payment schemes/wallets that they have used via phone and/or email and/or any other means deemed suitable within 20 working days after the draw. 
 
 **How will I receive my prize monies if I am the winner?**  
-You will receive the prize monies by one of the following methods - cash, chequethru direct Bank Transfer, PayNow, Cheque or electronic bank transfer or any other preferred payment method offered by and agreed with the payment scheme partner which you made the winning transaction with. 
+You will receive the prize monies by one of the following methods - cash, cheque, through direct bank transfer, PayNow, cheque or electronic bank transfer or any other preferred payment method offered by and agreed with the payment scheme partner which you made the winning transaction with. 
 
 **How would Winning Stallholders get picked?**  
 Winning Stallholders are picked based on where the winning transactions took place. 
