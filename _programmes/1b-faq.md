@@ -11,9 +11,9 @@ third_nav_title: Scan, Pay, Win
 
 **When do I start to qualify for the Lucky Draw?**  
 The qualifying period is as follows:  
-a.	1-30 November 2020 for the December 2020 draw  
-b.	1-31 December 2020 for the January 2021 draw  
-c.	1-31 January 2021 for the February 2021 draw  
+a.	1 - 30 November 2020 for the December 2020 draw  
+b.	1 - 31 December 2020 for the January 2021 draw  
+c.	1 - 31 January 2021 for the February 2021 draw  
 
 ### Minimum Spend
 
