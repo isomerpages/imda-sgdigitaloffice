@@ -15,7 +15,7 @@ third_nav_title: Scan, Pay, Win
 	<li>The promotion (“Lucky Draw”) is organised by Info-communications Media Development Authority (“IMDA”) (which includes the Singapore Digital Office (“SDO”)) under the Hawkers Go Digital initiative (“HGD Initiative”) and is open to all individuals: </li>
 	<ol class="spw-letter">
 		<li>Winning Participants will be drawn from individuals who perform Qualifying Transactions (as defined in Clauses 1c to 1g) (“Winning Participants”). The Winning Participants shall be drawn from NETS transaction database(s) in the presence of an IMDA/SDO appointed auditor.</li>
-		<li>There is no age restriction for eligibility, however, any Winning Participant who is under 18 years of age at the time of collection of prize monies must be accompanied by a parent/guardian during collection or provide written consent of a parent/guardian.;</li>
+		<li>There is no age restriction for eligibility, however, any Winning Participant who is under 18 years of age at the time of collection of prize monies must be accompanied by a parent/guardian during collection or provide written consent of a parent/guardian.</li>
 		<li>Qualifying Transactions must be made using e-payments from the following participating payments schemes/wallets:</li>
 		<ol class="spw-roman spw-bolded">
 			<li>DBS PayLah! and DBS digibank mobile apps</li>
@@ -59,7 +59,7 @@ third_nav_title: Scan, Pay, Win
 **Lucky Draw Prizes, Qualifying Periods, and Draw Dates**
 
 <ol start="2">
-	<li>Prizes for the Lucky Draw are as follows</li>
+	<li>Prizes for the Lucky Draw are as follows:</li>
 	<ol class="spw-letter spw-bolded">
 		<li>Monthly Winning Participant - First prize of S$4,888</li>
 		<li>Monthly Winning Participant - Runner-up prize of S$2,888</li>
