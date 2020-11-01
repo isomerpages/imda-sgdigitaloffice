@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Scan, Pay, Win
 description: Scan to pay. Scan to win. So easy! Paying for wet market buys or hawker foods is not just easier now, but also more rewarding! Look out for the Scan, Pay, Win sticker and simply scan the SGQR code to e-pay at participating stalls*. You could win up to $4,888 and more every month! Stallholders of winning transactions will also win $500!
 permalink: /programmes/scan-pay-win/
 third_nav_title: Scan, Pay, Win
