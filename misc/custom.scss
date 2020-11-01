@@ -352,3 +352,30 @@ background: linear-gradient(to right, $primary, $secondary); /* W3C, IE 10+/ Edg
 		}
 	}
 }
+
+// custom list type
+
+.spw-letter{
+  list-style-type: lower-alpha !important;
+}
+
+.spw-roman{
+  list-style-type: lower-roman !important;
+}
+
+.spw-bolded{
+  font-weight: bold;
+}
+
+// responsive vid
+
+.spw-video-responsive{
+  position: relative;
+  padding-bottom: percentage(9/16);
+
+  iframe {
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    width: 100%; height: 100%;
+  }
+}
