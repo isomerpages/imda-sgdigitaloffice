@@ -25,25 +25,25 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr style="border: 1px solid;" />
     <p style="margin-left: 10px;">Bedok CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Bedok Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Bedok Public Library (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Changi-Simei CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Cheng San Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Cheng San Public Library (Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Hougang CC (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Kampong Chai Chee CC (Heartbeat@Bedok) (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Pasir Ris Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Pasir Ris Public Library (Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">PSC@Our Tampines Hub (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Punggol 21 CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Sengkang Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Sengkang Public Library (Open daily from 11:30am to 8pm)</p>
     <hr />
-    <p style="margin-left: 10px;">Tampines Regional Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Tampines Regional Library (Open daily)</p>
     <hr style="border: 1px solid;" />
     </div>
     <p><strong>WEST</strong></p>
@@ -55,21 +55,21 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Bukit Batok Public Library (Open daily from 11:30am to 8pm)</p>
     <hr />
-    <p style="margin-left: 10px;">Bukit Panjang Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Bukit Panjang Public Library (Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Bukit Timah CC (Open from Wednesday to Saturday only)</p>
     <hr />
-    <p style="margin-left: 10px;">Clementi Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Clementi Public Library (Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Hong Kah North CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Jurong Regional Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Jurong Regional Library (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Jurong West Public Library (Open daily from 10:30am to 7pm)</p>
     <hr />
     <p style="margin-left: 10px;">Keat Hong CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">library@ harbourfront (Opening soon)</p>
+    <p style="margin-left: 10px;">library@harbourfront (Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Senja Cashew CC (Open daily)</p>
     <hr />
@@ -85,23 +85,23 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <p><strong>CENTRAL</strong></p>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;" />
-    <p style="margin-left: 10px;">Bishan Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Bishan Public Library (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Bukit Merah CC (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Buona Vista CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Central Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Central Public Library (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Geylang East Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Geylang East Library (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Leng Kee CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">library@Chinatown (Opening soon)</p>
+    <p style="margin-left: 10px;">library@Chinatown (Open daily from 11:30am to 8pm)</p>
     <hr />
-    <p style="margin-left: 10px;">library@esplanade (Opening soon)</p>
+    <p style="margin-left: 10px;">library@esplanade (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">library@orchard (Opening soon)</p>
+    <p style="margin-left: 10px;">library@orchard (Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">MacPherson CC (Open daily)</p>
     <hr />
@@ -115,9 +115,9 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Radin Mas CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Serangoon Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Serangoon Public Library (Open daily from 11:30am to 8pm)</p>
     <hr />
-    <p style="margin-left: 10px;">Toa Payoh Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Toa Payoh Public Library (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Toa Payoh South CC (Open daily)</p>
     <hr style="border: 1px solid;" />
@@ -129,7 +129,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Ang Mo Kio CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Ang Mo Kio Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Ang Mo Kio Public Library (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Ci Yuan CC (Open daily)</p>
     <hr />
@@ -137,17 +137,17 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Kebun Baru CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Sembawang Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Sembawang Public Library (Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Teck Ghee CC (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Woodlands CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Woodlands Regional Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Woodlands Regional Library (Open daily)</p>
     <hr />
     <p style="margin-left: 10px;">Yio Chu Kang CC (Open daily)</p>
     <hr />
-    <p style="margin-left: 10px;">Yishun Public Library (Opening soon)</p>
+    <p style="margin-left: 10px;">Yishun Public Library (Open daily from 11:30am to 8pm)</p>
     <hr style="border: 1px solid;" />
     </div>
     </div>
