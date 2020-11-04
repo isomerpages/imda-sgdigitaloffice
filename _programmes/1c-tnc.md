@@ -23,8 +23,7 @@ third_nav_title: Scan, Pay, Win
 			<li>EZ-Link Wallet</li>
 			<li>GrabPay</li>
 			<li>LiquidPay</li>
-			<li>NETS Pin, NETS Tap (Singapore issued DBS/OCBC/POSB/UOB/Maybank debit cards)</li>
-			<li>NETS Pay</li>
+			<li>NETSPay</li>
 			<li>OCBC Pay Anyone</li>
 			<li>Razer Pay</li>
 			<li>Singtel Dash</li>

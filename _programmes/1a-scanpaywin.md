@@ -13,13 +13,13 @@ third_nav_title: Scan, Pay, Win
 
 ### Let's go digital today!
 
-Paying for wet market buys or hawker foods is not just easier now, but also more rewarding! Look out for the Scan, Pay, Win sticker and simply scan the SGQR code to e-pay at participating stalls*. You could win up to $4,888 and more every month! Stallholders of winning transactions will also win $500! There's no better time to go digital!
+Paying for meals at hawker centres and coffee shops is not just easier now, but also more rewarding! Scan the SGQR code with any one of the participating e-payment apps to pay at participating stalls*. You could win up to $4,888 and more every month! Stallholders of winning transactions will also win $500. There’s no better time to go digital!
 
-<sup>*participating stalls at NEA hawker centres, HDB coffeeshops and JTC industrial canteens</sup>
+<sup>*Participating stalls at NEA hawker centres, HDB coffee shops and JTC industrial canteens.</sup>
 
 ### Not sure how to e-pay?
 
-Visit your nearest [SG Digital community hub](/sg-digital-community-hubs) and enjoy one-on-one guidance from our Digital ambassador. They are located at selected community clubs, centres and public libraries. You'll also get to learn a whole bunch of other wonderful digital skills.
+Visit your nearest [SG Digital community hub](/sg-digital-community-hubs) at selected community clubs, centres and public libraries. You’ll also get to learn a whole bunch of other wonderful digital skills too! Specially for seniors, there will be a one-on-one guidance from our Digital Ambassadors at the hub.
 
 ![Here's what you can win every month!](/images/programmes/IMDA_SPW_Prizes.jpg)
 
