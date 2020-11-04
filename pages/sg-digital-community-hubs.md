@@ -29,19 +29,19 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Changi-Simei CC</p>
     <hr />
-    <p style="margin-left: 10px;">Cheng San Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Cheng San Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Hougang CC</p>
     <hr />
     <p style="margin-left: 10px;">Kampong Chai Chee CC (Heartbeat@Bedok)</p>
     <hr />
-    <p style="margin-left: 10px;">Pasir Ris Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Pasir Ris Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">PSC@Our Tampines Hub</p>
     <hr />
     <p style="margin-left: 10px;">Punggol 21 CC</p>
     <hr />
-    <p style="margin-left: 10px;">Sengkang Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Sengkang Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Tampines Regional Library</p>
     <hr style="border: 1px solid;" />
@@ -53,23 +53,23 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Bukit Batok CC</p>
     <hr />
-    <p style="margin-left: 10px;">Bukit Batok Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Bukit Batok Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
-    <p style="margin-left: 10px;">Bukit Panjang Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Bukit Panjang Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
-    <p style="margin-left: 10px;">Bukit Timah CC (Open from Wednesday to Saturday only)</p>
+    <p style="margin-left: 10px;">Bukit Timah CC <br>(Open from Wednesday to Saturday only)</p>
     <hr />
-    <p style="margin-left: 10px;">Clementi Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Clementi Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Hong Kah North CC</p>
     <hr />
     <p style="margin-left: 10px;">Jurong Regional Library</p>
     <hr />
-    <p style="margin-left: 10px;">Jurong West Public Library (Open daily from 10:30am to 7pm)</p>
+    <p style="margin-left: 10px;">Jurong West Public Library <br>(Open daily from 10:30am to 7pm)</p>
     <hr />
     <p style="margin-left: 10px;">Keat Hong CC</p>
     <hr />
-    <p style="margin-left: 10px;">library@harbourfront (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">library@harbourfront <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Senja Cashew CC</p>
     <hr />
@@ -97,25 +97,25 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Leng Kee CC</p>
     <hr />
-    <p style="margin-left: 10px;">library@Chinatown (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">library@Chinatown <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">library@esplanade</p>
     <hr />
-    <p style="margin-left: 10px;">library@orchard (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">library@orchard <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">MacPherson CC</p>
     <hr />
-    <p style="margin-left: 10px;">Marine Parade Public Library (Open daily from 10:30am to 7pm)</p>
+    <p style="margin-left: 10px;">Marine Parade Public Library <br>(Open daily from 10:30am to 7pm)</p>
     <hr />
     <p style="margin-left: 10px;">Pek Kio CC</p>
     <hr />
     <p style="margin-left: 10px;">Potong Pasir CC</p>
     <hr />
-    <p style="margin-left: 10px;">Queenstown Public Library (Open daily from 10:30am to 7pm)</p>
+    <p style="margin-left: 10px;">Queenstown Public Library <br>(Open daily from 10:30am to 7pm)</p>
     <hr />
     <p style="margin-left: 10px;">Radin Mas CC</p>
     <hr />
-    <p style="margin-left: 10px;">Serangoon Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Serangoon Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Toa Payoh Public Library</p>
     <hr />
@@ -137,7 +137,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Kebun Baru CC</p>
     <hr />
-    <p style="margin-left: 10px;">Sembawang Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Sembawang Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Teck Ghee CC</p>
     <hr />
@@ -147,7 +147,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Yio Chu Kang CC</p>
     <hr />
-    <p style="margin-left: 10px;">Yishun Public Library (Open daily from 11:30am to 8pm)</p>
+    <p style="margin-left: 10px;">Yishun Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr style="border: 1px solid;" />
     </div>
     </div>
