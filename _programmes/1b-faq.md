@@ -43,7 +43,7 @@ No, you won’t qualify for the Lucky Draw.
 ### Draw Dates
 
 **When are the draw dates and where will the draws be held?**  
-The draws will be held at NETS’ office at 298 Tiong Bahru Road, #06-01, Singapore 168730 on the date and time as follows:
+The draws will be held at the NETS office at 298 Tiong Bahru Road, #06-01, Singapore 168730.
 
 1st draw: 10am, 22 Dec 2020
 2nd draw: 10am, 26 Jan 2021
@@ -74,4 +74,4 @@ Your full name and/or partially masked contact information (e.g. mobile number, 
 IMDA is the organiser of the Lucky Draw. IMDA’s office is located at 10 Pasir Panjang Road #03-01 Mapletree Business City Singapore 117438.
 
 **Where can I get more information about the Lucky Draw?**  
-You can visit our website at [go.gov.sg/scanpaywin](https://go.gov.sg/scanpaywin) for the full Terms & Conditions or call IMDA/SDO at 6377 3800 for further assistance.
+For the full terms and conditions, please view the Terms & Conditions page, or visit [www.sdo.gov.sg/contact-us/](https://www.sdo.gov.sg/contact-us/) for further assistance.
