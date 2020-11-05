@@ -13,7 +13,7 @@ third_nav_title: Scan, Pay, Win
 
 ### Let's go digital today!
 
-Paying for meals at hawker centres and coffee shops is not just easier now, but also more rewarding! Scan the SGQR code with any one of the participating e-payment apps to pay at participating stalls*. You could win up to $4,888 and more every month! Stallholders of winning transactions will also win $500. There’s no better time to go digital!
+Paying for hawker food or market buys is not only easier now, but also more rewarding! Scan the SGQR code with any one of the participating e-payment apps to pay at participating stalls*. You could win up to $4,888 and more every month! Stallholders of winning transactions will also win $500. There’s no better time to go digital!
 
 <sup>*Participating stalls at NEA hawker centres, HDB coffee shops and JTC industrial canteens.</sup>
 
