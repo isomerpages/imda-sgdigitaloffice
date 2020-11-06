@@ -32,9 +32,9 @@ third_nav_title: Scan, Pay, Win
 		</ol>
 		<li>Qualifying Transactions must be made during the following periods:</li>
 		<ol class="spw-roman spw-bolded">
-			<li>November 2020</li>
-			<li>December 2020</li>
-			<li>January 2021</li>
+			<li>1 – 30 November 2020</li>
+			<li>1 – 31 December 2020</li>
+			<li>1 – 31 January 2021</li>
 		</ol>
 		<li>Qualifying Transactions must be at participating stalls who have adopted the Unified E-payment Scheme (“UePS”) under the HGD Initiative. These include:</li>
 		<ol class="spw-roman">
