@@ -12,7 +12,7 @@ permalink: /digital-ambassadors/
 
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
-![image](/images/digital ambassadors/Digital-Ambassador-1.jpg)
+![image](/images/digital ambassadors/Digital-Ambassador-3.jpg)
 
 ###### English
 #### A determined push to help all seniors and stallholders go digital
