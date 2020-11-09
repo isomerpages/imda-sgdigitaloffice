@@ -17,9 +17,9 @@ Paying for hawker food or market buys is not only easier now, but also more rewa
 
 <sup>*Participating stalls at NEA hawker centres, HDB coffee shops and JTC industrial canteens.</sup>
 
-### Not sure how to e-pay, seniors? 
+### Seniors, not sure how to e-pay? 
 
-Visit your nearest [SG Digital community hub](/sg-digital-community-hubs) at selected community clubs, centres and public libraries. You’ll also get to learn a whole bunch of other wonderful digital skills too! Specially for seniors, there will be a one-on-one guidance from our Digital Ambassadors at the hub.
+Visit your nearest [SG Digital community hub](/sg-digital-community-hubs) at selected community clubs, centres and public libraries. Specially for seniors, learn a whole bunch of other wonderful digital skills and get one-on-one guidance from our Digital Ambassadors at the hub too!
 
 ![Here's what you can win every month!](/images/programmes/IMDA_SPW_Prizes.jpg)
 
