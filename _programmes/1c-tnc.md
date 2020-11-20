@@ -43,7 +43,6 @@ third_nav_title: Scan, Pay, Win
 			<li>registered stallholders at the JTC industrial canteens</li>
 		</ol>
 		<li>Qualifying Transactions must be at least S$1.00.  Each Qualifying Transaction can qualify for multiple chances. Each S$1.00 spent (up to a limit of S$100.00) will qualify for one chance.</li>
-		<li>Qualifying Transactions from the participating payments schemes/wallets can be made via SGQR or payment terminals.</li>
 		<li>IMDA/SDO may set their own internal policies relating to the eligibility of their staff to win prizes under the Lucky Draw. Such internal policies, relating to their own staff, may also be set by participating schemes/wallets and or other service providers related to the Lucky Draw.</li>
 		<li>Winning stallholders (“Winning Stallholders”) will be determined as follows: </li>
 		<ul>
