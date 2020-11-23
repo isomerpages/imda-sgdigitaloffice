@@ -38,7 +38,7 @@ You may be eligible to win again if your qualifying transactions are drawn for a
 No. Each monthly draw will draw from only qualifying transactions from the previous qualifying month. E.g. the December 2020 draw will draw from qualifying transactions that took place in November 2020.
 
 **Are my lucky draw chances accumulated across the entire qualifying period?**  
-No. The chances are only accumulated within each qualifying month and will not be rolled over or extended to the next qualifying month. E.g. you spend $100 in November 2020, you will receive 100 chances for the December 2020 draw. You send $50 in December 2020, you will receive 50 chances for the January 2021 draw.
+No. The chances are only accumulated within each qualifying month and will not be rolled over or extended to the next qualifying month. E.g. if you spend $20 in November 2020, you will receive 20 chances for the December 2020 draw. If you spend $50 in December 2020, you will receive 50 chances for the January 2021 draw.
 
 **I am a stallholder. How do I stand a chance to win?**  
 You can encourage your customers to use e-payment at your stall. For every S$1.00 spent, your customer can earn 1 chance at the lucky draw (capped at 100 chances per transaction). When your customer is selected to win any of the prizes, you will also win $500.
