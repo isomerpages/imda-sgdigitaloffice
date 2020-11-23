@@ -57,8 +57,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Bukit Panjang Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
-    <p style="margin-left: 10px;">Bukit Timah CC <br>(Open from Wednesday to Saturday only)</p>
-    <hr />
     <p style="margin-left: 10px;">Clementi Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Hong Kah North CC</p>
