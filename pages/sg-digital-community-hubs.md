@@ -27,7 +27,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Bedok Public Library</p>
     <hr />
-    <p style="margin-left: 10px;">Changi-Simei CC</p>
+    <p style="margin-left: 10px;">Changi Simei CC</p>
     <hr />
     <p style="margin-left: 10px;">Cheng San Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
