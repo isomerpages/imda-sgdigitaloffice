@@ -27,7 +27,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Bedok Public Library</p>
     <hr />
-    <p style="margin-left: 10px;">Changi-Simei CC</p>
+    <p style="margin-left: 10px;">Changi Simei CC</p>
     <hr />
     <p style="margin-left: 10px;">Cheng San Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
@@ -56,8 +56,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <p style="margin-left: 10px;">Bukit Batok Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Bukit Panjang Public Library <br>(Open daily from 11:30am to 8pm)</p>
-    <hr />
-    <p style="margin-left: 10px;">Bukit Timah CC <br>(Open from Wednesday to Saturday only)</p>
     <hr />
     <p style="margin-left: 10px;">Clementi Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
@@ -99,7 +97,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">library@Chinatown <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
-    <p style="margin-left: 10px;">library@esplanade</p>
+    <p style="margin-left: 10px;">library@esplanade <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">library@orchard <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
