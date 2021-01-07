@@ -379,3 +379,16 @@ background: linear-gradient(to right, $primary, $secondary); /* W3C, IE 10+/ Edg
     width: 100%; height: 100%;
   }
 }
+
+// responsive table
+
+.spw-table-responsive{
+  overflow-x: auto;
+  margin-bottom: 1rem;
+
+  @media screen  and (max-width: 768px){
+    min-width: 768px;
+     -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+}

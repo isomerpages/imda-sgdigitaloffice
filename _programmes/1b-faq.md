@@ -11,9 +11,10 @@ third_nav_title: Scan, Pay, Win
 
 **When do I start to qualify for the Lucky Draw?**  
 The qualifying period is as follows:  
-a.	1 – 30 November 2020 for the December 2020 draw  
-b.	1 – 31 December 2020 for the January 2021 draw  
-c.	1 – 31 January 2021 for the February 2021 draw  
+
+a. 1 – 30 November 2020 for the December 2020 draw <br>
+b. 1 – 31 December 2020 for the January 2021 draw <br>
+c. 1 – 31 January 2021 for the February 2021 draw <br>
 
 ### Minimum Spend
 
@@ -51,9 +52,39 @@ No, you won’t qualify for the Lucky Draw.
 **When are the draw dates and where will the draws be held?**  
 The draws will be held at the NETS office at 298 Tiong Bahru Road, #06-01, Singapore 168730.
 
-1st draw: 10am, 22 Dec 2020 <br>
-2nd draw: 10am, 26 Jan 2021 <br>
-3rd draw: 10am, 24 Feb 2021 <br>
+<table class="spw-table-responsive">
+  <thead>
+    <tr>
+      <th>Qualifying Period</th>
+      <th>Description</th>
+      <th>Draw date/time</th>
+      <th>Result will be posted</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nov-20</td>
+      <td>1st draw</td>
+      <td>22 Dec 2020, 10am</td>
+      <td>27 Jan 2021, 12pm</td>
+    </tr>
+    <tr>
+      <td>Dec-20</td>
+      <td>2nd draw</td>
+      <td>26 Jan 2021, 10am</td>
+      <td>01 Mar 2021, 12pm</td>
+    </tr>
+    <tr>
+      <td>Jan-21</td>
+      <td>3rd draw</td>
+      <td>24 Feb 2021, 10am</td>
+      <td>26 Mar 2021, 12pm</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 ### Notification and Crediting of Prizes
 
