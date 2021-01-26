@@ -395,4 +395,8 @@ background: linear-gradient(to right, $primary, $secondary); /* W3C, IE 10+/ Edg
 
 .spw-table-equal-width{
   table-layout: fixed;
+
+  th:nth-child(1){
+    width: 63px;
+  }
 }
