@@ -15,14 +15,14 @@ Congratulations to the lucky winners!
 |S/No.| Full Name                     | Last 4 digits of mobile no. |
 |-----|-------------------------------|-----------------------------|
 | 1   |Lim Boon Leong                 |   \*\*\*\*7501              |
-{: refdef .spw-table-equal-width}
+{: refdef .spw-table-equal-width .spw-table-sn-col}
 
 **Runner-Up Prize** 
 
 |S/No.| Full Name                     | Last 4 digits of mobile no. |
 |-----|-------------------------------|-----------------------------|
 | 2   |Cai Shirong                    | \*\*\*\*6961                |
-{: refdef .spw-table-equal-width}
+{: refdef .spw-table-equal-width .spw-table-sn-col}
 
 **Consolation Prizes** 
 
@@ -68,9 +68,9 @@ Congratulations to the lucky winners!
 | 40  |         Tan Yong Kian         |       \*\*\*\*2857          |
 | 41  |         Tan Kian Long         |       \*\*\*\*1060          |
 | 42  |          Zhang Yixing         |       \*\*\*\*3772          |
-{: refdef .spw-table-equal-width}
+{: refdef .spw-table-equal-width .spw-table-sn-col}
 
-*Prizes unclaimed after 2-months from the draw date (i.e. by 15 February 2021) shall be donated to the Community Chest 
+<span class="spw-disclaimer">*Prizes unclaimed after 2-months from the draw date (i.e. by 15 February 2021) shall be donated to the Community Chest</span> 
 
 #### Stallholders
 Congratulations to the lucky winners!
@@ -88,7 +88,7 @@ Congratulations to the lucky winners!
 | 9   | Chong Siew Chi                  | Chef Recipe                           | \*\*\*\*3183                    |
 | 10  | Lim Soo Hong                    | Tanglin Hainanese Curry Rice          | \*\*\*\*9009                    |
 | 11  | Kok Kuan Hwa                    | Ming Kitchen Seafood Live             | \*\*\*\*9981                    |
-| 12  | Chua Kok Tiew                   | Dover Village Xo Fish Head Bee Hoon   | \*\*\*\*5122                    |
+| 12  | Chua Kok Tiew                   | Dover Village XO Fish Head Bee Hoon   | \*\*\*\*5122                    |
 | 13  | Chia Boon Kok                   | Xing Le Mala 810                      | \*\*\*\*6183                    |
 | 14  | Soh Hoon Siew                   | Quench Stall                          | \*\*\*\*0939                    |
 | 15  | Leong Siew Hoe                  | Chef B Western Delight                | \*\*\*\*6630                    |
@@ -98,8 +98,8 @@ Congratulations to the lucky winners!
 | 19  | Phua Soh Huat                   | London Grill                          | \*\*\*\*8200                    |
 | 20  | Gui Khin Huat                   | Sheng Cheng Cooked Food               | \*\*\*\*2910                    |
 | 21  | Chan Siew Ling                  | Ching Hao Wei                         | \*\*\*\*0284                    |
-| 22  | Siti Manisah Binte Bona         | Smb 01-39                             | \*\*\*\*6669                    |
-| 23  | Chua Kok Tiew                   | Dover Village Xo Fish Head Bee Hoon   | \*\*\*\*5122                    |
+| 22  | Siti Manisah Binte Bona         | SMB 01-39                             | \*\*\*\*6669                    |
+| 23  | Chua Kok Tiew                   | Dover Village XO Fish Head Bee Hoon   | \*\*\*\*5122                    |
 | 24  | Lim Jia Han                     | Hong Seng Curry Rice                  | \*\*\*\*2288                    |
 | 25  | Teo Soo Lang                    | Fresh Seafood 83                      | \*\*\*\*3805                    |
 | 26  | Tan Soo Kheng                   | SK Family Sundries                    | \*\*\*\*7644                    |
@@ -119,3 +119,4 @@ Congratulations to the lucky winners!
 | 40  | Chee Hiang San                  | Min Kee Hainanese Chicken Rice        | \*\*\*\*0291                    |
 | 41  | Tan Wei Ming                    | Living Wholesome Vegetarian           | \*\*\*\*5982                    |
 | 42  | Wang Zhi                        | Fort Canning Hill (Hua Kee) Bak Kut Teh | \*\*\*\*4325                  |
+{: refdef .spw-table-sn-col}

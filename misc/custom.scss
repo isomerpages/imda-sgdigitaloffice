@@ -393,10 +393,14 @@ background: linear-gradient(to right, $primary, $secondary); /* W3C, IE 10+/ Edg
   }
 }
 
+.spw-disclaimer{
+  font-size: 18px;
+}
+
 .spw-table-equal-width{
   table-layout: fixed;
+}
 
-  th:nth-child(1){
-    width: 63px;
-  }
+.spw-table-sn-col th:nth-child(1){
+  width: 65px;
 }
