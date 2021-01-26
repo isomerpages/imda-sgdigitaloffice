@@ -392,3 +392,7 @@ background: linear-gradient(to right, $primary, $secondary); /* W3C, IE 10+/ Edg
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+
+.spw-table-equal-width{
+  table-layout: fixed;
+}

@@ -15,13 +15,14 @@ Congratulations to the lucky winners!
 | Full Name                     | Last 4 digits of mobile no. |
 |-------------------------------|-----------------------------|
 |Lim Boon Leong                 |   \*\*\*\*7501              |
+{: refdef .spw-table-equal-width}
 
 **Runner Up** 
 
 | Full Name                     | Last 4 digits of mobile no. |
 |-------------------------------|-----------------------------|
 |Cai Shirong                    | \*\*\*\*6961                |
-
+{: refdef .spw-table-equal-width}
 
 **Consolation** 
 
@@ -61,7 +62,7 @@ Congratulations to the lucky winners!
 |         Tan Yong Kian         |       \*\*\*\*2857          |
 |         Tan Kian Long         |       \*\*\*\*1060          |
 |          Zhang Yixing         |       \*\*\*\*3772          |
-
+{: refdef .spw-table-equal-width}
 
 
 #### Stallholders
