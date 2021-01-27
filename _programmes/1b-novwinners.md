@@ -64,7 +64,7 @@ Congratulations to the lucky winners!
 | 36  |          Zhang Yixing         |       \*\*\*\*3772          |
 {: refdef .spw-table-equal-width .spw-table-sn-col}
 
-<span class="spw-disclaimer">Prizes unclaimed after 2-months from the draw date (i.e. by 15 February 2021) shall be donated to the Community Chest.</span> 
+<span class="spw-disclaimer">Prizes unclaimed after 2 months from the draw date (i.e. by 15 February 2021) shall be donated to the Community Chest.</span> 
 
 #### Stallholders
 Congratulations to the lucky winners!
