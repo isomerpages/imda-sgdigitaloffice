@@ -28,49 +28,43 @@ Congratulations to the lucky winners!
 
 |S/No.| Full Name                     | Last 4 digits of mobile no. |
 |-----|-------------------------------|-----------------------------|
-| 3   |    -*                         |    -*                       |
-| 4   |           Wong Kee            |       \*\*\*\*1810          |
-| 5   | Andy Chua Tak Wah             |       \*\*\*\*8228          |
-| 6   |       Romain Basseville       |       \*\*\*\*4865          |
-| 7   |          Soh Chang Yu         |       \*\*\*\*2338          |
-| 8   |       Tan Weiquan Daryl       |       \*\*\*\*4246          |
-| 9   |           Justin Hu           |       \*\*\*\*4736          |
-| 10  |          Lam Han Yong         |       \*\*\*\*2852          |
-| 11  |  Ong Wee Peng                 |       \*\*\*\*0981          |
-| 12  |           Wang Jing           |       \*\*\*\*5094          |
-| 13  |    -*                         |    -*                       |
-| 14  |    -*                         |    -*                       |
-| 15  |         Wang Pengfei          |       \*\*\*\*6068          |
-| 16  |         Wan Chew Hsia         |       \*\*\*\*0051          |
-| 17  |    -*                         |    -*                       |
-| 18  |          Or Yi Ning           |       \*\*\*\*6147          |
-| 19  |       Jamie Tan Hui Min       |       \*\*\*\*0096          |
-| 20  |         Foong Lai Keng        |       \*\*\*\*8489          |
-| 21  |       Lin Weicheng Elvin      |       \*\*\*\*4956          |
-| 22  |          Lau Kee Seng         |       \*\*\*\*4332          |
-| 23  |      Ng Joo Foon Jonathan     |       \*\*\*\*5597          |
-| 24  |         Lim Chin Huat         |       \*\*\*\*9390          |
-| 25  |         Lim Keng Soon         |       \*\*\*\*9146          |
-| 26  |      Martha Monica Lim        |       \*\*\*\*0087          |
-| 27  |         Khoo Gek Hong         |       \*\*\*\*8911          |
-| 28  |        Gopi S/O Kishnan       |       \*\*\*\*1384          |
-| 29  |       Alvin Tan Wei Han       |       \*\*\*\*6392          |
-| 30  |    -*                         |    -*                       |
-| 31  |    -*                         |    -*                       |
-| 32  |         Ang Yong Wei          |       \*\*\*\*6378          |
-| 33  |        Chen Tailong Jay       |       \*\*\*\*8998          |
-| 34  |        Chua Eng Chiang        |       \*\*\*\*8515          |
-| 35  |          Lee De Sheng         |       \*\*\*\*3356          |
-| 36  | Lim Fong Yueng                |       \*\*\*\*5447          |
-| 37  |          Tan Ting Kai         |       \*\*\*\*1255          |
-| 38  |       Wee He Wei, Wilbur      |       \*\*\*\*4799          |
-| 39  |             Jo Ong            |       \*\*\*\*0089          |
-| 40  |         Tan Yong Kian         |       \*\*\*\*2857          |
-| 41  |         Tan Kian Long         |       \*\*\*\*1060          |
-| 42  |          Zhang Yixing         |       \*\*\*\*3772          |
+| 3   |           Wong Kee            |       \*\*\*\*1810          |
+| 4   | Andy Chua Tak Wah             |       \*\*\*\*8228          |
+| 5   |       Romain Basseville       |       \*\*\*\*4865          |
+| 6   |          Soh Chang Yu         |       \*\*\*\*2338          |
+| 7   |       Tan Weiquan Daryl       |       \*\*\*\*4246          |
+| 8   |           Justin Hu           |       \*\*\*\*4736          |
+| 9   |          Lam Han Yong         |       \*\*\*\*2852          |
+| 10  |  Ong Wee Peng                 |       \*\*\*\*0981          |
+| 11  |           Wang Jing           |       \*\*\*\*5094          |
+| 12  |         Wang Pengfei          |       \*\*\*\*6068          |
+| 13  |         Wan Chew Hsia         |       \*\*\*\*0051          |
+| 14  |          Or Yi Ning           |       \*\*\*\*6147          |
+| 15  |       Jamie Tan Hui Min       |       \*\*\*\*0096          |
+| 16  |         Foong Lai Keng        |       \*\*\*\*8489          |
+| 17  |       Lin Weicheng Elvin      |       \*\*\*\*4956          |
+| 18  |          Lau Kee Seng         |       \*\*\*\*4332          |
+| 19  |      Ng Joo Foon Jonathan     |       \*\*\*\*5597          |
+| 20  |         Lim Chin Huat         |       \*\*\*\*9390          |
+| 21  |         Lim Keng Soon         |       \*\*\*\*9146          |
+| 22  |      Martha Monica Lim        |       \*\*\*\*0087          |
+| 23  |         Khoo Gek Hong         |       \*\*\*\*8911          |
+| 24  |        Gopi S/O Kishnan       |       \*\*\*\*1384          |
+| 25  |       Alvin Tan Wei Han       |       \*\*\*\*6392          |
+| 26  |         Ang Yong Wei          |       \*\*\*\*6378          |
+| 27  |        Chen Tailong Jay       |       \*\*\*\*8998          |
+| 28  |        Chua Eng Chiang        |       \*\*\*\*8515          |
+| 29  |          Lee De Sheng         |       \*\*\*\*3356          |
+| 30  | Lim Fong Yueng                |       \*\*\*\*5447          |
+| 31  |          Tan Ting Kai         |       \*\*\*\*1255          |
+| 32  |       Wee He Wei, Wilbur      |       \*\*\*\*4799          |
+| 33  |             Jo Ong            |       \*\*\*\*0089          |
+| 34  |         Tan Yong Kian         |       \*\*\*\*2857          |
+| 35  |         Tan Kian Long         |       \*\*\*\*1060          |
+| 36  |          Zhang Yixing         |       \*\*\*\*3772          |
 {: refdef .spw-table-equal-width .spw-table-sn-col}
 
-<span class="spw-disclaimer">*Prizes unclaimed after 2-months from the draw date (i.e. by 15 February 2021) shall be donated to the Community Chest</span> 
+<span class="spw-disclaimer">Prizes unclaimed after 2-months from the draw date (i.e. by 15 February 2021) shall be donated to the Community Chest.</span> 
 
 #### Stallholders
 Congratulations to the lucky winners!
