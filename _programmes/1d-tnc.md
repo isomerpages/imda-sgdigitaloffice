@@ -35,6 +35,9 @@ third_nav_title: Scan, Pay, Win
 			<li>1 – 30 November 2020</li>
 			<li>1 – 31 December 2020</li>
 			<li>1 – 31 January 2021</li>
+			<li>1 – 28 February 2021</li>
+			<li>1 – 31 March 2021</li>
+			<li>1 – 30 April 2021</li>
 		</ol>
 		<li>Qualifying Transactions must be at participating stalls who have adopted the Unified E-payment Scheme (“UePS”) under the HGD Initiative. These include:</li>
 		<ol class="spw-roman">
@@ -69,6 +72,9 @@ third_nav_title: Scan, Pay, Win
 		<li><span class="spw-bolded">1 – 30 November 2020</span> (Draw date <span class="spw-bolded">22 December 2020</span>)</li>
 		<li><span class="spw-bolded">1 – 31 December 2020</span> (Draw date <span class="spw-bolded">26 January 2021</span>) </li>
 		<li><span class="spw-bolded">1 – 31 January 2021</span> (Draw date <span class="spw-bolded">24 February 2021</span>)</li>
+		<li><span class="spw-bolded">1 – 28 February 2021</span> (Draw date <span class="spw-bolded">23 March 2021</span>)</li>
+		<li><span class="spw-bolded">1 – 31 March 2021</span> (Draw date <span class="spw-bolded">27 April 2021</span>)</li>
+		<li><span class="spw-bolded">1 – 30 April 2021</span> (Draw date <span class="spw-bolded">31 May 2021</span>)</li>
 	</ol>
 </ol>
 	

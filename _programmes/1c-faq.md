@@ -15,6 +15,9 @@ The qualifying period is as follows:
 a. 1 – 30 November 2020 for the December 2020 draw <br>
 b. 1 – 31 December 2020 for the January 2021 draw <br>
 c. 1 – 31 January 2021 for the February 2021 draw <br>
+d. 1 - 28 February 2021 for the March 2021 draw <br>
+e. 1 - 31 March 2021 for the April 2021 draw <br>
+f. 1 - 30 April 2021 for the May 2021 draw <br>
 
 ### Minimum Spend
 
@@ -79,6 +82,24 @@ The draws will be held at the NETS office at 298 Tiong Bahru Road, #06-01, Singa
       <td>3rd draw</td>
       <td>24 Feb 2021, 10am</td>
       <td>26 Mar 2021, 12pm</td>
+    </tr>
+    <tr>
+      <td>Feb-21</td>
+      <td>4th draw</td>
+      <td>23 Mar 2021, 10am</td>
+      <td>23 Apr 2021, 12pm</td>
+    </tr>
+    <tr>
+      <td>Mar-21</td>
+      <td>5th draw</td>
+      <td>27 Apr 2021, 10am</td>
+      <td>1 Jun 2021, 12pm</td>
+    </tr>
+    <tr>
+      <td>Apr-21</td>
+      <td>6th draw</td>
+      <td>31 May 2021, 10am</td>
+      <td>30 Jun 2021, 12pm</td>
     </tr>
   </tbody>
 </table>
