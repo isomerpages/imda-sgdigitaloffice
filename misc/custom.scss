@@ -404,3 +404,8 @@ background: linear-gradient(to right, $primary, $secondary); /* W3C, IE 10+/ Edg
 .spw-table-sn-col th:nth-child(1){
   width: 70px;
 }
+
+.spw-img-max-width{
+  max-width: 100%;
+  width: auto !important;
+}
