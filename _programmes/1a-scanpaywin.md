@@ -8,8 +8,7 @@ third_nav_title: Scan, Pay, Win
 #### Scan, Pay, Win / 扫描，付款，赢奖 / Imbas, Bayar, Menang / வருடி, செலுத்தி, வெல்க
 
 ![Scan, Pay, Win](/images/programmes/IMDA_SPW_KV.jpg)
-
-![Extended till 30 Apr 2021](/images/programmes/IMDA_SPW_Extension_Date.png)
+![Extended till 30 Apr 2021](/images/programmes/IMDA_SPW_Extension_Date.png){:class="spw-img-max-width"}
 
 ## Scan, Pay, Win Lucky Draw
 
