@@ -11,7 +11,7 @@ third_nav_title: Scan, Pay, Win
 
 ## Scan, Pay, Win Lucky Draw
 
-Extended till 30 Apr 2021.
+![Extended till 30 Apr 2021](/images/programmes/IMDA_SPW_Extension_Date.png)
 
 ### Let's go digital today!
 
