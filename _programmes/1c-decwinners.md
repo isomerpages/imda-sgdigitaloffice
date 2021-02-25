@@ -64,8 +64,8 @@ Congratulations to the lucky winners!
 
 | S/No. | Full Name                   | Stall Name                        | Last 4 digits of mobile no. |
 |-------|-----------------------------|-----------------------------------|-----------------------------|
-| 1     | Ee Chye   Teck              | Hong Kong   Street Hock Kee       | \*\*\*\*9804                |
-| 2     | Ang Li Kun                  | Broadway 727 Dk                   | \*\*\*\*6575                |
+| 1     | Ee Chye   Teck              | Hong Kong Street Hock Kee         | \*\*\*\*9804                |
+| 2     | Ang Li Kun                  | Broadway 727 DK                   | \*\*\*\*6575                |
 | 3     | Ong Cheng Kee               | Zai Shun Curry Fish Head          | \*\*\*\*2260                |
 | 4     | Chu Chee Keong              | 116 Porridge                      | \*\*\*\*9671                |
 | 5     | Chia Yin Peng               | #01-47 Wanton Noodle              | \*\*\*\*8055                |
@@ -84,7 +84,7 @@ Congratulations to the lucky winners!
 | 18    | Ng Chun Hiang               | Hup Lee Seng Poultry Supplier     | \*\*\*\*2494                |
 | 19    | Leng Siok Fun               | Ru Yi Yuan                        | \*\*\*\*3834                |
 | 20    | Tan Thoo Cheng              | Broadway                          | \*\*\*\*5858                |
-| 21    | Bevely Lee Bee Po           | Bao Kee Ginseng & Birdnest        | \*\*\*\*6464                |
+| 21    | Bevely Lee Bee Po           | Bao Kee Ginseng & BirdNest        | \*\*\*\*6464                |
 | 22    | Tan Choon Bee               | Yap Kee Noodle House              | \*\*\*\*0402                |
 | 23    | Koh Chun Chong, Chester     | Viethai Pte Ltd                   | \*\*\*\*3435                |
 | 24    | Chia Teck Chye              | Don & Set Japanese Food           | \*\*\*\*7353                |
@@ -104,6 +104,6 @@ Congratulations to the lucky winners!
 | 38    | Agnes Tan Poh Suan          | Bedok Chwee Kueh                  | \*\*\*\*6221                |
 | 39    | Yap Chee Keong Tony         | Bangkok Street Mookata            | \*\*\*\*1922                |
 | 40    | Ong Li Wan                  | Xin Bee Congee                    | \*\*\*\*2992                |
-| 41    | Low Sui Tong                | Tom'S Kitchen                     | \*\*\*\*0295                |
+| 41    | Low Sui Tong                | Tom's Kitchen                     | \*\*\*\*0295                |
 | 42    | Zhu Guijuan                 | You N Me Coffee                   | \*\*\*\*3026                |
 {: refdef .spw-table-sn-col}
