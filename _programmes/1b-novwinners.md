@@ -1,7 +1,7 @@
 ---
 title: November 2020 Winners
 description: Scan to pay. Scan to win. So easy!
-permalink: /programmes/scan-pay-win/november-winners
+permalink: /programmes/scan-pay-win/november-2020-winners
 third_nav_title: Scan, Pay, Win
 ---
 
