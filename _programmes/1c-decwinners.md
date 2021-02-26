@@ -14,7 +14,7 @@ Congratulations to the lucky winners!
 
 |S/No.| Full Name                     | Last 4 digits of mobile no. |
 |-----|-------------------------------|-----------------------------|
-| 1   |Withheld                       |   Withheld                  |
+| 1   |Chan Wing Keen                 | \*\*\*\*9777                |
 {: refdef .spw-table-equal-width .spw-table-sn-col}
 
 **Runner-Up Prize** 
@@ -34,27 +34,28 @@ Congratulations to the lucky winners!
 |   6   | Low Soon Huat Adrian            |         \*\*\*\*0901        |
 |   7   | Lim Swee Tiang                  |         \*\*\*\*9772        |
 |   8   | Kamaludeen Mohamed Yousuf       |         \*\*\*\*1479        |
-|   9   | Tan Tiaw Koon                   |         \*\*\*\*7930        |
-|   10  | Boh Jing Xuan Valerie           |         \*\*\*\*1515        |
-|   11  | TBC                             |         \*\*\*\*2104        |
-|   12  | Yee Shiow Luan                  |         \*\*\*\*0979        |
-|   13  | Ng We Yuan                      |         \*\*\*\*3720        |
-|   14  | Beckers Pierre Heinrich Lambert |         \*\*\*\*7987        |
-|   15  | Michael Roberts                 |         \*\*\*\*6880        |
-|   16  | Neo See Yong Hendrick           |         \*\*\*\*0810        |
-|   17  | Lydia Wong Min En               |         \*\*\*\*2243        |
-|   18  | Ling Choon Hou                  |         \*\*\*\*9179        |
-|   19  | Hor Kar Ling                    |         \*\*\*\*3014        |
-|   20  | TBC                             |         \*\*\*\*3390        |
-|   21  | Cheng Keh Chun                  |         \*\*\*\*0972        |
-|   22  | Li Zhen                         |         \*\*\*\*0824        |
-|   23  | Lim Lye Peng                    |         \*\*\*\*7969        |
-|   24  | Toh Kah Yen                     |         \*\*\*\*0780        |
-|   25  | Lem Zi Ren                      |         \*\*\*\*8799        |
-|   26  | Wong Yen Soo                    |         \*\*\*\*9753        |
-|   27  | Joseph Teo Chee Ming            |         \*\*\*\*9308        |
-|   28  | Toh Shi Rong                    |         \*\*\*\*2367        |
-|   29  | TBC                             |         \*\*\*\*6815        |
+|   9   | Tay Guo Xin                     |         \*\*\*\*2939        |
+|   10  | Tan Tiaw Koon                   |         \*\*\*\*7930        |
+|   11  | Boh Jing Xuan Valerie           |         \*\*\*\*1515        |
+|   12  | Irene Lai Seow Chuen            |         \*\*\*\*2104        |
+|   13  | Yee Shiow Luan                  |         \*\*\*\*0979        |
+|   14  | Ng We Yuan                      |         \*\*\*\*3720        |
+|   15  | Beckers Pierre Heinrich Lambert |         \*\*\*\*7987        |
+|   16  | Michael Roberts                 |         \*\*\*\*6880        |
+|   17  | Neo See Yong Hendrick           |         \*\*\*\*0810        |
+|   18  | Lydia Wong Min En               |         \*\*\*\*2243        |
+|   19  | Ling Choon Hou                  |         \*\*\*\*9179        |
+|   20  | Hor Kar Ling                    |         \*\*\*\*3014        |
+|   21  | Muhammad Fahrurrazi bin Muhammad Nazri|   \*\*\*\*3390        |
+|   22  | Cheng Keh Chun                  |         \*\*\*\*0972        |
+|   23  | Li Zhen                         |         \*\*\*\*0824        |
+|   24  | Lim Lye Peng                    |         \*\*\*\*7969        |
+|   25  | Toh Kah Yen                     |         \*\*\*\*0780        |
+|   26  | Lem Zi Ren                      |         \*\*\*\*8799        |
+|   27  | Wong Yen Soo                    |         \*\*\*\*9753        |
+|   28  | Joseph Teo Chee Ming            |         \*\*\*\*9308        |
+|   29  | Toh Shi Rong                    |         \*\*\*\*2367        |
+|   30  | Ho Peng Ann                     |         \*\*\*\*6815        |
 {: refdef .spw-table-equal-width .spw-table-sn-col}
 
 <span class="spw-disclaimer">Prizes unclaimed after 2 months from the draw date (i.e. by 22 March 2021) shall be donated to the Community Chest.</span> 
@@ -64,7 +65,7 @@ Congratulations to the lucky winners!
 
 | S/No. | Full Name                   | Stall Name                        | Last 4 digits of mobile no. |
 |-------|-----------------------------|-----------------------------------|-----------------------------|
-| 1     | Ee Chye   Teck              | Hong Kong Street Hock Kee         | \*\*\*\*9804                |
+| 1     | Ee Chye Teck                | Hong Kong Street Hock Kee         | \*\*\*\*9804                |
 | 2     | Ang Li Kun                  | Broadway 727 DK                   | \*\*\*\*6575                |
 | 3     | Ong Cheng Kee               | Zai Shun Curry Fish Head          | \*\*\*\*2260                |
 | 4     | Chu Chee Keong              | 116 Porridge                      | \*\*\*\*9671                |
@@ -98,9 +99,9 @@ Congratulations to the lucky winners!
 | 32    | Ng Beng Ghee (Huang Mingyi) | Chuan Kee Boneless Braised Duck   | \*\*\*\*5332                |
 | 33    | Wong Kin Yang               | Leong Ji Kitchen                  | \*\*\*\*5822                |
 | 34    | Seow Lai Hock               | Chai Ho Satay Dried Pork          | \*\*\*\*4015                |
-| 35    | Chan Choon Piaw             | 925 Chicken Rice                  | \*\*\*\*8261                |
+| 35    | Tan Ban Huat                | Yishun 325                        | \*\*\*\*2523                |
 | 36    | Wee Yih                     | Holy Grill                        | \*\*\*\*7763                |
-| 37    | Oh Hua Sing                 | Kim Poh                           | \*\*\*\*4662                |
+| 37    | Oh Hua Sing                 | Kim Poh Fishhead Steamboat        | \*\*\*\*9919                |
 | 38    | Agnes Tan Poh Suan          | Bedok Chwee Kueh                  | \*\*\*\*6221                |
 | 39    | Yap Chee Keong Tony         | Bangkok Street Mookata            | \*\*\*\*1922                |
 | 40    | Ong Li Wan                  | Xin Bee Congee                    | \*\*\*\*2992                |
