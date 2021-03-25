@@ -76,7 +76,7 @@ Congratulations to the lucky winners!
 | 3     | Li Qiong                            | Yu Xin Mala Xiang Guo               | \*\*\*\*6815                |
 | 4     | Lau Keng Wei                        | Lau's Seafood                       | \*\*\*\*1416                |
 | 5     | Lim Ah Huat                         | 85 Foodie                           | \*\*\*\*5926                |
-| 6     | Nornizam Bin Amin                   | Rayyan'S Waroeng Upnormal           | \*\*\*\*7373                |
+| 6     | Nornizam Bin Amin                   | Rayyan's Waroeng Upnormal           | \*\*\*\*7373                |
 | 7     | Lim Lee Ping                        | Wan Gui Beverages                   | \*\*\*\*5566                |
 | 8     | Kok Kuan Hwa                        | Seafood                             | \*\*\*\*1468                |
 | 9     | Xu Wuyi                             | Ah Yi Handmade Noodle               | \*\*\*\*3995                |
