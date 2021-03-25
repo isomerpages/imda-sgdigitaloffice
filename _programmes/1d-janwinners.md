@@ -21,7 +21,7 @@ Congratulations to the lucky winners!
 
 |S/No.| Full Name                     | Last 4 digits of mobile no. |
 |-----|-------------------------------|-----------------------------|
-| 2   |Withheld                       | Withheld                    |
+| 2   |-                              | -                           |
 {: refdef .spw-table-equal-width .spw-table-sn-col}
 
 **Consolation Prizes** 
@@ -88,11 +88,11 @@ Congratulations to the lucky winners!
 | 15    | Soong Teck Hoe                      | Song Fish Soup #01-38               | \*\*\*\*1121                |
 | 16    | Lim Joo Chang                       | Sinar Seafood                       | \*\*\*\*9669                |
 | 17    | Toh Ching Kang                      | Ming Xiang Food Pte Ltd             | \*\*\*\*0830                |
-| 18    | Ong Chen Khoon                      | Khoon'S Katong Laksa & Seafood Soup | \*\*\*\*8339                |
-| 19    | Leng Hong Chuan                     | 573 Mr Wol Pte Ltd                  | \*\*\*\*1191                |
+| 18    | Ong Chen Khoon                      | Khoon's Katong Laksa & Seafood Soup | \*\*\*\*8339                |
+| 19    | Leng Hong Chuan                     | 573 Mr WDL Pte Ltd                  | \*\*\*\*1191                |
 | 20    | Wu Min                              | Mala Hotpot                         | \*\*\*\*6892                |
 | 21    | Kok Kuan Pow                        | Grains & Hops                       | \*\*\*\*7006                |
-| 22    | Teo Guo Qiang                       | Gq'S Grill                          | \*\*\*\*8034                |
+| 22    | Teo Guo Qiang                       | Gq's Grill                          | \*\*\*\*8034                |
 | 23    | Chng Chin Heng                      | Hom Aroy Thai Food                  | \*\*\*\*7446                |
 | 24    | Wan Chee Hock                       | Lili Kway Chap                      | \*\*\*\*3857                |
 | 25    | Tan Jee Kee                         | Boon Kee Wanton Noodle              | \*\*\*\*3722                |
@@ -109,8 +109,8 @@ Congratulations to the lucky winners!
 | 36    | Teng Choon Theng                    | Yi You Shao La Yun Tun              | \*\*\*\*5833                |
 | 37    | Chew Teck San                       | #01-54                              | \*\*\*\*2109                |
 | 38    | Chan Suet Tin                       | Tuck Kee                            | \*\*\*\*2083                |
-| 39    | Ivan Lee Le Ern(Li Li En)           | Ivan'S Carbina                      | \*\*\*\*1614                |
+| 39    | Ivan Lee Le Ern(Li Li En)           | Ivan's Carbina                      | \*\*\*\*1614                |
 | 40    | Ng Nang Lik                         | Queenstown You Tiao                 | \*\*\*\*9348                |
-| 41    | To Confirm (Pending Reply)          | To Confirm (Pending Reply)          |                             |
+| 41    | Drink Stall                         | GM Food Centre Pte Ltd              | \*\*\*\*6060                |
 | 42    | Saw Hock Soon                       | Cong Ying Food & Beverage           | \*\*\*\*4819                |
 {: refdef .spw-table-sn-col}
