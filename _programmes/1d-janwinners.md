@@ -74,7 +74,7 @@ Congratulations to the lucky winners!
 | 1     | Tan Koon Yeow                       | Yeow Fresh And Frozen Food          | \*\*\*\*4992                |
 | 2     | Jeremy Chee                         | Rice Bowl Boys                      | \*\*\*\*1983                |
 | 3     | Li Qiong                            | Yu Xin Mala Xiang Guo               | \*\*\*\*6815                |
-| 4     | Lau Keng Wei                        | Lau'S Seafood                       | \*\*\*\*1416                |
+| 4     | Lau Keng Wei                        | Lau's Seafood                       | \*\*\*\*1416                |
 | 5     | Lim Ah Huat                         | 85 Foodie                           | \*\*\*\*5926                |
 | 6     | Nornizam Bin Amin                   | Rayyan'S Waroeng Upnormal           | \*\*\*\*7373                |
 | 7     | Lim Lee Ping                        | Wan Gui Beverages                   | \*\*\*\*5566                |
@@ -97,7 +97,7 @@ Congratulations to the lucky winners!
 | 24    | Wan Chee Hock                       | Lili Kway Chap                      | \*\*\*\*3857                |
 | 25    | Tan Jee Kee                         | Boon Kee Wanton Noodle              | \*\*\*\*3722                |
 | 26    | Augustinus Wijaya                   | Maruhachi                           | \*\*\*\*5750                |
-| 27    | Ting Boon Kai                       | Xlx Modern Tze Char                 | \*\*\*\*9164                |
+| 27    | Ting Boon Kai                       | XLX Modern Tze Char                 | \*\*\*\*9164                |
 | 28    | Tan Boon Lian                       | Lian Flower Shop                    | \*\*\*\*2917                |
 | 29    | Mohammed Hisham                     | Ismail Beef Shop                    | \*\*\*\*3671                |
 | 30    | Kamsol Bin Ahmad                    | Shimas Kitchen                      | \*\*\*\*2440                |
