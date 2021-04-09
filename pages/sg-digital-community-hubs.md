@@ -125,7 +125,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr style="border: 1px solid;" />
     <p style="margin-left: 10px;">ACE the Place CC</p>
     <hr />
-    <p style="margin-left: 10px;">Ang Mo Kio CC</p>
     <hr />
     <p style="margin-left: 10px;">Ang Mo Kio Public Library</p>
     <hr />
