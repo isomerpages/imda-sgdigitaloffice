@@ -35,6 +35,8 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Kampong Chai Chee CC (Heartbeat@Bedok)</p>
     <hr />
+    <p style="margin-left: 10px;">Kampong Kembangan CC</p>
+    <hr />
     <p style="margin-left: 10px;">Pasir Ris Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">PSC@Our Tampines Hub</p>
