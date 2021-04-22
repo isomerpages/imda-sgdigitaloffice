@@ -79,25 +79,29 @@ Congratulations to the lucky winners!
 | 12    | Ng Lyepoh              | Pork 86                        | \*\*\*\*9762                |
 | 13    | Choong Suet Leng       | Eddys Kitchen                  | \*\*\*\*6762                |
 | 14    | Siow Nyeok Fui         | Alternation                    | \*\*\*\*6616                |
-| 15    | Chua Soo Guan          | Chua Seng Coffee Powder        | \*\*\*\*2468                |
-| 16    | He Puguang             | E-Day                          | \*\*\*\*1126                |
-| 17    | Wu Weixin              | Beverages                      | \*\*\*\*4385                |
-| 18    | Ng Han Keow            | Kimly MVR West Pte Ltd         | \*\*\*\*8007                |
-| 19    | Soh Seng Hiong         | KPT 78 Tze Char                | \*\*\*\*6822                |
-| 20    | Chew Chor Meng         | 888 Mookata                    | \*\*\*\*8608                |
-| 21    | Chong Chee Beng        | 94 Eating P/L                  | \*\*\*\*9989                |
-| 22    | Ong Yuan Qing Germaine | Annyeong Chicken               | \*\*\*\*2409                |
-| 23    | Low Kim Nai            | Pasta Risotto                  | \*\*\*\*6819                |
-| 24    | Kor Siew Khuan         | Tai Sun Coffee                 | \*\*\*\*2267                |
-| 25    | How Gui Lin            | Seng Seng Fresh Market         | \*\*\*\*8776                |
-| 26    | Then Poh Hiong         | Traditional Pancake            | \*\*\*\*8814                |
-| 27    | Woon Sang Bin          | Chilled Pork(WM)               | \*\*\*\*8453                |
-| 28    | Tang Germaine          | WGS B514                       | \*\*\*\*9831                |
-| 29    | Lim Kwee Kiang         | 02-24 Cafe Club                | \*\*\*\*4757                |
-| 30    | Aw Lay Choo            | Western Mealbox                | \*\*\*\*9095                |
-| 31    | Ng Ping Kiat           | Hua Long Seafood Pte Ltd       | \*\*\*\*5577                |
-| 32    | Lim Kian Kim           | Lim Tean Lye Trading           | \*\*\*\*7544                |
-| 33    | Tok Peng Wei           | Yi Fa Fishball Noodle          | \*\*\*\*1750                |
-| 34    | Kok Kuan Hwa           | Mixed Vege Rice                | \*\*\*\*1468                |
-| 35    | Zaiton Bte Hashim      | Kepada Zaiton Bte Hashim       | \*\*\*\*9944                |
+| 15    | Chan Hua Heng          | Chop Eng Huat                  | \*\*\*\*6693                |
+| 16    | Chua Soo Guan          | Chua Seng Coffee Powder        | \*\*\*\*2468                |
+| 17    | Hon Chwee Ngoh         | Yong Hwa                       | \*\*\*\*5311                |
+| 18    | He Puguang             | E-Day                          | \*\*\*\*1126                |
+| 19    | Broadway 147/414 SF P/L| 612 SF                         | \*\*\*\*0152                |
+| 20    | Wu Weixin              | Beverages                      | \*\*\*\*4385                |
+| 21    | Ng Han Keow            | Kimly MVR West Pte Ltd         | \*\*\*\*8007                |
+| 22    | Soh Seng Hiong         | KPT 78 Tze Char                | \*\*\*\*6822                |
+| 23    | Chew Chor Meng         | 888 Mookata                    | \*\*\*\*8608                |
+| 24    | Chong Chee Beng        | 94 Eating P/L                  | \*\*\*\*9989                |
+| 25    | Ong Yuan Qing Germaine | Annyeong Chicken               | \*\*\*\*2409                |
+| 26    | Low Kim Nai            | Pasta Risotto                  | \*\*\*\*6819                |
+| 27    | Kor Siew Khuan         | Tai Sun Coffee                 | \*\*\*\*2267                |
+| 28    | How Gui Lin            | Seng Seng Fresh Market         | \*\*\*\*8776                |
+| 29    | Then Poh Hiong         | Traditional Pancake            | \*\*\*\*8814                |
+| 30    | Woon Sang Bin          | Chilled Pork(WM)               | \*\*\*\*8453                |
+| 31    | Tang Germaine          | WGS B514                       | \*\*\*\*9831                |
+| 32    | Lim Kwee Kiang         | 02-24 Cafe Club                | \*\*\*\*4757                |
+| 33    | Na Yu Meng             | Fruit Stall                    | \*\*\*\*5826                |
+| 34    | Aw Lay Choo            | Western Mealbox                | \*\*\*\*9095                |
+| 35    | Ng Ping Kiat           | Hua Long Seafood Pte Ltd       | \*\*\*\*5577                |
+| 36    | Lim Kian Kim           | Lim Tean Lye Trading           | \*\*\*\*7544                |
+| 37    | Tok Peng Wei           | Yi Fa Fishball Noodle          | \*\*\*\*1750                |
+| 38    | Kok Kuan Hwa           | Mixed Vege Rice                | \*\*\*\*1468                |
+| 39    | Zaiton Bte Hashim      | Kepada Zaiton Bte Hashim       | \*\*\*\*9944                |
 {: refdef .spw-table-sn-col}
