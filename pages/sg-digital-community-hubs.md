@@ -94,7 +94,10 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <p style="margin-left: 10px;">Geylang East Library</p>
     <hr />
     <p style="margin-left: 10px;">Kampong Kembangan CC</p>
+ staging
+    <hr />  
     <hr />
+ master
     <p style="margin-left: 10px;">Leng Kee CC</p>
     <hr />
     <p style="margin-left: 10px;">library@Chinatown <br>(Open daily from 11:30am to 8pm)</p>
@@ -127,6 +130,10 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr style="border: 1px solid;" />
     <p style="margin-left: 10px;">ACE the Place CC</p>
     <hr />
+ staging
+    <hr />
+
+ master
     <p style="margin-left: 10px;">Ang Mo Kio Public Library</p>
     <hr />
     <p style="margin-left: 10px;">Ci Yuan CC</p>
