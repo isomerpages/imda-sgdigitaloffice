@@ -14,7 +14,7 @@ Congratulations to the lucky winners!
 
 |S/No.| Full Name                     | Last 4 digits of mobile no. |
 |-----|-------------------------------|-----------------------------|
-| 1   |Kwok Weng Fook Kevin           | \*\*\*\*5652                |
+| 1   |Lim Jwen-Hsiong, Kenneth       | \*\*\*\*5048                |
 {: refdef .spw-table-equal-width .spw-table-sn-col}
 
 **Runner-Up Prize** 
@@ -28,7 +28,7 @@ Congratulations to the lucky winners!
 
 | S/No. | Full Name                   | Last 4 digits of mobile no. |
 |-------|-----------------------------|-----------------------------|
-|   3   | Arthur Chong Sheng Bng      |     \*\*\*\*8721            |
+|   3   | Kwok Weng Fook, Kevin       |     \*\*\*\*5652            |
 |   4   | Yang Sok Inn                |     \*\*\*\*9920            |
 |   5   | Poh Kai Yan Samuel          |     \*\*\*\*1119            |
 |   6   | Tay Siew Heok               |     \*\*\*\*8582            |
@@ -48,20 +48,22 @@ Congratulations to the lucky winners!
 |   20  | Muhammad Firdous Bin Haniff |     \*\*\*\*5998            |
 |   21  | Wu Lufei                    |     \*\*\*\*4658            |
 |   22  | Tan Poon Chin Jonathan      |     \*\*\*\*8648            |
-|   23  | Chew Siew Hong Dennis       |     \*\*\*\*2366            |
-|   24  | Neo Tiong Tien              |     \*\*\*\*8154            |
-|   25  | Wang Aishan                 |     \*\*\*\*9297            |
-|   26  | Qian Miqiong                |     \*\*\*\*5726            |
-|   27  | Ding Wen Han Howard         |     \*\*\*\*9295            |
-|   28  | Amnard Jan                  |     \*\*\*\*1881            |
-|   29  | Wong Hwee Yee Delia         |     \*\*\*\*3460            |
-|   30  | Irene Mi Na                 |     \*\*\*\*0566            |
-|   31  | Zayne Oh Zhan Rong          |     \*\*\*\*4679            |
-|   32  | Ng Hwee Ling                |     \*\*\*\*3029            |
-|   33  | Lim Jwen-Hsiong, Kenneth    |     \*\*\*\*5048            |
-|   34  | Jesny Teo Pei Ying          |     \*\*\*\*4371            |
-|   35  | Low Teck Tiew               |     \*\*\*\*7336            |
-|   36  | Clara Tan Jun Wei           |     \*\*\*\*3990            |
+|   23  | Lim Siew Hong               |     \*\*\*\*1268            |
+|   24  | Chew Siew Hong Dennis       |     \*\*\*\*2366            |
+|   25  | Neo Tiong Tien              |     \*\*\*\*8154            |
+|   26  | Wang Aishan                 |     \*\*\*\*9297            |
+|   27  | Qian Miqiong                |     \*\*\*\*5726            |
+|   28  | Arthur Chong Sheng Bng      |     \*\*\*\*8721            |
+|   29  | Amnard Jan                  |     \*\*\*\*1881            |
+|   30  | Wong Hwee Yee Delia         |     \*\*\*\*3460            |
+|   31  | Irene Mi Na                 |     \*\*\*\*0566            |
+|   32  | Zayne Oh Zhan Rong          |     \*\*\*\*4679            |
+|   33  | Ng Hwee Ling                |     \*\*\*\*3029            |
+|   34  | Ding Wen Han Howard         |     \*\*\*\*9295            |
+|   35  | Jesny Teo Pei Ying          |     \*\*\*\*4371            |
+|   36  | Low Teck Tiew               |     \*\*\*\*7336            |
+|   37  | Clara Tan Jun Wei           |     \*\*\*\*3990            |
+|   38  | Tan Geok Ling               |     \*\*\*\*9444            |
 {: refdef .spw-table-equal-width .spw-table-sn-col}
 
 <span class="spw-disclaimer">Prizes unclaimed after 2 months from the draw date (i.e. by 20 April 2021) shall be donated to the Community Chest.</span> 
