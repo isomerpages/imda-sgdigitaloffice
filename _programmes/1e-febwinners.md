@@ -103,5 +103,5 @@ Congratulations to the lucky winners!
 | 36    | Lim Kian Kim           | Lim Tean Lye Trading           | \*\*\*\*7544                |
 | 37    | Tok Peng Wei           | Yi Fa Fishball Noodle          | \*\*\*\*1750                |
 | 38    | Kok Kuan Hwa           | Mixed Vege Rice                | \*\*\*\*1468                |
-| 39    | Zaiton Bte Hashim      | Kepada Zaiton Bte Hashim       | \*\*\*\*9944                |
+| 39    | Zaiton Bte Hashim      | All Bout Chicken               | \*\*\*\*9944                |
 {: refdef .spw-table-sn-col}
