@@ -20,7 +20,7 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: +65 6377 3800
-    - email: info@sdo.gov.sg
+    - email: info@imda.gov.sg
     - other: Looking for a nearest SG Digital Community Hub for 1-to-1 assistance? <a href="https://www.sdo.gov.sg/sg-digital-community-hubs/">Click here</a>.
   #  - other: Any text here <i>including HTML</i>
  
