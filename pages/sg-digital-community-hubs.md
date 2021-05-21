@@ -16,7 +16,7 @@ In view of the Phase 2 Heightened Alert, all on-site services at the SG Digital 
 
 All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public Holidays.
 
-| # NORTH | |
+| NORTH | |
 | ------------- | ------------- |
 | GRC | Contact No |
 |Ang Mo Kio |	89401640 |
@@ -24,7 +24,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 | Marsiling - Yew Tee |	89401609 |
 | Nee Soon |	92354634 |
 
-| # WEST | | |
+| WEST | | |
 | ------------- | ------------- |
 | GRC |	Contact No |
 | Jurong	| 89401761 |
@@ -32,4 +32,19 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 | Choa Chu Kang |	89401682 |
 | West Coast | 89401670 |
 
+| CENTRAL | | |
+| ------------- | ------------- |
+| GRC |	Contact No |
+| Marine Parade |	89401662 |
+| Jalan Besar	| 89401766 |
+| Bishan-TP	| 96576738 |
+| Tanjong Pagar |	89401644 |
 
+| CENTRAL | | |
+| ------------- | ------------- |
+| GRC	| Contact No |
+| Aljunied |	96511815 |
+| East Coast |	91250892 |
+| Tampines |	97627760 |
+| Pasir Ris - Punggol |	89401631 |
+| Sengkang	| 81279163 |
