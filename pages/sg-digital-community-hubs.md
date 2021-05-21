@@ -16,7 +16,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
 <br>
 ##### Our SG Digital Offices will be **closed on public holidays, and are open daily from 10am – 6.30pm**, unless otherwise stated. 
 
-# - <br>
+# - other: <br>
 <div>
    <div class="row">
     <div class="col-sm-6">
