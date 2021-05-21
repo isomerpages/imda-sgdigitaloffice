@@ -41,7 +41,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 | GRC |	Contact No |
 | Marine Parade |	89401662 |
 | Jalan Besar	| 89401766 |
-| Bishan-TP	| 96576738 |
+| Bishan-Toa Payoh	| 96576738 |
 | Tanjong Pagar |	89401644 |
 
 <br>
