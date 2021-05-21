@@ -28,6 +28,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 <br>
 
 ### WEST
+
 | GRC |	Contact No |
 | ------------- | ------------- |
 | Jurong	| 89401761 |
@@ -38,6 +39,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 <br>
 
 ### CENTRAL
+
 | GRC |	Contact No |
 | ------------- | ------------- |
 | Marine Parade |	89401662 |
@@ -48,6 +50,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 <br>
 
 ### EAST
+
 | GRC	| Contact No |
 | ------------- | ------------- |
 | Aljunied |	96511815 |
