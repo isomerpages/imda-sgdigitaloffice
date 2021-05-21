@@ -12,11 +12,12 @@ permalink: /sg-digital-community-hubs/
 
 ![image](/images/sg digital community hubs/SG-Digital-Community-Hub.jpg)
 
-In view of the Phase 2 Heightened Alert, all on-site services at the SG Digital community hubs, learning journeys and small group lessons will be suspended till announced. We will continue to offer 1:1 lessons via Zoom, WhatsApp or telephone. You may contact one of our virtual hubs at your GRC below for an appointment. 
+** In view of the Phase 2 Heightened Alert, all on-site services at the SG Digital community hubs, learning journeys and small group lessons will be suspended till announced. We will continue to offer 1:1 lessons via Zoom, WhatsApp or telephone. You may contact one of our virtual hubs at your GRC below for an appointment. **
 
 All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public Holidays.
 
-# NORTH
+### NORTH
+
 | GRC | Contact No |
 | ------------- | ------------- |
 |Ang Mo Kio |	89401640 |
@@ -26,7 +27,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 
 <br>
 
-# WEST
+### WEST
 | GRC |	Contact No |
 | ------------- | ------------- |
 | Jurong	| 89401761 |
@@ -36,7 +37,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 
 <br>
 
-# CENTRAL
+### CENTRAL
 | GRC |	Contact No |
 | ------------- | ------------- |
 | Marine Parade |	89401662 |
@@ -46,7 +47,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 
 <br>
 
-# EAST
+### EAST
 | GRC	| Contact No |
 | ------------- | ------------- |
 | Aljunied |	96511815 |
