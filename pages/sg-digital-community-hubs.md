@@ -24,7 +24,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 | Marsiling - Yew Tee |	89401609 |
 | Nee Soon |	92354634 |
 
-| WEST | | |
+| WEST | |
 | ------------- | ------------- |
 | GRC |	Contact No |
 | Jurong	| 89401761 |
@@ -32,7 +32,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 | Choa Chu Kang |	89401682 |
 | West Coast | 89401670 |
 
-| CENTRAL | | |
+| CENTRAL | |
 | ------------- | ------------- |
 | GRC |	Contact No |
 | Marine Parade |	89401662 |
@@ -40,7 +40,7 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 | Bishan-TP	| 96576738 |
 | Tanjong Pagar |	89401644 |
 
-| CENTRAL | | |
+| EAST | |
 | ------------- | ------------- |
 | GRC	| Contact No |
 | Aljunied |	96511815 |
