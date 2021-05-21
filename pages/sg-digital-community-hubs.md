@@ -22,7 +22,3 @@ All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public 
 | Marsiling - Yew Tee |	89401609 |
 | Nee Soon |	92354634 |
 
-
-
-
-![image](https://user-images.githubusercontent.com/54795484/119086409-0634f180-ba38-11eb-8fcd-6bfca4c6fb2b.png)
