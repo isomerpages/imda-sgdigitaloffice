@@ -16,6 +16,7 @@ In view of the Phase 2 Heightened Alert, all on-site services at the SG Digital 
 
 All virtual hubs will operate from 10am to 6pm, Monday to Sunday, except Public Holidays.
 
+| NORTH | | |
 |GRC | Contact No |
 |Ang Mo Kio |	89401640 |
 | Sembawang |	96549607 |
