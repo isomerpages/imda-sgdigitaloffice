@@ -14,7 +14,7 @@ permalink: /sg-digital-community-hubs/
 
 Our Digital Ambassadors will be located at selected Community Clubs/Centres and Public Libraries, ready to provide 1-to-1 guidance on a customised package tailored to equip you for a digital life.
 <br>
-##### Our SG Digital Offices will be **closed on public holidays, and are open daily from 10am – 6.30pm**, unless otherwise stated. 
+##### From 1 June 2021, SG Digital Community Hubs in CCs will be open daily from 10am to 6pm while SG Digital Community Hubs in libraries will be open daily from 1pm - 6pm.
 
 <br>
 <div>
@@ -32,6 +32,8 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <p style="margin-left: 10px;">Cheng San Public Library <br>(Open daily from 11:30am to 8pm)</p>
     <hr />
     <p style="margin-left: 10px;">Hougang CC</p>
+    <hr />
+    <p style="margin-left: 10px;">Kallang CC</p>
     <hr />
     <p style="margin-left: 10px;">Kampong Chai Chee CC (Heartbeat@Bedok)</p>
     <hr />
@@ -120,6 +122,8 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <p style="margin-left: 10px;">Toa Payoh Public Library</p>
     <hr />
     <p style="margin-left: 10px;">Toa Payoh South CC</p>
+    <hr />
+    <p style="margin-left: 10px;"> Whampoa CC (relocating to Kallang CC from 31 May 2021) </p>
     <hr style="border: 1px solid;" />
     </div>
     <p><strong>NORTH</strong></p>
