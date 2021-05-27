@@ -1,7 +1,7 @@
 ---
 title: March 2021 Winners
 description: Scan to pay. Scan to win. So easy!
-permalink: /programmes/scan-pay-win/marh-2021-winners
+permalink: /programmes/scan-pay-win/mar-2021-winners
 third_nav_title: Scan, Pay, Win
 ---
 
