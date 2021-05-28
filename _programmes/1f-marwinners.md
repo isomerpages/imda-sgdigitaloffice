@@ -37,7 +37,7 @@ Congratulations to the lucky winners!
 |   9   |          Ng Boon How         |     \*\*\*\*3608            |
 |   10  |         Gui Wee Kuan         |     \*\*\*\*7652            |
 |   11  |       Toh Kok Wah Danny      |     \*\*\*\*2529            |
-|   12  |            Yu Yong           |     \*\*\*\*588             |
+|   12  |            Yu Yong           |     \*\*\*\*0588            |
 |   13  |         Koong Kok On         |     \*\*\*\*0869            |
 |   14  | Nazir Ahmed S/O Raja Mohamed |     \*\*\*\*1040            |
 |   15  |         Tan Cheng Lin        |                             |
@@ -48,7 +48,7 @@ Congratulations to the lucky winners!
 |   20  |         Lim Siau Hui         |     \*\*\*\*7137            |
 |   21  |        Suminto Winardi       |     \*\*\*\*1157            |
 |   22  |       Shawn Lim Jun Wei      |     \*\*\*\*2967            |
-|   23  |      Sim Kwang Ming Eric     |     \*\*\*\*496             |
+|   23  |      Sim Kwang Ming Eric     |     \*\*\*\*0496            |
 |   24  |     Chia Pei Xuan Joleen     |     \*\*\*\*5517            |
 |   25  |     Leo Shih Yeh, Clarice    |     \*\*\*\*3378            |
 |   26  |      Winston Donald Heng     |     \*\*\*\*8480            |
