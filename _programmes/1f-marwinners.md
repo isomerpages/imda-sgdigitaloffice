@@ -14,7 +14,7 @@ Congratulations to the lucky winners!
 
 |S/No.| Full Name                     | Last 4 digits of mobile no. |
 |-----|-------------------------------|-----------------------------|
-| 1   | Withheld                      | Withheld                    |
+| 1   | -                             | -                           |
 {: refdef .spw-table-equal-width .spw-table-sn-col}
 
 **Runner-Up Prize** 
@@ -40,12 +40,12 @@ Congratulations to the lucky winners!
 |   12  |            Yu Yong           |     \*\*\*\*0588            |
 |   13  |         Koong Kok On         |     \*\*\*\*0869            |
 |   14  | Nazir Ahmed S/O Raja Mohamed |     \*\*\*\*1040            |
-|   15  |         Tan Cheng Lin        |                             |
+|   15  |         Tan Cheng Lin        |     -                       |
 |   16  |        Kho Tiing Tiing       |     \*\*\*\*9387            |
 |   17  |         Hui Jia Junn         |     \*\*\*\*9387            |
 |   18  |      Eunice Lim Chin Sim     |     \*\*\*\*2787            |
 |   19  |     Rachel Chua Jia Ying     |     \*\*\*\*4714            |
-|   20  |         Lim Siau Hui         |     \*\*\*\*7137            |
+|   20  |         Lim Siau Hui         |     \*\*\*\*1328            |
 |   21  |        Suminto Winardi       |     \*\*\*\*1157            |
 |   22  |       Shawn Lim Jun Wei      |     \*\*\*\*2967            |
 |   23  |      Sim Kwang Ming Eric     |     \*\*\*\*0496            |
