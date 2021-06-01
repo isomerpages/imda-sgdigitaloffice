@@ -2,7 +2,7 @@
 title: SG Digital Community Hubs
 description: Our Digital Ambassadors will be located at selected Community Clubs/Centres and Public Libraries, ready to provide 1-to-1 guidance on a customised package tailored to equip you for a digital life.
 image:
-  path: /images/sg digital community hubs/SG-Digital-Community-Hub.jpg
+  path: /images/sg-digital-community-hubs/SG-Digital-Community-Hub.jpg
   height: 100
   width: 100
 permalink: /sg-digital-community-hubs/
@@ -10,7 +10,7 @@ permalink: /sg-digital-community-hubs/
 
 #### Singapore Digital Community Hubs / 新加坡数码转型社区援助站 / Hab masyarakat Digital Singapura / சிங்கப்பூர் மின்னிலக்க சமூக நடுவங்கள்
 
-![image](/images/sg digital community hubs/SG-Digital-Community-Hub.jpg)
+![image](/images/sg-digital-community-hubs/SG-Digital-Community-Hub.jpg)
 
 Our Digital Ambassadors will be located at selected Community Clubs/Centres and Public Libraries, ready to provide 1-to-1 guidance on a customised package tailored to equip you for a digital life.
 <br>
