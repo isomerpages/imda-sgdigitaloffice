@@ -71,35 +71,38 @@ Congratulations to the lucky winners!
 | 5     | Peh Seow Siean                 | Chang Ji                      |     \*\*\*\*2220            |
 | 6     | Ong Lim Chong                  | Hougang Fried Oyster          |     \*\*\*\*0702            |
 | 7     | Ng Siew Hoon                   | W Kitchen Western Food        |     \*\*\*\*3662            |
-| 8     | Ang Eng Wah                    | Poh Cheu Kitchen Pte Ltd      |     \*\*\*\*3973            |
-| 9     | Shui Poh Sing                  | Ah Seng Durian                |     \*\*\*\*6160            |
-| 10    | Huang Liming                   | Tang Shifu                    |     \*\*\*\*9189            |
-| 11    | Tan Thoo Cheng                 | Broadway 612 Dk               |     \*\*\*\*6575            |
-| 12    | Ng Ping Kiat                   | Hua Long Seafood              |     \*\*\*\*5577            |
-| 13    | Ng Yew Aik                     | Hoe Yin Kee                   |     \*\*\*\*8668            |
-| 14    | Sai Feng Hui                   | Coffee Break                  |     \*\*\*\*3052            |
-| 15    | Eukang Chan Ken Haw            | Gr Holdings                   |     \*\*\*\*3188            |
-| 16    | Tan Jee Kee                    | Boon Kee Wanton Noodle        |     \*\*\*\*6208            |
-| 17    | Siah Ming Shoon                | 146 Tim Sum Handmade Bao      |     \*\*\*\*5649            |
-| 18    | Lee Syafiq Bin Muhammad Ridzua | Ashes Burmit                  |     \*\*\*\*9130            |
-| 19    | Goh Swee Huat                  | 01-137                        |     \*\*\*\*3737            |
-| 20    | Ho Chun Wah                    | One Nanyang Hong Kong Street  |     \*\*\*\*2984            |
-| 21    | Tay Tiong Chin                 | Claypot Small Veg Rice        |     \*\*\*\*1847            |
-| 22    | Li Huaizhi                     | Supreme Ramen Xiaolongbao     |     \*\*\*\*1719            |
-| 23    | Teo Jiun Ming Jimmy            | Huang Da Fu                   |     \*\*\*\*1343            |
-| 24    |  Tan Ming San                  |  Fatty Bom Bau                |     \*\*\*\*7248            |
-| 25    | Eng Boon Har                   | Star Yong Kwang Bbq Seafood   |     \*\*\*\*0890            |
-| 26    | Toh Zhi Wei                    | Yung Sheng Drinks             |     \*\*\*\*5151            |
-| 27    | Chu Vui Kiong                  | Li Yuan Bkt                   |     \*\*\*\*7876            |
-| 28    | Kok Kuan Hwa                   | Seafood Tze Cha 524           |     \*\*\*\*9981            |
-| 29    | Ian Lin                        | Bowl & Grill (Yew Tee Square) |     \*\*\*\*5466            |
-| 30    | Ng Li Tiang                    | Qing Tian                     |     \*\*\*\*8005            |
-| 31    | Ng Kim Luang                   | Ng Kim Luang                  |     \*\*\*\*8431            |
-| 32    | Shui Poh Sing                  | Ah Seng Durian                |     \*\*\*\*6160            |
-| 33    | Wong Kok Wing                  | Good Day                      |     \*\*\*\*2623            |
-| 34    | Tan Ai Kok Joseph              | Chwee Kueh Bukit Timah        |     \*\*\*\*1590            |
-| 35    | Tiah Kim Teck                  | Teck Hwa                      |     \*\*\*\*7551            |
-| 36    | Ronnie Yeo                     | Kimly Dimsum West Pte Ltd     |     \*\*\*\*0928            |
-| 37    | Tan Siew Kian                  | Tai Dong Duck Rice #01-04     |     \*\*\*\*2449            |
-| 38    | Wong Shu Kiat                  | Wan Jin                       |     \*\*\*\*3737            |
+| 8     | Kang Hwee Leng                 | Flowers                       |     \*\*\*\*8999            |
+| 9     | Ang Eng Wah                    | Poh Cheu Kitchen Pte Ltd      |     \*\*\*\*3973            |
+| 10    | Shui Poh Sing                  | Ah Seng Durian                |     \*\*\*\*6160            |
+| 11    | Huang Liming                   | Tang Shifu                    |     \*\*\*\*9189            |
+| 12    | Tan Thoo Cheng                 | Broadway 612 Dk               |     \*\*\*\*6575            |
+| 13    | Ng Ping Kiat                   | Hua Long Seafood              |     \*\*\*\*5577            |
+| 14    | Ng Yew Aik                     | Hoe Yin Kee                   |     \*\*\*\*8668            |
+| 15    | Sai Feng Hui                   | Coffee Break                  |     \*\*\*\*3052            |
+| 16    | Eukang Chan Ken Haw            | Gr Holdings                   |     \*\*\*\*3188            |
+| 17    | Tan Jee Kee                    | Boon Kee Wanton Noodle        |     \*\*\*\*6208            |
+| 18    | Siah Ming Shoon                | 146 Tim Sum Handmade Bao      |     \*\*\*\*5649            |
+| 19    | Lee Syafiq Bin Muhammad Ridzua | Ashes Burmit                  |     \*\*\*\*9130            |
+| 20    | Goh Swee Huat                  | 01-137                        |     \*\*\*\*3737            |
+| 21    | Ho Chun Wah                    | One Nanyang Hong Kong Street  |     \*\*\*\*2984            |
+| 22    | Tay Tiong Chin                 | Claypot Small Veg Rice        |     \*\*\*\*1847            |
+| 23    | Li Huaizhi                     | Supreme Ramen Xiaolongbao     |     \*\*\*\*1719            |
+| 24    | Teo Jiun Ming Jimmy            | Huang Da Fu                   |     \*\*\*\*1343            |
+| 25    |  Tan Ming San                  | Badaling Western 145          |     \*\*\*\*7248            |
+| 26    | Tan Hee Hong                   | Fruit Veggies Juice Juice     |     \*\*\*\*3644            |
+| 27    | Eng Boon Har                   | Star Yong Kwang Bbq Seafood   |     \*\*\*\*0890            |
+| 28    | Toh Zhi Wei                    | Yung Sheng Drinks             |     \*\*\*\*5151            |
+| 29    | Chu Vui Kiong                  | Li Yuan Bkt                   |     \*\*\*\*7876            |
+| 30    | Kok Kuan Hwa                   | Seafood Tze Cha 524           |     \*\*\*\*9981            |
+| 31    | Ian Lin                        | Bowl & Grill (Yew Tee Square) |     \*\*\*\*5466            |
+| 32    | Tan Poh Seng                   | Xiang Xiang Vegetarian        |     \*\*\*\*7115            |
+| 33    | Ng Li Tiang                    | Qing Tian                     |     \*\*\*\*8005            |
+| 34    | Ng Kim Luang                   | Ng Kim Luang                  |     \*\*\*\*8431            |
+| 35    | Shui Poh Sing                  | Ah Seng Durian                |     \*\*\*\*6160            |
+| 36    | Wong Kok Wing                  | Good Day                      |     \*\*\*\*2623            |
+| 37    | Tan Ai Kok Joseph              | Chwee Kueh Bukit Timah        |     \*\*\*\*1590            |
+| 38    | Tiah Kim Teck                  | Teck Hwa                      |     \*\*\*\*7551            |
+| 39    | Ronnie Yeo                     | Kimly Dimsum West Pte Ltd     |     \*\*\*\*0928            |
+| 40    | Ong Kok Peng                   | Chinatown Porridge            |     \*\*\*\*3268            |
+| 41    | Tan Siew Kian                  | Tai Dong Duck Rice #01-04     |     \*\*\*\*2449            |
 {: refdef .spw-table-sn-col}
