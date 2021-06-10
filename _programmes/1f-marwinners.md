@@ -75,11 +75,11 @@ Congratulations to the lucky winners!
 | 9     | Ang Eng Wah                    | Poh Cheu Kitchen Pte Ltd      |     \*\*\*\*3973            |
 | 10    | Shui Poh Sing                  | Ah Seng Durian                |     \*\*\*\*6160            |
 | 11    | Huang Liming                   | Tang Shifu                    |     \*\*\*\*9189            |
-| 12    | Tan Thoo Cheng                 | Broadway 612 Dk               |     \*\*\*\*6575            |
+| 12    | Tan Thoo Cheng                 | Broadway 612 DK               |     \*\*\*\*6575            |
 | 13    | Ng Ping Kiat                   | Hua Long Seafood              |     \*\*\*\*5577            |
 | 14    | Ng Yew Aik                     | Hoe Yin Kee                   |     \*\*\*\*8668            |
 | 15    | Sai Feng Hui                   | Coffee Break                  |     \*\*\*\*3052            |
-| 16    | Eukang Chan Ken Haw            | Gr Holdings                   |     \*\*\*\*3188            |
+| 16    | Eukang Chan Ken Haw            | GR Holdings                   |     \*\*\*\*3188            |
 | 17    | Tan Jee Kee                    | Boon Kee Wanton Noodle        |     \*\*\*\*6208            |
 | 18    | Siah Ming Shoon                | 146 Tim Sum Handmade Bao      |     \*\*\*\*5649            |
 | 19    | Lee Syafiq Bin Muhammad Ridzua | Ashes Burmit                  |     \*\*\*\*9130            |
@@ -90,9 +90,9 @@ Congratulations to the lucky winners!
 | 24    | Teo Jiun Ming Jimmy            | Huang Da Fu                   |     \*\*\*\*1343            |
 | 25    |  Tan Ming San                  | Badaling Western 145          |     \*\*\*\*7248            |
 | 26    | Tan Hee Hong                   | Fruit Veggies Juice Juice     |     \*\*\*\*3644            |
-| 27    | Eng Boon Har                   | Star Yong Kwang Bbq Seafood   |     \*\*\*\*0890            |
+| 27    | Eng Boon Har                   | Star Yong Kwang BBQ Seafood   |     \*\*\*\*0890            |
 | 28    | Toh Zhi Wei                    | Yung Sheng Drinks             |     \*\*\*\*5151            |
-| 29    | Chu Vui Kiong                  | Li Yuan Bkt                   |     \*\*\*\*7876            |
+| 29    | Chu Vui Kiong                  | Li Yuan BKT                   |     \*\*\*\*7876            |
 | 30    | Kok Kuan Hwa                   | Seafood Tze Cha 524           |     \*\*\*\*9981            |
 | 31    | Ian Lin                        | Bowl & Grill (Yew Tee Square) |     \*\*\*\*5466            |
 | 32    | Tan Poh Seng                   | Xiang Xiang Vegetarian        |     \*\*\*\*7115            |
