@@ -22,6 +22,15 @@ NEA Hawker centres (including cooked food and market stalls), HDB coffee shops a
 
 To help our hawkers safely operate in the post-COVID future, we’ve lined up a few initiatives to get things started. 
 
+#### Supporting Hawkers to go Digital!
+![6](https://user-images.githubusercontent.com/76726201/122888947-ed8c6400-d374-11eb-8437-59033e5cf635.JPG)
+SG Digital Office and the National Environment Agency are expanding efforts to help hawkers benefit from technology by launching the Singapore Together Alliance for Action - Online ordering for Hawkers. This workgroup, comprising delivery plaforms, hawker associations, community partners and government agencies, will be working closely together to support our hawkers by: 
+1. Helping them go online
+2. Develop a sustainable commercial model
+3. Raise consumer awareness about delivery platforms
+
+Besides helping hawkers with adoption of e-payment platforms, our Digital Ambassadors will also be making their rounds to hawker centres to understand hawkers' needs and to share the benefits of food delivery platforms. Interested hawkers can speak to our Digital Ambassadors at SG Digital community hubs or call us 6377 3800.
+
 #### Go contactless, go e-payment!
 In these extraordinary times, maintaining public health and safety is a top priority. To help stallholders reduce physical contact with their customers, we encourage adoption of the SGQR <sup>[1](#1)</sup>, unified e-payment solution.
 
@@ -29,10 +38,11 @@ Enterprise Singapore (“ESG”) and the Infocomm Media Development Authority (�
 
 In this new phase of the initiative, stallholders will be encouraged to adopt a contactless payment option by adopting an unique SGQR label at their stall. By using a SGQR, stallholders will be able to receive payments through 19 different payment schemes, including DBS PayLah!, GrabPay and Singtel Dash.
 
-There are also financial incentives in store for stallholders who come onboard the initiative. Existing Unified e-Payment Solution users and new sign-ups who adopt the solution by 31 May 2021 can look forward to an E-Payment Bonus of up to $1,500 ($300 per month, over a period of five months).
+To help support hawkers, NETS is giving $3 cash bonus for every 10 NETS transactions to all hawkers as well as canteens, coffee shops, food courts and eating houses when they accept NETS payments.
 
-To encourage adoption, an E-Payment Bonus of up to $1,500 ($300 per month for any five months) will be given to all stallholders (both existing users and new sign-ups by 31 May 2021) who have demonstrated a sustained use of the e-payment solution.
-This E-Payment Bonus will be paid when the stallholder has completed at least 20 transactions (of at least $1) in the previous month. Qualifying months will be June 2020 till May 2021.
+Consumers are encouraged to reduce contact by paying with NETS ATM or NETS QR. 
+
+More details can be found [here](http://nets.com.sg/NETSforSGhawkers).
 
 #### How to sign up
 Starting from June 2020, the SG Digital Office will be deploying a team of Digital Ambassadors to encourage stallholders in over 100 NEA hawker centres and markets, HDB coffee shops and JTC industrial canteens to adopt SGQR codes for e-payment. Keep a look out for our Digital Ambassadors!
@@ -41,7 +51,7 @@ Step 1. Talk to your friendly SG Digital Digital Ambassador <br>
 Step 2. Sign up with your NRIC, Current NEA or SFA License and Bank statement <sup>[2](#2)</sup> <br>
 Step 3. Get your E-payment Bonus with 20 or more transactions a month <sup>[3](#3)</sup> <br>
 
-The Government will cover transaction fees (i.e. merchant discount rate payable by merchants) until 31 December 2023 <sup>[4](#4)</sup>.
+The Government will cover transaction fees (i.e merchant discount rate of 0.5% payable by merchants) until 31 December 2023.
 
 For more information, please contact us at <a href = "mailto:info@imda.gov.sg">info@imda.gov.sg</a> or call us at 6377 3800. 
 
