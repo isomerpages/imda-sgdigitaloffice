@@ -51,7 +51,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <p><strong>WEST</strong></p>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;" />
-    <p style="margin-left: 10px;">Boon Lay Wellness Centre</p>
     <hr />
     <p style="margin-left: 10px;">Bukit Batok CC</p>
     <hr />
