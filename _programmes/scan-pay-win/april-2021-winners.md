@@ -76,35 +76,36 @@ Congratulations to the lucky winners!
 | 8     | Lim Kian Siew     | 01-56                               | \*\*\*\*6544                |
 | 9     | Wong Kok Yoong    | Ds 651                              | \*\*\*\*5342                |
 | 10    | Kok Kuan Hwa      | Chang Cheng 27                      | \*\*\*\*1468                |
-| 11    | Soong Teck Hoe    | Song Fish   Soup                    | \*\*\*\*1121                |
-| 12    | Peh Hock San      | Ah San Indonesia                    | \*\*\*\*1486                |
-| 13    | Tay Soon Hock     | Xin Fu Ji Seafood                   | \*\*\*\*5078                |
-| 14    | Lee Nyan Fatt     | Foodprints Summit                   | \*\*\*\*1504                |
-| 15    | Chen Dong         | Japanese Food                       | \*\*\*\*1003                |
-| 16    | Koh Yeow Hwa      | Seafood Wholesale                   | \*\*\*\*4941                |
-| 17    | Leow Geok Cheng   | 306 Collin'S                        | \*\*\*\*9232                |
-| 18    | Wong Hon Weng     | Wah Kee Noodle                      | \*\*\*\*5529                |
-| 19    | Ng Sock Yan       | Ru Yi Vegetarian                    | \*\*\*\*4209                |
-| 20    | Kok Kuan Hwa      | Mixed Rice 1                        | \*\*\*\*9981                |
-| 21    | Tong Beng Choo    | Tong Kee Charcoal Bbq               | \*\*\*\*9945                |
-| 22    | Ong Chin Ong      | 01-197                              | \*\*\*\*5500                |
-| 23    | Saengkham Bunwong | Chok Dee Mookata                    | \*\*\*\*4969                |
-| 24    | Lok Kee Ming      | Siong Tat Kee                       | \*\*\*\*8223                |
-| 25    | Tan Tze Moi       | Yu Kee Duck Rice                    | \*\*\*\*6427                |
-| 26    | Chin Shiow Feng   | Pp881 Hong Kong St                  | \*\*\*\*5180                |
-| 27    | Ang Mui Kwee      | Choon Boh                           | \*\*\*\*5387                |
-| 28    | Leow Geok Cheng   | 51 Collin'S                         | \*\*\*\*9323                |
-| 29    | Leow Geok Cheng   | 308 Collin'S                        | \*\*\*\*9323                |
-| 30    | Loh Chin Aik      | De Ji Shu Shi                       | \*\*\*\*9612                |
-| 31    | Pan Nip Chang     | Yew Chuan Claypot Rice              | \*\*\*\*1853                |
-| 32    | Farhan Zairudin   | Ashes Burmit                        | \*\*\*\*4670                |
-| 33    | Cho Wai Lang      | Heng Heng Cooked Food               | \*\*\*\*6242                |
-| 34    | Gm 198 Sf Pte Ltd | 198 Seafood                         | \*\*\*\*0484                |
-| 35    | Lim Wang Tat      | Koo Kee Yong Tow Foo Mee            | \*\*\*\*2265                |
-| 36    | Chong Lee Kiang   | 01-143                              | \*\*\*\*3505                |
-| 37    | Huang Zhihua      | Ban Mian Fish Soup                  | \*\*\*\*0542                |
-| 38    | Toh Ching Kang    | Ming Xiang                          | \*\*\*\*0830                |
-| 39    | Soh Seng Hiong    | Chowhound                           | \*\*\*\*6822                |
-| 40    | Ong Chen Khoon    | Khoon'S Katong Laksa                | \*\*\*\*8339                |
-| 41    | Zou Jihe          | China Town Zhong Zhong Fine Spice   | \*\*\*\*6069                |
+| 11    | Tan Swee Lai      | Abang Gemuk (167) Pte Ltd           | \*\*\*\*1816                |
+| 12    | Soong Teck Hoe    | Song Fish Soup                      | \*\*\*\*1121                |
+| 13    | Peh Hock San      | Ah San Indonesia                    | \*\*\*\*1486                |
+| 14    | Tay Soon Hock     | Xin Fu Ji Seafood                   | \*\*\*\*5078                |
+| 15    | Lee Nyan Fatt     | Foodprints Summit                   | \*\*\*\*1504                |
+| 16    | Chen Dong         | Japanese Food                       | \*\*\*\*1003                |
+| 17    | Koh Yeow Hwa      | Seafood Wholesale                   | \*\*\*\*4941                |
+| 18    | Leow Geok Cheng   | 306 Collin'S                        | \*\*\*\*9232                |
+| 19    | Wong Hon Weng     | Wah Kee Noodle                      | \*\*\*\*5529                |
+| 20    | Ng Sock Yan       | Ru Yi Vegetarian                    | \*\*\*\*4209                |
+| 21    | Kok Kuan Hwa      | Mixed Rice 1                        | \*\*\*\*9981                |
+| 22    | Tong Beng Choo    | Tong Kee Charcoal Bbq               | \*\*\*\*9945                |
+| 23    | Ong Chin Ong      | 01-197                              | \*\*\*\*5500                |
+| 24    | Saengkham Bunwong | Chok Dee Mookata                    | \*\*\*\*4969                |
+| 25    | Lok Kee Ming      | Siong Tat Kee                       | \*\*\*\*8223                |
+| 26    | Tan Tze Moi       | Yu Kee Duck Rice                    | \*\*\*\*6427                |
+| 27    | Chin Shiow Feng   | Pp881 Hong Kong St                  | \*\*\*\*5180                |
+| 28    | Ang Mui Kwee      | Choon Boh                           | \*\*\*\*5387                |
+| 29    | Leow Geok Cheng   | 51 Collin'S                         | \*\*\*\*9323                |
+| 30    | Leow Geok Cheng   | 308 Collin'S                        | \*\*\*\*9323                |
+| 31    | Loh Chin Aik      | De Ji Shu Shi                       | \*\*\*\*9612                |
+| 32    | Pan Nip Chang     | Yew Chuan Claypot Rice              | \*\*\*\*1853                |
+| 33    | Farhan Zairudin   | Ashes Burmit                        | \*\*\*\*4670                |
+| 34    | Cho Wai Lang      | Heng Heng Cooked Food               | \*\*\*\*6242                |
+| 35    | Gm 198 Sf Pte Ltd | 198 Seafood                         | \*\*\*\*0484                |
+| 36    | Lim Wang Tat      | Koo Kee Yong Tow Foo Mee            | \*\*\*\*2265                |
+| 37    | Chong Lee Kiang   | 01-143                              | \*\*\*\*3505                |
+| 38    | Huang Zhihua      | Ban Mian Fish Soup                  | \*\*\*\*0542                |
+| 39    | Toh Ching Kang    | Ming Xiang                          | \*\*\*\*0830                |
+| 40    | Soh Seng Hiong    | Chowhound                           | \*\*\*\*6822                |
+| 41    | Ong Chen Khoon    | Khoon'S Katong Laksa                | \*\*\*\*8339                |
+| 42    | Zou Jihe          | China Town Zhong Zhong Fine Spice   | \*\*\*\*6069                |
 {: refdef .spw-table-sn-col}
