@@ -72,9 +72,9 @@ Congratulations to the lucky winners!
 | 4     | Kum Swee Kin      | Hong Chong Wanton Noodle            | \*\*\*\*3286                |
 | 5     | Choong Suet Leng  | Eddys Kitchen                       | \*\*\*\*7676                |
 | 6     | Lim Chor Wah      | Bedok South Fresh Seafood           | \*\*\*\*1266                |
-| 7     | Lee Pei Teng      | Lt' Legendary                       | \*\*\*\*4460                |
+| 7     | Lee Pei Teng      | Lt Legendary                       | \*\*\*\*4460                |
 | 8     | Lim Kian Siew     | 01-56                               | \*\*\*\*6544                |
-| 9     | Wong Kok Yoong    | Ds 651                              | \*\*\*\*5342                |
+| 9     | Wong Kok Yoong    | DS 651                              | \*\*\*\*5342                |
 | 10    | Kok Kuan Hwa      | Chang Cheng 27                      | \*\*\*\*1468                |
 | 11    | Tan Swee Lai      | Abang Gemuk (167) Pte Ltd           | \*\*\*\*1816                |
 | 12    | Soong Teck Hoe    | Song Fish Soup                      | \*\*\*\*1121                |
@@ -83,19 +83,19 @@ Congratulations to the lucky winners!
 | 15    | Lee Nyan Fatt     | Foodprints Summit                   | \*\*\*\*1504                |
 | 16    | Chen Dong         | Japanese Food                       | \*\*\*\*1003                |
 | 17    | Koh Yeow Hwa      | Seafood Wholesale                   | \*\*\*\*4941                |
-| 18    | Leow Geok Cheng   | 306 Collin'S                        | \*\*\*\*9232                |
+| 18    | Leow Geok Cheng   | 306 Collin's                        | \*\*\*\*9232                |
 | 19    | Wong Hon Weng     | Wah Kee Noodle                      | \*\*\*\*5529                |
 | 20    | Ng Sock Yan       | Ru Yi Vegetarian                    | \*\*\*\*4209                |
 | 21    | Kok Kuan Hwa      | Mixed Rice 1                        | \*\*\*\*9981                |
-| 22    | Tong Beng Choo    | Tong Kee Charcoal Bbq               | \*\*\*\*9945                |
+| 22    | Tong Beng Choo    | Tong Kee Charcoal BBQ               | \*\*\*\*9945                |
 | 23    | Ong Chin Ong      | 01-197                              | \*\*\*\*5500                |
 | 24    | Saengkham Bunwong | Chok Dee Mookata                    | \*\*\*\*4969                |
 | 25    | Lok Kee Ming      | Siong Tat Kee                       | \*\*\*\*8223                |
 | 26    | Tan Tze Moi       | Yu Kee Duck Rice                    | \*\*\*\*6427                |
-| 27    | Chin Shiow Feng   | Pp881 Hong Kong St                  | \*\*\*\*5180                |
+| 27    | Chin Shiow Feng   | PP881 Hong Kong St                  | \*\*\*\*5180                |
 | 28    | Ang Mui Kwee      | Choon Boh                           | \*\*\*\*5387                |
-| 29    | Leow Geok Cheng   | 51 Collin'S                         | \*\*\*\*9323                |
-| 30    | Leow Geok Cheng   | 308 Collin'S                        | \*\*\*\*9323                |
+| 29    | Leow Geok Cheng   | 51 Collin's                         | \*\*\*\*9323                |
+| 30    | Leow Geok Cheng   | 308 Collin's                        | \*\*\*\*9323                |
 | 31    | Loh Chin Aik      | De Ji Shu Shi                       | \*\*\*\*9612                |
 | 32    | Pan Nip Chang     | Yew Chuan Claypot Rice              | \*\*\*\*1853                |
 | 33    | Farhan Zairudin   | Ashes Burmit                        | \*\*\*\*4670                |
@@ -106,6 +106,6 @@ Congratulations to the lucky winners!
 | 38    | Huang Zhihua      | Ban Mian Fish Soup                  | \*\*\*\*0542                |
 | 39    | Toh Ching Kang    | Ming Xiang                          | \*\*\*\*0830                |
 | 40    | Soh Seng Hiong    | Chowhound                           | \*\*\*\*6822                |
-| 41    | Ong Chen Khoon    | Khoon'S Katong Laksa                | \*\*\*\*8339                |
+| 41    | Ong Chen Khoon    | Khoon's Katong Laksa                | \*\*\*\*8339                |
 | 42    | Zou Jihe          | China Town Zhong Zhong Fine Spice   | \*\*\*\*6069                |
 {: refdef .spw-table-sn-col}
