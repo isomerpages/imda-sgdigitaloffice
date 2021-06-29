@@ -38,11 +38,11 @@ Enterprise Singapore (“ESG”) and the Infocomm Media Development Authority (�
 
 In this new phase of the initiative, stallholders will be encouraged to adopt a contactless payment option by adopting an unique SGQR label at their stall. By using a SGQR, stallholders will be able to receive payments through 19 different payment schemes, including DBS PayLah!, GrabPay and Singtel Dash.
 
-To help support hawkers, NETS is giving $3 cash bonus for every 10 NETS transactions to all hawkers as well as canteens, coffee shops, food courts and eating houses when they accept NETS payments.
+To help support hawkers, NETS is giving $3 cash bonus for every 10 NETS transactions to all hawkers as well as canteens, coffee shops, food courts and eating houses when they accept NETS payments until 31 July 2021.
 
-Consumers are encouraged to reduce contact by paying with NETS ATM or NETS QR. 
+Consumers are encouraged to reduce contact by paying with NETS ATM or NETS QR.
 
-More details can be found [here](http://nets.com.sg/NETSforSGhawkers).
+More details can be found [here](https://www.nets.com.sg/promotions/cash-bonus-for-hawkers-when-you-pay-with-nets/).
 
 #### How to sign up
 Starting from June 2020, the SG Digital Office will be deploying a team of Digital Ambassadors to encourage stallholders in over 100 NEA hawker centres and markets, HDB coffee shops and JTC industrial canteens to adopt SGQR codes for e-payment. Keep a look out for our Digital Ambassadors!
@@ -64,8 +64,7 @@ Enterprise Singapore (“ESG"), together with the Infocomm Media Development Aut
 <hr>
 <sup><a id="1">1</a></sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment. <br>
 <sup><a id="2">2</a></sup> Photocopies will be needed and as they will be retained during sign-up. <br>
-<sup><a id="3">3</a></sup> Sign up by 31st May 2021. Each transaction is at least $1. <br>
-<sup><a id="4">4</a></sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
+
 
 <hr>
 
@@ -104,9 +103,6 @@ Enterprise Singapore (“ESG"), together with the Infocomm Media Development Aut
 
 <sup><a id="1-cn">1</a></sup> SGQR码以快速反应（QR）图码来处理免接触式电子付款交易。<br>
 <sup><a id="2-cn">2</a></sup> 登记时需要影印本存档。<br>
-<sup><a id="3-cn">3</a></sup> 必须在2021年5月31日之前登记。每个交易必须至少$1。<br>
-<sup><a id="4-cn">4</a></sup> 这项计划为摊贩提供统一互通的付费系统。根据协议，商家贴现率为每月付款交易的0.5%。政府为摊贩提供三年的资助，把商家贴现率降至0%。消费者可从19种本地付款应用中任选一种来付费。
-
 <hr>
 
 ###### Bahasa Melayu
@@ -121,11 +117,6 @@ Pada masa-masa luar biasa ini, menjaga kesihatan dan keselamatan awam adalah keu
 Enterprise Singapore ("ESG") dan Infocomm Media Development Authority ("IMDA") bekerjasama dengan Housing and Development Board ("HDB"), JTC Corporation ("JTC") dan National Environment Agency ("NEA") untuk mempercepatkan pelancaran Penyelesaian e-Pembayaran Bersatu di seluruh negara di kedai kopi HDB, pusat penjaja NEA dan kantin industri JTC.
 
 Dalam fasa inisiatif baru ini, pegerai akan didorong untuk menggunakan pilihan pembayaran tanpa sentuhan dengan menggunakan label SGQR yang unik di gerai mereka. Dengan menggunakan SGQR, pegerai akan dapat menerima pembayaran melalui 19 skema pembayaran yang berbeza, termasuk DBS PayLah !, GrabPay dan Singtel Dash.
-
-Terdapat juga insentif kewangan untuk pegerai yang menyertai inisiatif ini. Pengguna Penyelesaian e-Pembayaran Bersatu yang sedia ada dan pendaftaran baru yang menggunakan penyelesaian tersebut pada 31 Mei 2021 boleh menantikan Bonus E-Pembayaran sehingga $ 1,500 ($ 300 sebulan, dalam jangka masa lima bulan).
-
-Untuk mendorong penggunaan, Bonus E-Pembayaran hingga $ 1,500 ($ 300 sebulan untuk lima bulan) akan diberikan kepada semua pegerai (pengguna sedia ada dan pendaftaran baru pada 31 Mei 2021) yang telah menunjukkan penggunaan berterusan oleh penyelesaian e-pembayaran. Bonus E-Pembayaran ini akan dibayar apabila pegerai telah menyelesaikan sekurang-kurangnya 20 transaksi (sekurang-kurangnya $ 1) pada bulan sebelumnya. Bulan kelayakan adalah Jun 2020 hingga Mei 2021.
-
 
 #### Bagaimana untuk mendaftar
 Mulai bulan Jun 2020, Pejabat Digital SG akan mengerahkan satu pasukan Duta Digital untuk mendorong para pegerai di lebih dari 100 pusat dan pasar penjaja NEA, kedai kopi HDB dan kantin industri JTC untuk menerapkan kod SGQR untuk e-pembayaran. Nantikan Duta Digital kami!
@@ -145,8 +136,6 @@ Pejabat Digital SG juga bekerjasama dengan rakan kongsi seperti Enterprise Singa
 
 <sup><a id="1-ml">1</a></sup> SGQR bergantung pada kod Respons Cepat (QR) untuk memproses e-pembayaran tanpa sentuhan. <br>
 <sup><a id="2-ml">2</a></sup> Fotokopi akan diperlukan dan disimpan semasa pendaftaran. <br>
-<sup><a id="3-ml">3</a></sup> Daftar menjelang tarikh 31 Mei 2021. Setiap transaksi sekurang-kurangnya $1. <br>
-<sup><a id="4-ml">4</a></sup> Inisiatif ini, menyediakan satu sistem yang boleh dikendalikan untuk pegerai. Di bawah inisiatif tersebut, kadar diskaun pedagang (MDR) sebanyak 0.5% untuk transaksi pembayaran bulanan telah dipersetujui. Pemerintah memberikan sokongan dana selama tiga tahun, menurunkan MDR menjadi 0%. Pengguna boleh memilih untuk membayar menggunakan 19 skema yang ada.
 
 <hr>
 
@@ -162,10 +151,6 @@ NEA உணவங்காடி நிலையங்கள் (சமைத்�
 எண்டர்பிரைஸ் சிங்கப்பூர் அமைப்பும்  (“ESG”) தகவல்தொடர்பு ஊடக மேம்பாட்டு ஆணையமும் (“IMDA”), வீடமைப்பு வளர்ச்சிக் கழகம் (“HDB”), ஜேடிசி நிறுவனம் (“JTC”), தேசிய சுற்றுப்புற அமைப்பு (“NEA”) ஆகியவற்றுடன் கூட்டிணைந்து, HDB காப்பிக்கடைகளிலும், NEA உணவங்காடி நிலையங்களிலும், JTC தொழிற்பேட்டை உணவு நிலையங்களிலும் ஒருங்கிணைந்த மின்-கட்டணமுறையின் பயன்பாட்டைத் துரிதப்படுத்த முயற்சி எடுக்கின்றன. 
 
 திட்டத்தின் இப்புதிய கட்டத்தில், கடைக்காரர்கள் தங்கள் கடைகளில் தனித்துவ SGQR குறியீட்டுடன் நேரடித் தொடர்பில்லாத கட்டணமுறையைச் செயல்படுத்த ஊக்குவிக்கப்படுவார்கள். SGQR பயன்படுத்துவதன்வழி, கடைக்காரர்கள் 19 வெவ்வேறு கட்டணத் திட்டங்களின்மூலம் பணம் பெறமுடியும். டிபிஎஸ் பேலா!, கிராப்பே, சிங்டெல் டேஷ் அவற்றுள் அடங்கும். 
-
-திட்டத்தில் சேரும் கடைக்காரர்களுக்கு ஊக்கத்தொகைகளும் கிடைக்கும். ஒருங்கிணைந்த மின்-கட்டணமுறையைத் தற்போது பயன்படுத்துவோரும் 31 மே 2021 தேதிக்குள் புதிதாகப் பதிவு செய்வோரும், $1,500 வரையிலான மின்-கட்டணமுறை ஊக்கத்தொகையை எதிர்பார்க்கலாம் (ஐந்து மாதங்களுக்கு மாதத்திற்கு $300).
-
-மின்-கட்டணமுறையின் பயன்பாட்டை ஊக்குவிக்க, அதனைத் தொடர்ந்து பயன்படுத்தும் கடைக்காரர்கள் அனைவருக்கும் (ஏற்கனவே பயன்படுத்துவோரும் 31 மே 2021 தேதிக்குள் புதிதாகப் பதிவு செய்வோரும்) $1,500 வரையிலான மின்-கட்டணமுறை ஊக்கத்தொகை கிடைக்கும் (ஐந்து மாதங்களுக்கு மாதத்திற்கு $300). கடைக்காரர் முந்திய மாதத்தில் குறைந்தது 20 பரிவர்த்தனைகளை (ஒவ்வொன்றும் குறைந்தது $1) பூர்த்தி செய்யும்போது மின்-கட்டணமுறை ஊக்கத்தொகை வழங்கப்படும். தகுதிபெறும் மாதங்கள் ஜூன் 2020 முதல் மே 2021 வரை.
 
 #### பதிவு செய்யும் முறை 
 ஜூன் 2020 முதல், சிங்கப்பூர் மின்னிலக்க அலுவலகம் 100க்கும் மேலான NEA உணவங்காடி நிலையங்கள் மற்றும் சந்தைகள், HDB காப்பிக்கடைகள், JTC தொழிற்பேட்டை உணவு நிலையங்கள் ஆகியவற்றின் கடைக்காரர்கள் மின்-கட்டணமுறைக்கு SGQR  குறியீட்டைப் பயன்படுத்த ஊக்கமளிக்க, மின்னிலக்கத் தூதர்களை அனுப்பி வைக்கும்.  எங்களது மின்னிலக்கத் தூதர்களை எதிர்பார்த்திருங்கள்! 
@@ -184,8 +169,6 @@ NEA உணவங்காடி நிலையங்கள் (சமைத்�
 
 <sup><a id="1-tm">1</a></sup> SGQR குறியீடுகள் நேரடித் தொடர்பில்லாத மின்-கட்டணமுறையைச் செயல்படுத்த விரைவுத் தகவல் (QR) குறியீடுகளைச் சார்ந்துள்ளன. <br>
 <sup><a id="2-tm">2</a></sup> பிரதிகள் தேவைப்படும். பதிவு செய்யும்போது அவை வைத்துக் கொள்ளப்படும். <br>
-<sup><a id="3-tm">3</a></sup> 31 மே 2021 தேதிக்குள் பதிவு செய்யுங்கள். ஒவ்வொரு பரிவர்த்தனையும் குறைந்தது $1 மதிப்புடையதாக இருக்கவேண்டும். <br>
-<sup><a id="4-tm">4</a></sup> இத்திட்டம் கடைக்காரர்களுக்கு ஒருங்கிணைக்கப்பட்ட ஒற்றை இயங்குமுறையை வழங்குகிறது. இத்திட்டத்தின்கீழ், மாதாந்தர கட்டணப் பரிவர்த்தனைகளுக்கு 0.5% வணிகத் தள்ளுபடி விகிதம் (MDR) ஒப்புக்கொள்ளப்பட்டுள்ளது. அரசாங்கம் மூன்று ஆண்டுகளுக்கு வழங்கும் நிதி ஆதரவுடன், இந்த விகிதம் 0% ஆக இருக்கும். பயனீட்டாளர்கள் 19 கட்டணத்திட்டங்களில் எதையேனும் பயன்படுத்தி பணம் செலுத்தலாம். 
 
 ![image](/images/Hawkers_Banner-2100x1100.jpg)
 
