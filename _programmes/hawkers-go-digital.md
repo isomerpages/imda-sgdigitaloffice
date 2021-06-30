@@ -49,7 +49,6 @@ Starting from June 2020, the SG Digital Office will be deploying a team of Digit
 
 Step 1. Talk to your friendly SG Digital Digital Ambassador <br>
 Step 2. Sign up with your NRIC, Current NEA or SFA License and Bank statement <sup>[2](#2)</sup> <br>
-Step 3. Get your E-payment Bonus with 20 or more transactions a month <sup>[3](#3)</sup> <br>
 
 The Government will cover transaction fees (i.e merchant discount rate of 0.5% payable by merchants) until 31 December 2023.
 
@@ -64,8 +63,6 @@ Enterprise Singapore (“ESG"), together with the Infocomm Media Development Aut
 <hr>
 <sup><a id="1">1</a></sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment. <br>
 <sup><a id="2">2</a></sup> Photocopies will be needed and as they will be retained during sign-up. <br>
-
-
 <hr>
 
 ###### 中文
