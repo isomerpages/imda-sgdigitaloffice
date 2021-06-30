@@ -51,7 +51,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <p><strong>WEST</strong></p>
     <div style="padding-left: 20px;">
     <hr style="border: 1px solid;" />
-    <p style="margin-left: 10px;">Boon Lay Wellness Centre</p>
     <hr />
     <p style="margin-left: 10px;">Bukit Batok CC</p>
     <hr />
@@ -101,9 +100,9 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">library@Chinatown</p>
     <hr />
-    <p style="margin-left: 10px;">library@esplanade</p>
+    <p style="margin-left: 10px;">library@esplanade</p> 
     <hr />
-    <p style="margin-left: 10px;">library@orchard</p>
+    <p style="margin-left: 10px;">library@orchard</p> Kindly note SDO will cease operations from 1 July 2021 
     <hr />
     <p style="margin-left: 10px;">MacPherson CC</p>
     <hr />
@@ -123,7 +122,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Toa Payoh South CC</p>
     <hr />
-    <p style="margin-left: 10px;"> Whampoa CC (relocating to Kallang CC from 31 May 2021) </p>
     <hr style="border: 1px solid;" />
     </div>
     <p><strong>NORTH</strong></p>
