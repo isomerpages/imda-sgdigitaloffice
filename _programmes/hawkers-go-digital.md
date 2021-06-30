@@ -39,9 +39,8 @@ Starting from June 2020, the SG Digital Office will be deploying a team of Digit
 
 Step 1. Talk to your friendly SG Digital Digital Ambassador <br>
 Step 2. Sign up with your NRIC, Current NEA or SFA License and Bank statement <sup>[2](#2)</sup> <br>
-Step 3. Get your E-payment Bonus with 20 or more transactions a month <sup>[3](#3)</sup> <br>
 
-The Government will cover transaction fees (i.e. merchant discount rate payable by merchants) until 31 December 2023 <sup>[4](#4)</sup>.
+The Government will cover transaction fees (i.e merchant discount rate of 0.5% payable by merchants) until 31 December 2023.
 
 For more information, please contact us at <a href = "mailto:info@imda.gov.sg">info@imda.gov.sg</a> or call us at 6377 3800. 
 
@@ -54,8 +53,6 @@ Enterprise Singapore (“ESG"), together with the Infocomm Media Development Aut
 <hr>
 <sup><a id="1">1</a></sup> SGQRs rely on Quick Response (QR) codes to process contactless e-payment. <br>
 <sup><a id="2">2</a></sup> Photocopies will be needed and as they will be retained during sign-up. <br>
-<sup><a id="3">3</a></sup> Sign up by 31st May 2021. Each transaction is at least $1. <br>
-<sup><a id="4">4</a></sup> The initiative, provides a single, interoperable system for stallholders. Under the initiative, a merchant discount rate (MDR) of 0.5% for monthly payment transactions was agreed upon. The Government provides funding support over three years, bringing down the MDR to 0%. Consumers can choose to pay using any of the 19 schemes available. 
 
 <hr>
 
