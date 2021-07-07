@@ -98,11 +98,11 @@ Congratulations to the lucky winners!
 | 30    | Leow Geok Cheng   | 308 Collin's                        | \*\*\*\*9323                |
 | 31    | Loh Chin Aik      | De Ji Shu Shi                       | \*\*\*\*9612                |
 | 32    | Pan Nip Chang     | Yew Chuan Claypot Rice              | \*\*\*\*1853                |
-| 33    | Farhan Zairudin   | Ashes Burmit                        | \*\*\*\*4670                |
+| 33    | Farhan Zairudin   | Ashes Burnnit                       | \*\*\*\*4670                |
 | 34    | Cho Wai Lang      | Heng Heng Cooked Food               | \*\*\*\*6242                |
 | 35    | Gm 198 Sf Pte Ltd | 198 Seafood                         | \*\*\*\*0484                |
 | 36    | Lim Wang Tat      | Koo Kee Yong Tow Foo Mee            | \*\*\*\*2265                |
-| 37    | Chong Lee Kiang   | 01-143                              | \*\*\*\*3505                |
+| 37    | Chong Lee Kiang   | 01-43                               | \*\*\*\*3505                |
 | 38    | Huang Zhihua      | Ban Mian Fish Soup                  | \*\*\*\*0542                |
 | 39    | Toh Ching Kang    | Ming Xiang                          | \*\*\*\*0830                |
 | 40    | Soh Seng Hiong    | Chowhound                           | \*\*\*\*6822                |
