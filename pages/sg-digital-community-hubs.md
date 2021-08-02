@@ -143,8 +143,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Teck Ghee CC</p>
     <hr />
-    <p style="margin-left: 10px;">Woodlands CC</p>
-    <hr />
     <p style="margin-left: 10px;">Woodlands Regional Library</p>
     <hr />
     <p style="margin-left: 10px;">Yio Chu Kang CC</p>
