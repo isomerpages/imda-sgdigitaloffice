@@ -17,11 +17,6 @@ permalink: /programmes/hawkers-go-digital/
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/jjbwCsY6iZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### English
-#### Taking your business into the future
-NEA Hawker centres (including cooked food and market stalls), HDB coffee shops and JTC industrial canteens are an irreplaceable part of Singapore’s food culture—and always will be. 
-
-To help our hawkers safely operate in the post-COVID future, we’ve lined up a few initiatives to get things started. 
-
 #### Let's Support Our Hawkers this National Day! 
 Check out these great promos to be used at various online delivery platforms, hawker centres & coffeeshops.
 
@@ -34,6 +29,11 @@ Check out these great promos to be used at various online delivery platforms, ha
 |NTUC FoodFare Cooperative (Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|$0.50 Hot Kopi/Tea when patrons purchase any items from stalls from the hawker centre. Just show the receipt or item purchased to buy the drinks at $0.50.| 6 Aug 2021 - 13 Aug 2021
 |Fei Siong Social Enterprise | Enjoy a can of free YEO when you walk in and order food/drinks at 30 participating hawker centres.|On National Day, 9 Aug 2021
 |FMAS (hawker centres)|For every walk in order at eligible stalls, 1 Yeo’s bottle drink will be given out to patron as gift |On National Day, 9 Aug
+
+#### Taking your business into the future
+NEA Hawker centres (including cooked food and market stalls), HDB coffee shops and JTC industrial canteens are an irreplaceable part of Singapore’s food culture—and always will be. 
+
+To help our hawkers safely operate in the post-COVID future, we’ve lined up a few initiatives to get things started. 
 
 #### Go contactless, go e-payment!
 In these extraordinary times, maintaining public health and safety is a top priority. To help stallholders reduce physical contact with their customers, we encourage adoption of the SGQR <sup>[1](#1)</sup>, unified e-payment solution.
