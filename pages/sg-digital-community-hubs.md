@@ -113,7 +113,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Potong Pasir CC</p>
     <hr />
-    <p style="margin-left: 10px;">Queenstown Public Library (to be closed as of 31 Aug 2021) </p>
+    <p style="margin-left: 10px;">Queenstown Public Library (to be closed as of 31 Aug) </p>
     <hr />
     <p style="margin-left: 10px;">Radin Mas CC</p>
     <hr />
