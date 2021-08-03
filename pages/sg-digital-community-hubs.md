@@ -25,7 +25,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr style="border: 1px solid;" />
     <p style="margin-left: 10px;">Bedok CC</p>
     <hr />
-    <p style="margin-left: 10px;">Bedok Public Library</p>
+    <p style="margin-left: 10px;">Bedok Public Library (to be closed as of 31 Aug 2021) </p>
     <hr />
     <p style="margin-left: 10px;">Changi Simei CC</p>
     <hr />
@@ -45,7 +45,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Sengkang Public Library</p>
     <hr />
-    <p style="margin-left: 10px;">Tampines Regional Library</p>
+    <p style="margin-left: 10px;">Tampines Regional Library (to be closed as of 31 Aug 2021) </p>
     <hr style="border: 1px solid;" />
     </div>
     <p><strong>WEST</strong></p>
@@ -54,9 +54,9 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Bukit Batok CC</p>
     <hr />
-    <p style="margin-left: 10px;">Bukit Batok Public Library</p>
+    <p style="margin-left: 10px;">Bukit Batok Public Library (to be closed as of 31 Aug 2021) </p>
     <hr />
-    <p style="margin-left: 10px;">Bukit Panjang Public Library</p>
+    <p style="margin-left: 10px;">Bukit Panjang Public Library (to be closed as of 31 Aug 2021) </p>
     <hr />
     <p style="margin-left: 10px;">Clementi Public Library</p>
     <hr />
@@ -68,7 +68,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Keat Hong CC</p>
     <hr />
-    <p style="margin-left: 10px;">library@harbourfront</p>
+    <p style="margin-left: 10px;">library@harbourfront (to be closed as of 31 Aug) </p>
     <hr />
     <p style="margin-left: 10px;">Senja Cashew CC</p>
     <hr />
@@ -100,9 +100,9 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">library@Chinatown</p>
     <hr />
-    <p style="margin-left: 10px;">library@esplanade</p> 
+    <p style="margin-left: 10px;">library@esplanade (to be closed as of 31 Aug 2021) </p>
     <hr />
-    <p style="margin-left: 10px;">library@orchard</p> Kindly note SDO will cease operations from 1 July 2021 
+    <p style="margin-left: 10px;">library@orchard (to be closed as of 31 Aug 2021) </p>
     <hr />
     <p style="margin-left: 10px;">MacPherson CC</p>
     <hr />
@@ -112,7 +112,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Potong Pasir CC</p>
     <hr />
-    <p style="margin-left: 10px;">Queenstown Public Library</p>
+    <p style="margin-left: 10px;">Queenstown Public Library (to be closed as of 31 Aug 2021) </p>
     <hr />
     <p style="margin-left: 10px;">Radin Mas CC</p>
     <hr />
@@ -140,8 +140,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <p style="margin-left: 10px;">Sembawang Public Library</p>
     <hr />
     <p style="margin-left: 10px;">Teck Ghee CC</p>
-    <hr />
-    <p style="margin-left: 10px;">Woodlands CC</p>
     <hr />
     <p style="margin-left: 10px;">Woodlands Regional Library</p>
     <hr />
