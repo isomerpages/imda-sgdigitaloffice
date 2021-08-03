@@ -101,7 +101,7 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">library@Chinatown</p>
     <hr />
-    <p style="margin-left: 10px;">library@esplanade (to be closed as of 31 Aug 2021) </p>
+    <p style="margin-left: 10px;">library@esplanade </p>
     <hr />
     <p style="margin-left: 10px;">library@orchard (to be closed as of 31 Aug 2021) </p>
     <hr />
