@@ -21,13 +21,14 @@ For more information check out the table below:
 
 |Platform<br>| Promotion | Promo Period
 |---|---|---| 
-|[Bungkus](https://www.bungkus.sg/en/) |Reduced delivery fee to $3.99 (U.P$5.50)| 7 Aug 2021 - 31 Dec 2021
-|[Fei Siong Social Enterprise](https://feisionggroup.com.sg/) | Enjoy a can of free YEO when you walk in and order food/drinks at 29 participating hawker centres.|On National Day, 9 Aug 2021
-|[FMAS](https://www.yeos.com.sg/ndp2021/)|For every walk in order at eligible stalls, 1 Yeo’s bottle drink will be given out to patron as gift |On National Day, 9 Aug 2021
-|[Foodpanda](https://www.foodpanda.sg/contents/voucher.htm?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSo8qEzwgTBuu2_migEZtkQvqzDeVZe_M4lrEx2P2z1Fho3WWoQkyMBoC6zcQAvD_BwE)|Free delivery (U.P. up to $5) on all hawker orders with a minimum order value of $22| On National Day, 9 Aug 2021
-|[Grab](https://www.grab.com/sg/food/)|Free delivery (U.P. up to $5.60) for orders from NEA hawkers for with a minimum order of $15.| 6 Aug 2021 - 31 Aug 2021
+|[Bungkus](https://www.bungkus.sg/en/) |Discounted delivery fee to $3.99 (up $5.50) and enjoy an additional 5% off with a minimum spend of $56.
+| 7 Aug 2021 - 31 Dec 2021
+|[Fei Siong Social Enterprise](https://feisionggroup.com.sg/) | Enjoy a can of free Yeo's when you walk in and order food/drinks at 29 participating hawker centres.|Only on 9 Aug 2021
+|[FMAS](https://www.yeos.com.sg/ndp2021/)|For every walk in order at eligible stalls, enjoy a bottle free of Yeo’s | Only on 9 Aug 2021
+|[Foodpanda](https://www.foodpanda.sg/contents/voucher.htm?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSo8qEzwgTBuu2_migEZtkQvqzDeVZe_M4lrEx2P2z1Fho3WWoQkyMBoC6zcQAvD_BwE)|Free delivery (U.P. up to $5) on all hawker orders with a minimum order value of $22| Only on 9 Aug 2021
+|[Grab](https://www.grab.com/sg/food/)|Free delivery (up to $5.60) for orders from NEA hawkers with a minimum order value (excl delivery fee) of $1 | 1 Aug 2021 - 31 Aug 2021
 |[NTUC FoodFare Cooperative](https://www.foodfare.com.sg/) (Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|$0.50 Hot Kopi/Tea when patrons purchase any items from stalls from the hawker centre. Just show the receipt or item purchased to buy the drinks at $0.50.| 6 Aug 2021 - 13 Aug 2021
-|[WhyQ](https://www.whyq.sg/promotions)|Special promo “HAPPY56SG” that entitles customers to $5.60 off with min. order of $30  Markup and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 8 Aug - 31 Dec 2021
+|[WhyQ](https://www.whyq.sg/promotions)|Special promo “HAPPY56SG” that entitles customers to $5.60 off with min. order of $30  Markup and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 8 Aug 2021 - 31 Dec 2021
 
 <span class="spw-disclaimer">*While stocks last (Terms & Conditions apply).</span> 
 
