@@ -29,7 +29,7 @@ For more information check out the table below:
 |[NTUC FoodFare Cooperative](https://www.foodfare.com.sg/) (Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|$0.50 Hot Kopi/Tea when patrons purchase any items from stalls from the hawker centre. Just show the receipt or item purchased to buy the drinks at $0.50.| 6 Aug 2021 - 13 Aug 2021
 |[WhyQ](https://www.whyq.sg/promotions)|Special promo “HAPPY56SG” that entitles customers to $5.60 off with min. order of $30  Markup and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 8 Aug - 31 Dec 2021
 
-*While stocks last (Terms & Conditions apply)
+<span class="spw-disclaimer">*While stocks last (Terms & Conditions apply).</span> 
 
 ![image](/images/programmes/IMDA_MastheadBanners-INHawker-1500-x-500.jpg)
 
