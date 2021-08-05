@@ -19,7 +19,7 @@ Celebrate our nation's 56th birthday with your favourite hawker food!  Enjoy del
 
 For more information check out the table below: 
 
-|Platform<br>| Promotion | Promo Period
+|Platform<br>| Promotion* | Promo Period
 |---|---|---| 
 |[Bungkus](https://www.bungkus.sg/en/) |Enjoy discounted delivery fee at $3.99 (u.p $5.50) and an additional 5% off with a minimum spend of $56 | 7 Aug 2021 - 31 Dec 2021
 |[Fei Siong Social Enterprise](https://feisionggroup.com.sg/) |Enjoy a free can of Yeo's when you walk in and order food or drinks at 29 participating hawker centres | Only on 9 Aug 2021
