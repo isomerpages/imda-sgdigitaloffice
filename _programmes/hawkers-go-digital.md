@@ -12,23 +12,24 @@ permalink: /programmes/hawkers-go-digital/
 
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
+#### Let's Support Our Hawkers this National Day! 
+Check out these great promos to be used at various online delivery platforms, hawker centres & coffeeshops.
+
+|Platform<br>| Promotion | Promo Period
+|---|---|---| 
+|[Bungkus](https://www.bungkus.sg/en/) |Reduced delivery fee to $3.99 (U.P$5.50)| 7 Aug 2021 - 31 Dec 2021
+|[Fei Siong Social Enterprise](https://feisionggroup.com.sg/) | Enjoy a can of free YEO when you walk in and order food/drinks at 29 participating hawker centres.|On National Day, 9 Aug 2021
+|[FMAS](https://www.yeos.com.sg/ndp2021/)|For every walk in order at eligible stalls, 1 Yeo’s bottle drink will be given out to patron as gift |On National Day, 9 Aug 2021
+|[Foodpanda](https://www.foodpanda.sg/contents/voucher.htm?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSo8qEzwgTBuu2_migEZtkQvqzDeVZe_M4lrEx2P2z1Fho3WWoQkyMBoC6zcQAvD_BwE)|Free delivery (U.P. up to $5) on all hawker orders with a minimum order value of $22| On National Day, 9 Aug 2021
+|[Grab](https://www.grab.com/sg/food/)|Free delivery (U.P. up to $5.60) for orders from NEA hawkers for with a minimum order of $15.| 6 Aug 2021 - 31 Aug 2021
+|[NTUC FoodFare Cooperative](https://www.foodfare.com.sg/) (Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|$0.50 Hot Kopi/Tea when patrons purchase any items from stalls from the hawker centre. Just show the receipt or item purchased to buy the drinks at $0.50.| 6 Aug 2021 - 13 Aug 2021
+|[WhyQ](https://www.whyq.sg/promotions)|Special promo “HAPPY56SG” that entitles customers to $5.60 off with min. order of $30  Markup and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 8 Aug - 31 Dec 2021
+
 ![image](/images/programmes/IMDA_MastheadBanners-INHawker-1500-x-500.jpg)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/jjbwCsY6iZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### English
-#### Let's Support Our Hawkers this National Day! 
-Check out these great promos to be used at various online delivery platforms, hawker centres & coffeeshops.
-
-|Platform<br>| Description | Promo Date
-|---|---|---| 
-|Bungkus|Reduced delivery fee to $3.99 (U.P$5.50)| 7 Aug 2021 - 30 Sep 2021
-|Foodpanda|Free delivery (U.P. up to $5) on all hawker orders with a minimum order value of $22| On National Day, 9 Aug
-|Grab|Free delivery (U.P. up to $5.60) for orders from NEA hawkers for with a minimum order of $15.| 6 Aug 2021 - 31 Aug 2021
-|WhyQ|Special promo “HAPPY56SG” that entitles customers to $5.60 off with min. order of $30  Markup and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 8 Aug - 10 Aug 2021
-|NTUC FoodFare Cooperative (Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|$0.50 Hot Kopi/Tea when patrons purchase any items from stalls from the hawker centre. Just show the receipt or item purchased to buy the drinks at $0.50.| 6 Aug 2021 - 13 Aug 2021
-|Fei Siong Social Enterprise | Enjoy a can of free YEO when you walk in and order food/drinks at 30 participating hawker centres.|On National Day, 9 Aug 2021
-|FMAS (hawker centres)|For every walk in order at eligible stalls, 1 Yeo’s bottle drink will be given out to patron as gift |On National Day, 9 Aug
 
 #### Taking your business into the future
 NEA Hawker centres (including cooked food and market stalls), HDB coffee shops and JTC industrial canteens are an irreplaceable part of Singapore’s food culture—and always will be. 
