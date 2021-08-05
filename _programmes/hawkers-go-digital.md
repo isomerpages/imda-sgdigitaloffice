@@ -13,7 +13,11 @@ permalink: /programmes/hawkers-go-digital/
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
 #### Let's Support Our Hawkers this National Day! 
-Check out these great promos to be used at various online delivery platforms, hawker centres & coffeeshops.
+![Promo Masthead  (1)](https://user-images.githubusercontent.com/76726201/128286859-a1ffe21d-761d-4a23-9e44-c9c9973202eb.jpg)
+
+Celebrate our nation's 56th birthday with your favourite hawker food!  Enjoy delivery, drink and discount deals from participating partners of the SG Together Alliance for Action (AfA) to support our Hawkers. 
+
+For more information check out the table below: 
 
 |Platform<br>| Promotion | Promo Period
 |---|---|---| 
@@ -24,6 +28,8 @@ Check out these great promos to be used at various online delivery platforms, ha
 |[Grab](https://www.grab.com/sg/food/)|Free delivery (U.P. up to $5.60) for orders from NEA hawkers for with a minimum order of $15.| 6 Aug 2021 - 31 Aug 2021
 |[NTUC FoodFare Cooperative](https://www.foodfare.com.sg/) (Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|$0.50 Hot Kopi/Tea when patrons purchase any items from stalls from the hawker centre. Just show the receipt or item purchased to buy the drinks at $0.50.| 6 Aug 2021 - 13 Aug 2021
 |[WhyQ](https://www.whyq.sg/promotions)|Special promo “HAPPY56SG” that entitles customers to $5.60 off with min. order of $30  Markup and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 8 Aug - 31 Dec 2021
+
+*While stocks last (Terms & Conditions apply)
 
 ![image](/images/programmes/IMDA_MastheadBanners-INHawker-1500-x-500.jpg)
 
