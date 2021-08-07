@@ -28,7 +28,7 @@ For more information check out the table below:
 |[GrabFood](https://www.grab.com/sg/food/)|Free delivery (up to $5.60) for orders from NEA hawkers with a minimum order value (excl delivery fee) of $15 | 1 Aug 2021 to 31 Aug 2021
 | NTUC FoodFare Cooperative <br />(Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|Enjoy a cup of Hot Kopi/Tea at $0.50 when you purchase any items from any stalls at eligible hawker centre. Present the receipt or item purchased to redeem the offer.| 6 Aug 2021 to 13 Aug 2021
 |[WhyQ](https://www.whyq.sg/promotions)|Enjoy $5.60 off with minimum order of $30 using special promo code "HAPPY56SG" and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 6 Aug 2021 to 10 Aug 2021
-|[Yishun Park Hawker Centre](https://yishunparkhc.sg/happenings/)|Enjoy a free canned drink from the drinks stall operated by Timbre with every $5.60 spent (maximum of 2 combined same-day receipts, after discount)| Only on 9 Aug 2021
+|[Yishun Park Hawker Centre](https://yishunparkhc.sg/national-day-2021-free-drink-promotion/)|Enjoy a free canned drink from the drinks stall operated by Timbre with every $5.60 spent (maximum of 2 combined same-day receipts, after discount)| Only on 9 Aug 2021 (While stocks last)
 
 <span class="spw-disclaimer">*While stocks last (Terms & Conditions apply).</span> 
 
