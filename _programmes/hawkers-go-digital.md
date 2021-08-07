@@ -11,12 +11,32 @@ permalink: /programmes/hawkers-go-digital/
 #### Hawkers Go Digital / 摊贩数码化转型计划 / Program Transformasi Digital untuk Penjaja / உணவங்காடிக் கடைக்காரர்களுக்கான மின்னிலக்கமயமாதல் திட்டம் 
 
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
+###### English
+
+#### Let's Support Our Hawkers this National Day! 
+![0001](https://user-images.githubusercontent.com/76726189/128586013-087575d3-7c82-4839-85f3-95de4ef8ad9c.jpg)
+
+Celebrate our nation's 56th birthday with your favourite hawker food!  Enjoy free delivery, drinks, and discounts from our participating SG Together Alliance for Action (AfA) partners to support our Hawkers. 
+
+For more information check out the table below: 
+
+|Platform<br>| Promotion* | Promo Period
+|---|---|---| 
+|[Bungkus](https://www.bungkus.sg/en/) |Enjoy discounted delivery fee at $3.99 (up $5.50) and an additional 5% off with a minimum spend of $56 | 6 Aug 2021 to 30 Sep 2021
+|[Federation of Merchants' Associations, Singapore (FMAS)](https://www.yeos.com.sg/ndp2021/)|Enjoy a free Yeo's bottled drink when you walk in and order food at 29 participating hawker centres | From 7 Aug 2021 (While stocks last)
+|[Fei Siong Social Enterprise](https://www.yeos.com.sg/ndp2021/) |For every walk in order at eligible stalls, enjoy a free Yeo’s bottled drink | From 7 Aug 2021 (While stocks last)
+|[foodpanda](https://www.foodpanda.sg/contents/voucher.htm?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSo8qEzwgTBuu2_migEZtkQvqzDeVZe_M4lrEx2P2z1Fho3WWoQkyMBoC6zcQAvD_BwE)|Free delivery on all hawker orders with a minimum order value of $25| 6 Aug 2021 to 15 Aug 2021
+|[GrabFood](https://www.grab.com/sg/food/)|Free delivery (up to $5.60) for orders from NEA hawkers with a minimum order value (excl delivery fee) of $15 | 1 Aug 2021 to 31 Aug 2021
+| NTUC FoodFare Cooperative <br />(Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|Enjoy a cup of Hot Kopi/Tea at $0.50 when you purchase any items from any stalls at eligible hawker centre. Present the receipt or item purchased to redeem the offer.| 6 Aug 2021 to 13 Aug 2021
+|[WhyQ](https://www.whyq.sg/promotions)|Enjoy $5.60 off with minimum order of $30 using special promo code "HAPPY56SG" and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 6 Aug 2021 to 10 Aug 2021
+|[Yishun Park Hawker Centre](https://yishunparkhc.sg/national-day-2021-free-drink-promotion/)|Enjoy a free canned drink from the drinks stall operated by Timbre with every $5.60 spent (maximum of 2 combined same-day receipts, after discount)| Only on 9 Aug 2021 (While stocks last)
+
+<span class="spw-disclaimer">*While stocks last (Terms & Conditions apply).</span> 
 
 ![image](/images/programmes/IMDA_MastheadBanners-INHawker-1500-x-500.jpg)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/jjbwCsY6iZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###### English
 #### Taking your business into the future
 NEA Hawker centres (including cooked food and market stalls), HDB coffee shops and JTC industrial canteens are an irreplaceable part of Singapore’s food culture—and always will be. 
 
