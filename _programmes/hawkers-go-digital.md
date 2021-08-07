@@ -10,9 +10,9 @@ permalink: /programmes/hawkers-go-digital/
 
 #### Hawkers Go Digital / 摊贩数码化转型计划 / Program Transformasi Digital untuk Penjaja / உணவங்காடிக் கடைக்காரர்களுக்கான மின்னிலக்கமயமாதல் திட்டம் 
 
-###### English
-
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
+
+###### English
 
 #### Let's Support Our Hawkers this National Day! 
 ![0001](https://user-images.githubusercontent.com/76726189/128586013-087575d3-7c82-4839-85f3-95de4ef8ad9c.jpg)
