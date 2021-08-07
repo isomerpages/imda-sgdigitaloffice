@@ -13,9 +13,9 @@ permalink: /programmes/hawkers-go-digital/
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 
 #### Let's Support Our Hawkers this National Day! 
-![Promo Masthead  (1)](https://user-images.githubusercontent.com/76726201/128286859-a1ffe21d-761d-4a23-9e44-c9c9973202eb.jpg)
+![0001](https://user-images.githubusercontent.com/76726189/128586013-087575d3-7c82-4839-85f3-95de4ef8ad9c.jpg)
 
-Celebrate our nation's 56th birthday with your favourite hawker food!  Enjoy delivery, drink and discount deals from participating partners of the SG Together Alliance for Action (AfA) to support our Hawkers. 
+Celebrate our nation's 56th birthday with your favourite hawker food!  Enjoy free delivery, drinks, and discounts from our participating SG Together Alliance for Action (AfA) partners to support our Hawkers. 
 
 For more information check out the table below: 
 
@@ -27,7 +27,7 @@ For more information check out the table below:
 |[foodpanda](https://www.foodpanda.sg/contents/voucher.htm?gclid=CjwKCAjw9aiIBhA1EiwAJ_GTSo8qEzwgTBuu2_migEZtkQvqzDeVZe_M4lrEx2P2z1Fho3WWoQkyMBoC6zcQAvD_BwE)|Free delivery on all hawker orders with a minimum order value of $25| 6 Aug 2021 to 15 Aug 2021
 |[GrabFood](https://www.grab.com/sg/food/)|Free delivery (up to $5.60) for orders from NEA hawkers with a minimum order value (excl delivery fee) of $15 | 1 Aug 2021 to 31 Aug 2021
 | NTUC FoodFare Cooperative <br />(Our Tampines Hub, Pasir Ris Central, Kampung Admiralty, Bukit Panjang)|Enjoy a cup of Hot Kopi/Tea at $0.50 when you purchase any items from any stalls at eligible hawker centre. Present the receipt or item purchased to redeem the offer.| 6 Aug 2021 to 13 Aug 2021
-|[WhyQ](https://www.whyq.sg/promotions)|Enjoy $5.60 off with minimum order of $30 using special promo code "HAPPY56SG" and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 6 Aug 2021 to 31 Dec 2021
+|[WhyQ](https://www.whyq.sg/promotions)|Enjoy $5.60 off with minimum order of $30 using special promo code "HAPPY56SG" and customers also get 8% cashback (capped at $8) for purchases made using DBS/POSB card payment| 6 Aug 2021 to 10 Aug 2021
 |[Yishun Park Hawker Centre](https://yishunparkhc.sg/happenings/)|Enjoy a free canned drink from the drinks stall operated by Timbre with every $5.60 spent (maximum of 2 combined same-day receipts, after discount)| Only on 9 Aug 2021
 
 <span class="spw-disclaimer">*While stocks last (Terms & Conditions apply).</span> 
