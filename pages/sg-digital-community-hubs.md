@@ -14,7 +14,7 @@ permalink: /sg-digital-community-hubs/
 
 Our Digital Ambassadors will be located at selected Community Clubs/Centres and Public Libraries, ready to provide 1-to-1 guidance on a customised package tailored to equip you for a digital life.
 <br>
-##### SG Digital Community Hubs in CCs will be open daily from 10am - 6pm while SG Digital Community Hubs in libraries will be open daily from 1pm - 6pm.
+##### SG Digital Community Hubs in CCs will be open daily from 10am to 6pm while SG Digital Community Hubs in libraries will be open daily from 1pm to 6pm.
 
 <br>
 <div>
