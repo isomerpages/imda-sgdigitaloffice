@@ -54,8 +54,6 @@ Our Digital Ambassadors will be located at selected Community Clubs/Centres and 
     <hr />
     <p style="margin-left: 10px;">Jurong Regional Library</p>
     <hr />
-    <p style="margin-left: 10px;">Jurong Spring CC</p>
-    <hr />
     <p style="margin-left: 10px;">Jurong West Public Library</p>
     <hr />
     <p style="margin-left: 10px;">Keat Hong CC</p>
