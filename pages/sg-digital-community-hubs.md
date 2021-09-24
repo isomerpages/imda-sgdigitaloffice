@@ -5,7 +5,7 @@ image:
   path: /images/sg-digital-community-hubs/SG-Digital-Community-Hub.jpg
   height: 100
   width: 100
-permalink: /sg-digital-community-hubs/
+permalink: https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs/
 ---
 
 #### Singapore Digital Community Hubs / 新加坡数码转型社区援助站 / Hab masyarakat Digital Singapura / சிங்கப்பூர் மின்னிலக்க சமூக நடுவங்கள்
