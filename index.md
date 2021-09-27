@@ -24,8 +24,8 @@ sections:
             - title: Scan, Pay, Win
               description: 扫描，付款，赢奖 <br> IMBAS, BAYAR, MENANG <br> வருடி, செலுத்தி, வெல்க
               url: /programmes/scan-pay-win/
-    - infobar:
-        title: Infobar title
+    # - infobar:
+    #    title: Infobar title
      #   image: /images/SG_DIGITAL_OFFICE_LOGO.png
      #   subtitle: Subtitle
      #   description: About a sentence worth of description here
