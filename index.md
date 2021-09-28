@@ -4,7 +4,7 @@ title: SG Digital Office | 新加坡数码转型办事处 | Pejabat Digital SG |
 description: The Singapore Digital Office (SDO) drives our concerted nationwide movement to accelerate digital adoption in our community. To achieve this, SDO will work with like-minded members of the community, corporate entities and individuals to reach out to every citizen, worker and business, to equip them with the digital tools and skills to participate meaningfully in the evolving social and economic environment. Through this whole-of-nation movement, we will ensure every Singaporean has a place in our shared digital future.
 image: /images/SG_DIGITAL_OFFICE_LOGO.png
 permalink: /
-notification:In view of increasing COVID-19 positive cases in the community , SDO now offers the option of 1:1 or small group lessons virtual training at all our community hubs via Zoom, WhatsApp or over the telephone. [Click here for more information.](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs/)
+notification: In view of increasing COVID-19 positive cases in the community , SDO now offers the option of 1:1 or small group lessons virtual training at all our community hubs via Zoom, WhatsApp or over the telephone. [Click here for more information.](https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs/)
 sections:
     - hero:
        # title: SG Digital Office
