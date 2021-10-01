@@ -4,6 +4,8 @@ title: SG Digital Office | 新加坡数码转型办事处 | Pejabat Digital SG |
 description: The Singapore Digital Office (SDO) drives our concerted nationwide movement to accelerate digital adoption in our community. To achieve this, SDO will work with like-minded members of the community, corporate entities and individuals to reach out to every citizen, worker and business, to equip them with the digital tools and skills to participate meaningfully in the evolving social and economic environment. Through this whole-of-nation movement, we will ensure every Singaporean has a place in our shared digital future.
 image: /images/SG_DIGITAL_OFFICE_LOGO.png
 permalink: /
+notification:
+
 sections:
     - hero:
        # title: SG Digital Office
@@ -20,12 +22,9 @@ sections:
               url: /programmes/hawkers-go-digital/
             - title: Find your nearest SG Digital Community Hub here!
               description: 新加坡数码转型社区援助站 <br> Hab masyarakat Digital Singapura <br> சிங்கப்பூர் மின்னிலக்க சமூக நடுவங்கள்
-              url: https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs/
-            - title: Scan, Pay, Win
-              description: 扫描，付款，赢奖 <br> IMBAS, BAYAR, MENANG <br> வருடி, செலுத்தி, வெல்க
-              url: /programmes/scan-pay-win/
-   # - infobar:
-      #  title: Infobar title
+              url: https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs
+    # - infobar:
+    #    title: Infobar title
      #   image: /images/SG_DIGITAL_OFFICE_LOGO.png
      #   subtitle: Subtitle
      #   description: About a sentence worth of description here
