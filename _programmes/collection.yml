@@ -3,13 +3,3 @@ collections:
     output: true
     order:
       - hawkers-go-digital.md
-      - scan-pay-win/.keep
-      - scan-pay-win/scan-pay-win.md
-      - scan-pay-win/november-2020-winners.md
-      - scan-pay-win/december-2020-winners.md
-      - scan-pay-win/january-2021-winners.md
-      - scan-pay-win/february-2021-winners.md
-      - scan-pay-win/march-2021-winners.md
-      - scan-pay-win/april-2021-winners.md
-      - scan-pay-win/frequently-asked-questions.md
-      - scan-pay-win/terms-and-conditions.md
