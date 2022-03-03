@@ -10,7 +10,7 @@ sections:
     - hero:
        # title: SG Digital Office
        # subtitle: Hero subtitle
-        background: /images/homepage/SDO-Main-Banner.png
+        background: /images/D15095-IMDA - SDO Website.jpg
        # button: Contact Us
       #  url: /contact-us/
         key_highlights:
