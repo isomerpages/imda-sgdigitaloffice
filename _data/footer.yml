@@ -1,10 +1,6 @@
 contact_us: /contact-us/
 show_reach: false
-feedback: 
-#faq: /faq/
 social_media:
-    facebook: https://www.facebook.com/sgdigitaloffice
-    twitter: https://www.twitter.com/sgdigitaloffice
-  #  youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/sgdigitaloffice
-    linkedin: https://www.linkedin.com/company/sgdigitaloffice
+  facebook: https://www.facebook.com/sgdigitaloffice
+  instagram: https://www.instagram.com/sgdigitaloffice
+  linkedin: https://www.linkedin.com/company/sgdigitaloffice
