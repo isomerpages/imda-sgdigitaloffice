@@ -8,7 +8,7 @@ permalink: /
 notification: null
 sections:
   - hero:
-      background: /images/D15095-IMDA - SDO Website.jpg
+      background: /images/d15095-imda - sdo website.jpg
       key_highlights:
         - title: Seniors Go Digital
           description: 数码乐龄计划 <br> Gerakan Transformasi Digital untuk Warga Emas <br>
@@ -21,5 +21,5 @@ sections:
         - title: Find your nearest SG Digital Community Hub here!
           description: 新加坡数码转型社区援助站 <br> Hab masyarakat Digital Singapura <br> சிங்கப்பூர்
             மின்னிலக்க சமூக நடுவங்கள்
-          url: https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs
+          url: https://www.imda.gov.sg/en/seniorsgodigital/learn/guided-learning/sg-digital-community-hubs
 ---

@@ -1,4 +1,4 @@
-logo: /images/SG_DIGITAL_OFFICE_LOGO.png
+logo: /images/sg_digital_office_logo.png
 links:
   - title: About
     url: /about/
@@ -12,7 +12,7 @@ links:
       - title: Seniors Go Digital
         url: https://www.imda.gov.sg/seniorsgodigital/
   - title: SG Digital Community Hubs
-    url: https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/SG-Digital-Community-Hubs/
+    url: https://www.imda.gov.sg/en/seniorsgodigital/learn/guided-learning/sg-digital-community-hubs
   - title: Media Centre
     url: /media-centre/
   - title: Contact Us

@@ -2,7 +2,7 @@
 title: SG Digital Community Hubs
 description: Our Digital Ambassadors will be located at selected Community Clubs/Centres and Public Libraries, ready to provide 1-to-1 guidance on a customised package tailored to equip you for a digital life.
 image:
-  path: /images/sg-digital-community-hubs/SG-Digital-Community-Hub.jpg
+  path: /images/sg-digital-community-hubs/sg-digital-community-hub.jpg
   height: 100
   width: 100
 permalink: /https://www.imda.gov.sg/en/seniorsgodigital/learn/guided-learning/sg-digital-community-hubs/

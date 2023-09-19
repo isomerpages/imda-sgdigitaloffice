@@ -13,7 +13,7 @@ permalink: /programmes/hawkers-go-digital/
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
 ###### English
 
-![image](/images/programmes/D15095-IMDA-Hawkers.jpg)
+![image](/images/programmes/d15095-imda-hawkers.jpg)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/jjbwCsY6iZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -167,6 +167,6 @@ NEA உணவங்காடி நிலையங்கள் (சமைத்�
 <sup><a id="1-tm">1</a></sup> SGQR குறியீடுகள் நேரடித் தொடர்பில்லாத மின்-கட்டணமுறையைச் செயல்படுத்த விரைவுத் தகவல் (QR) குறியீடுகளைச் சார்ந்துள்ளன. <br>
 <sup><a id="2-tm">2</a></sup> பிரதிகள் தேவைப்படும். பதிவு செய்யும்போது அவை வைத்துக் கொள்ளப்படும். <br>
 
-![image](/images/programmes/D15095-IMDA-Hawkers.jpg)
+![image](/images/programmes/d15095-imda-hawkers.jpg)
 
 [English](#english) / [中文](#中文) / [Bahasa Melayu](#bahasa-melayu) / [தமிழ்](#தமிழ்)
