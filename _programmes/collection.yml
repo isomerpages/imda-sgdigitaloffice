@@ -1,0 +1,5 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - hawkers-go-digital.md

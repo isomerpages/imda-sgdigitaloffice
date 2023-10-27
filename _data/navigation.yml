@@ -1,0 +1,19 @@
+logo: /images/sg_digital_office_logo.png
+links:
+  - title: About
+    url: /about/
+  - title: Digital Ambassadors
+    url: /digital-ambassadors/
+  - title: Programmes
+    url: /programmes/hawkers-go-digital/
+    sublinks:
+      - title: Hawkers Go Digital
+        url: /programmes/hawkers-go-digital/
+      - title: Seniors Go Digital
+        url: https://www.imda.gov.sg/seniorsgodigital/
+  - title: SG Digital Community Hubs
+    url: https://www.imda.gov.sg/en/seniorsgodigital/learn/guided-learning/sg-digital-community-hubs
+  - title: Media Centre
+    url: /media-centre/
+  - title: Contact Us
+    url: /contact-us/
