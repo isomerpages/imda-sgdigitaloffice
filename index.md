@@ -5,7 +5,7 @@ title: SG Digital Office | 新加坡数码转型办事处 | Pejabat Digital SG |
 description: test test
 image: /images/isomer-logo.svg
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       background: /images/d15095-imda - sdo website.jpg
